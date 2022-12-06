@@ -101,7 +101,8 @@ const jsonFiles = [
     'json/helmets.json',
     'json/relics.json',
     'json/towns.json'
-]
+] // Insert your json data above
+
 
 // Wait a full three seconds with each call of getData.
 // This ensures that tables generate in the order they are listed in the array above.

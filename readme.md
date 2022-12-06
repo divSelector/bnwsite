@@ -4,14 +4,14 @@ This is the static page generator for [bnw.pages.dev](https://bnw.pages.dev).
 
 I'm going to go over every directory in the repo and walk you through adding an example table to the site.
 
-This is going to be a lot to take in with a lot of room for user error. Possibly we can working on reducing the number of manual steps in this process.
+This is going to be a lot to take in with a lot of room for user error. Possibly we can work on reducing the number of manual steps in this process.
 
 ## `csv2json/`
 
 This directory contains:
 
 - `csv2json/data_structures.py` - a module, where data structures are defined.
-- `csv2json/csv_to_json.py` - a python executable. Will take every csv file and generate json files inside of `
+- `csv2json/csv_to_json.py` - a python executable. Will take every csv file and generate json files inside of `generator/json/`
 - any number of csv files.
 
 ### Adding a new table via csv2json
@@ -30,7 +30,7 @@ Example:
 This is saved to `csv2json/dragon-locations.csv`
 
 ```
-name,location
+Dragons,Location
 Brown-D,Opera House
 Purple-D,Mount Zozo
 Blue-D,Ancient Castle
