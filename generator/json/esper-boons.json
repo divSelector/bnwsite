@@ -1,0 +1,601 @@
+[
+    {
+        "ESPER_NAME": "ESPER BOONS",
+        "CHARACTERS": "Can Equip",
+        "EL_BONUS": "EL",
+        "EQUIP_BONUS":  "Equip Bonus",
+        "SPELLS": "Spells"
+    },
+    {
+        "ESPER_NAME": "Ramuh",
+        "CHARACTERS": "Celes/Locke",
+        "EL_BONUS": "Vigor +2",
+        "EQUIP_BONUS":  "Halves Bolt Damage",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Bolt",
+                "SPELL_COST": 1
+            },
+            {
+                "SPELL_NAME": "Bolt 2",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Demi",
+                "SPELL_COST": 10
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Siren",
+        "CHARACTERS": "Celes/Edgar",
+        "EL_BONUS": "Mag+1 / Spd+1",
+        "EQUIP_BONUS":  "Blocks Mute/Muddle/Bserk",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Rasp",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Bserk",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Remedy",
+                "SPELL_COST": 15
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Ifrit",
+        "CHARACTERS": "Locke/Relm",
+        "EL_BONUS": "Speed +2",
+        "EQUIP_BONUS":  "Halves Fire Damage",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Fire",
+                "SPELL_COST": 1
+            },
+            {
+                "SPELL_NAME": "Fire 2",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Drain",
+                "SPELL_COST": 10
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Unicorn",
+        "CHARACTERS": "Terra/Edgar",
+        "EL_BONUS": "HP+30 / Stam+1",
+        "EQUIP_BONUS":  "Vigor +5",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Scan",
+                "SPELL_COST": 5
+            },
+            {
+                "SPELL_NAME": "Cure 2",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Remedy",
+                "SPELL_COST": 15
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Shoat",
+        "CHARACTERS": "Setzer/Mog",
+        "EL_BONUS": "Magic +2",
+        "EQUIP_BONUS":  "Stamina +5",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Sap",
+                "SPELL_COST": 5
+            },
+            {
+                "SPELL_NAME": "Poison",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Doom",
+                "SPELL_COST": 15
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Carbunkl",
+        "CHARACTERS": "Terra/Strago",
+        "EL_BONUS": "MP+25 / Stam+1",
+        "EQUIP_BONUS":  "Auto-Regen",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Stop",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Rflect",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Shell",
+                "SPELL_COST": 15
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Golem",
+        "CHARACTERS": "Edgar/Sabin",
+        "EL_BONUS": "Vgr+1 / HP+20",
+        "EQUIP_BONUS":  "Defense + 10",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Slow",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Safe",
+                "SPELL_COST": 15
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Seraph",
+        "CHARACTERS": "Celes/Setzer",
+        "EL_BONUS": "HP+30 / MP+15",
+        "EQUIP_BONUS":  "Blocks Sleep/Petrify/Death",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Regen",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Cure 2",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Rerise",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Fenrir",
+        "CHARACTERS": "Gau/Shadow",
+        "EL_BONUS": "Speed +2",
+        "EQUIP_BONUS":  "Evade +10",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Regen",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Warp",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "HasteX",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Terrato",
+        "CHARACTERS": "Sabin/Mog",
+        "EL_BONUS": "HP +60",
+        "EQUIP_BONUS":  "Halves Earth Damage",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Drain",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Quake",
+                "SPELL_COST": 20
+            },
+            {
+                "SPELL_NAME": "SleepX",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Crusader",
+        "CHARACTERS": "Celes/Cyan",
+        "EL_BONUS": "HP +60",
+        "EQUIP_BONUS":  "Auto-Rflect",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Demi",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Quartr",
+                "SPELL_COST": 20
+            },
+            {
+                "SPELL_NAME": "Merton",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Odin",
+        "CHARACTERS": "Strago",
+        "EL_BONUS": "Stamina +2",
+        "EQUIP_BONUS":  "Speed +5",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Dark",
+                "SPELL_COST": 20
+            },
+            {
+                "SPELL_NAME": "X-Zone",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Alexandr",
+        "CHARACTERS": "Celes",
+        "EL_BONUS": "Spd+1 / Stam+1",
+        "EQUIP_BONUS":  "Physical Damage +25%",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Holy",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Kirin",
+        "CHARACTERS": "Locke/Cyan",
+        "EL_BONUS": "HP+30 / Stam+1",
+        "EQUIP_BONUS":  "Magic +5",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Cure",
+                "SPELL_COST": 1
+            },
+            {
+                "SPELL_NAME": "Cure 2",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Life",
+                "SPELL_COST": 10
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Stray",
+        "CHARACTERS": "Sabin/Gau",
+        "EL_BONUS": "Stamina +2",
+        "EQUIP_BONUS":  "Blocks Blind/Poison/Imp",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Imp",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Sleep",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Float",
+                "SPELL_COST": 10
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Shiva",
+        "CHARACTERS": "Celes/Strago",
+        "EL_BONUS": "Magic +2",
+        "EQUIP_BONUS":  "Halves Ice Damage",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Ice",
+                "SPELL_COST": 1
+            },
+            {
+                "SPELL_NAME": "Ice 2",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Slow",
+                "SPELL_COST": 10
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Maduin",
+        "CHARACTERS": "Terra/Mog",
+        "EL_BONUS": "Mag+1 / Stam+1",
+        "EQUIP_BONUS":  "Halves Wind Damage",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Mute",
+                "SPELL_COST": 5
+            },
+            {
+                "SPELL_NAME": "Muddle",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Break",
+                "SPELL_COST": 10
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Phantom",
+        "CHARACTERS": "Celes/Shadow",
+        "EL_BONUS": "Vgr+1 / Stam+1",
+        "EQUIP_BONUS":  "M. Evade +10",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Dispel",
+                "SPELL_COST": 5
+            },
+            {
+                "SPELL_NAME": "Float",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Haste",
+                "SPELL_COST": 15
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Bismark",
+        "CHARACTERS": "Terra/Cyan",
+        "EL_BONUS": "Vigor +2",
+        "EQUIP_BONUS":  "Halves Water Damage",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Storm",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Regen",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Life",
+                "SPELL_COST": 10
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Zoneseek",
+        "CHARACTERS": "Strago/Relm",
+        "EL_BONUS": "Mag+1 / MP+20",
+        "EQUIP_BONUS":  "M. Defense +10",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Warp",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Osmose",
+                "SPELL_COST": 20
+            }
+        ]
+    },
+        {
+        "ESPER_NAME": "Palidor",
+        "CHARACTERS": "Edgar/Mog",
+        "EL_BONUS": "Vgr+1 / Spd+1",
+        "EQUIP_BONUS":  "Auto-Haste",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Float",
+                "SPELL_COST": 10
+            },
+            {
+                "SPELL_NAME": "Haste",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "SlowX",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Tritoch",
+        "CHARACTERS": "Terra",
+        "EL_BONUS": "Stamina +2",
+        "EQUIP_BONUS":  "Auto-Shell",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Fire 3",
+                "SPELL_COST": 20
+            },
+            {
+                "SPELL_NAME": "Ice 3",
+                "SPELL_COST": 20
+            },
+            {
+                "SPELL_NAME": "Bolt 3",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Starlet",
+        "CHARACTERS": "Setzer/Relm",
+        "EL_BONUS": "Stamina +2",
+        "EQUIP_BONUS":  "MP +25%",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Remedy",
+                "SPELL_COST": 15
+            },
+            {
+                "SPELL_NAME": "Cure 3",
+                "SPELL_COST": 20
+            },
+            {
+                "SPELL_NAME": "RegenX",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Phoenix",
+        "CHARACTERS": "Terra/Locke",
+        "EL_BONUS": "HP+30 / MP+15",
+        "EQUIP_BONUS":  "HP +25%",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Fire 3",
+                "SPELL_COST": 20
+            },
+            {
+                "SPELL_NAME": "Cure 3",
+                "SPELL_COST": 20
+            },
+            {
+                "SPELL_NAME": "Life 2",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Bahamut",
+        "CHARACTERS": "Relm",
+        "EL_BONUS": "MP +40",
+        "EQUIP_BONUS":  "Auto-Safe",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Meteor",
+                "SPELL_COST": 20
+            },
+            {
+                "SPELL_NAME": "Flare",
+                "SPELL_COST": 25
+            }
+        ]
+    },
+    {
+        "ESPER_NAME": "Ragnarok",
+        "CHARACTERS": "Terra",
+        "EL_BONUS": "MP+40",
+        "EQUIP_BONUS":  "Magical Damage +25%",
+        "SPELLS": [
+            {
+                "SPELL_NAME": "",
+                "SPELL_COST": "SP"
+            },
+            {
+                "SPELL_NAME": "Ultima",
+                "SPELL_COST": 30
+            }
+        ]
+    }
+]

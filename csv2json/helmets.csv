@@ -1,0 +1,22 @@
+Helmet,Value,Def,M.Def,Evade,M.Evade,Stat Boost(s),Equip,Description...
+Leather Hat,100,15,10,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Initial: Terra Edgar Cyan
+Hair Band,150,5,15,-,10,Mag +2,Terra Celes Relm,Initial: Celes
+Bandana,200,5,10,10,-,Vgr +2 / Spd +2,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Initial: Locke Setzer Relm Locke Setzer Shadow Mog
+Iron Helm,500,30,20,-,-,Spd -2,Terra Celes Cyan Edgar Locke Shadow Setzer Mog,-
+Green Beret,1000,10,10,10,10,Stam +3,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,HP/MP+12.5%
+Mythril Helm,2000,30,20,-,-,-,Terra Celes Cyan Edgar,-
+Tiger Mask,3000,5,15,20,-,Vgr +5 / Spd +3,Sabin Gau,Halves Fire damage
+Gold Helm,4500,30,25,-,-,Spd -2,Terra Celes Cyan Edgar Setzer Mog,Halves Water damage
+Mystery Veil,5000,5,25,10,-,Mag +3 / Vgr +2,Terra Celes,Sword spellcast rate up
+Magus Hat,6000,5,35,-,10,Mag +3 / Stam +2 / Vgr +5 / Spd +5,Terra Celes Strago Mog Gogo,MP+25%
+Ninja Mask,-,10,25,10,10,Mag +3 / Stam +2 / Vgr +5 / Spd +5,Locke Shadow,May counter-attack
+Diamond Helm,7500,35,30,-,-,Spd -2,Terra Celes Cyan,Halves Bolt damage
+Crystal Helm,15000,40,35,-,-,Spd -2,Edgar Setzer Mog,Halves Wind damage
+Dark Hood,10000,10,25,20,-,Spd +5,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,-
+Oath Veil,20000,10,35,-,10,Mag +5 / Vgr +3,Terra Celes,Sword spellcast rate up
+Circlet,25000,10,45,10,-,Mag +5 / Stam +3,Terra Celes Strago Mog Gogo,MP+50%
+Red Cap,-,15,15,10,10,Stam +5,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,HP/MP+25%
+Genji Helm,-,40,20,10,-,Vgr +5 / Stam +3,Terra Celes Cyan Edgar Locke Shadow Setzer Mog,-
+Dragon Helm,-,20,40,-,10,Vgr +5 / Mag +3,Edgar Mog Gogo,Jump randomly hits 2x
+Cat Hood,-,10,30,10,10,Mag +5 / Spd +5,Gau Relm,-
+Skull Cap,-,30,30,-,-,Stam +7,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo Umaro,-

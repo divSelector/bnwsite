@@ -1,0 +1,240 @@
+[
+    {
+        "ACTION_NAME": "BLACK MAGIC",
+        "MP": "MP Cost",
+        "TARGETING": "Targeting",
+        "POWER":  "Power",
+        "EVADE": "Evade",
+        "DAMAGE": "Damage Type",
+        "DESCRIPTION": "Description"
+    },
+
+    {
+        "ACTION_NAME": "•Fire",
+        "MP": 4,
+        "TARGETING": "Free",
+        "POWER":  27,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Fire",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Fire 2",
+        "MP": 16,
+        "TARGETING": "Free",
+        "POWER":  54,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Fire",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Fire 3",
+        "MP": 48,
+        "TARGETING": "Free",
+        "POWER":  108,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Fire",
+        "DESCRIPTION": ""
+    },
+
+    {
+        "ACTION_NAME": "•Ice",
+        "MP": 5,
+        "TARGETING": "Free",
+        "POWER":  30,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Ice",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Ice 2",
+        "MP": 20,
+        "TARGETING": "Free",
+        "POWER":  60,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Ice",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Ice 3",
+        "MP": 60,
+        "TARGETING": "Free",
+        "POWER":  120,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Ice",
+        "DESCRIPTION": ""
+    },
+
+    {
+        "ACTION_NAME": "•Bolt",
+        "MP": 6,
+        "TARGETING": "Free",
+        "POWER":  33,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Bolt",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Bolt 2",
+        "MP": 24,
+        "TARGETING": "Free",
+        "POWER":  66,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Bolt",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Bolt 3",
+        "MP": 72,
+        "TARGETING": "Free",
+        "POWER":  132,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Bolt",
+        "DESCRIPTION": ""
+    },
+
+    {
+        "ACTION_NAME": "•Sap",
+        "MP": 6,
+        "TARGETING": "Single",
+        "POWER":  30,
+        "EVADE": "-",
+        "DAMAGE": "Dark",
+        "DESCRIPTION": "Sets Sap (periodic damage, cancels Regen)"
+    },
+    {
+        "ACTION_NAME": "•Poison",
+        "MP": 18,
+        "TARGETING": "Free",
+        "POWER":  60,
+        "EVADE": "-",
+        "DAMAGE": "Dark",
+        "DESCRIPTION": "Sets Poison (rising periodic damage)"
+    },
+    {
+        "ACTION_NAME": "•Break",
+        "MP": 36,
+        "TARGETING": "Single",
+        "POWER":  40,
+        "EVADE": "-",
+        "DAMAGE": "Wind",
+        "DESCRIPTION": "Ignores defense"
+    },
+    {
+        "ACTION_NAME": "•Storm",
+        "MP": 24,
+        "TARGETING": "All foes",
+        "POWER": 45,
+        "EVADE": "-",
+        "DAMAGE": "Water/Wind",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Quake",
+        "MP": 48,
+        "TARGETING": "All",
+        "POWER": 50,
+        "EVADE": "",
+        "DAMAGE": "Earth",
+        "DESCRIPTION": "Ignores defense, ground attack"
+    },
+    {
+        "ACTION_NAME": "•Demi",
+        "MP": 9,
+        "TARGETING": "Single",
+        "POWER": "-",
+        "EVADE": "Stam",
+        "DAMAGE": "Earth",
+        "DESCRIPTION": "Damage = (HP * 1/2)"
+    },
+    {
+        "ACTION_NAME": "•Quartr",
+        "MP": 36,
+        "TARGETING": "Foe Group",
+        "POWER": "-",
+        "EVADE": "Stam",
+        "DAMAGE": "Earth",
+        "DESCRIPTION": "Damage = (HP * 3/4)"
+    },
+    {
+        "ACTION_NAME": "•Doom",
+        "MP": 25,
+        "TARGETING": "Single",
+        "POWER": "-",
+        "EVADE": "Stam",
+        "DAMAGE": "Instant death",
+        "DESCRIPTION": "Ineffective on undead"
+    },
+    {
+        "ACTION_NAME": "•X-Zone",
+        "MP": 50,
+        "TARGETING": "Foe Group",
+        "POWER": "-",
+        "EVADE": "Stam",
+        "DAMAGE": "Instant death",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Drain",
+        "MP": 10,
+        "TARGETING": "Single",
+        "POWER": 100,
+        "EVADE": "*",
+        "DAMAGE": "Steals HP",
+        "DESCRIPTION": "* Hit Rate = 90%"
+    },
+    {
+        "ACTION_NAME": "•Dark",
+        "MP": 45,
+        "TARGETING": "Single",
+        "POWER": 90,
+        "EVADE": "-",
+        "DAMAGE": "Dark",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Holy",
+        "MP": 45,
+        "TARGETING": "Single",
+        "POWER": 48,
+        "EVADE": "-",
+        "DAMAGE": "Holy",
+        "DESCRIPTION": "Ignores defense"
+    },
+    {
+        "ACTION_NAME": "•Flare",
+        "MP": 50,
+        "TARGETING": "Single",
+        "POWER": 60,
+        "EVADE": "-",
+        "DAMAGE": "Non-elemental",
+        "DESCRIPTION": "Ignores defense"
+    },
+    {
+        "ACTION_NAME": "•Meteor",
+        "MP": 64,
+        "TARGETING": "All Foes",
+        "POWER": 90,
+        "EVADE": "-",
+        "DAMAGE": "Non-elemental",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Merton",
+        "MP": 80,
+        "TARGETING": "All",
+        "POWER": 120,
+        "EVADE": "-",
+        "DAMAGE": "Fire/Dark",
+        "DESCRIPTION": ""
+    },
+    {
+        "ACTION_NAME": "•Ultima",
+        "MP": 99,
+        "TARGETING": "All Foes",
+        "POWER": 60,
+        "EVADE": "-",
+        "DAMAGE": "Non-elemental",
+        "DESCRIPTION": "Ignores defense"
+    }
+]

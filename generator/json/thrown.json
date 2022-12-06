@@ -1,0 +1,39 @@
+[
+    {
+        "ACTION_NAME": "THROWN",
+        "VALUE": "Value",
+        "TARGETING": "Targeting",
+        "POWER":  "Power",
+        "DESCRIPTION": "Description"
+    },
+    {
+        "ACTION_NAME": "Shuriken",
+        "VALUE": 250,
+        "TARGETING": "Free",
+        "POWER":  90,
+        "DESCRIPTION": "Throwing stars knives are critical physical attacks that ignore defense/row"
+    },
+    {
+
+        "ACTION_NAME": "Ninja Star",
+        "VALUE": "-",
+        "TARGETING": "Free",
+        "POWER":  255,
+        "DESCRIPTION": "Throwing stars knives are critical physical attacks that ignore defense/row"
+    },
+    {
+        "ACTION_NAME": "Ninja Scroll",
+        "VALUE": 500,
+        "TARGETING": "All Foes",
+        "POWER":  100,
+        "DESCRIPTION": "Three types: Fire, Bolt, or Water damage *(1/2 damage on multi-target)"
+    },
+    {
+        "ACTION_NAME": "Smoke Bomb",
+        "VALUE": 100,
+        "TARGETING": "One Ally",
+        "POWER":  "-",
+        "DESCRIPTION": "Sets Image"
+    }
+]
+

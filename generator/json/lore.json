@@ -1,0 +1,121 @@
+[
+    {
+        "ACTION_NAME": "LORE",
+        "MP": "MP Cost",
+        "TARGETING": "Targeting",
+        "POWER":  "Power",
+        "EVADE": "Evade",
+        "DAMAGE": "Damage Type",
+        "DESCRIPTION": "Description"
+    },
+
+    {
+        "ACTION_NAME": "Aqualung",
+        "MP": 18,
+        "TARGETING": "All Foes",
+        "POWER":  36,
+        "EVADE": "-",
+        "DAMAGE": "Water",
+        "DESCRIPTION": "-"
+    },
+    {
+        "ACTION_NAME": "Bad Breath",
+        "MP": 16,
+        "TARGETING": "Foe Group",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Poison/Blind/Mute"
+    },
+    {
+        "ACTION_NAME": "Black Omen",
+        "MP": 72,
+        "TARGETING": "All Foes",
+        "POWER":  48,
+        "EVADE": "-",
+        "DAMAGE": "Non-elemental",
+        "DESCRIPTION": "Ignores defense"
+    },
+    {
+        "ACTION_NAME": "Blaze",
+        "MP": 12,
+        "TARGETING": "Free",
+        "POWER":  42,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Fire/Wind",
+        "DESCRIPTION": "May set Blind/Sap"
+    },
+    {
+        "ACTION_NAME": "Blow Fish",
+        "MP": "-",
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Damage = 1000"
+    },
+    {
+        "ACTION_NAME": "Discord",
+        "MP": 5,
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Muddle/Bserk, unreflectable"
+    },
+    {
+        "ACTION_NAME": "Holy Wind",
+        "MP": 30,
+        "TARGETING": "Party",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "Cures HP",
+        "DESCRIPTION": "Amount healed = caster's (current) HP"
+    },
+    {
+        "ACTION_NAME": "Raid",
+        "MP": 15,
+        "TARGETING": "One Foe",
+        "POWER":  25,
+        "EVADE": "Stam",
+        "DAMAGE": "Steals HP/MP",
+        "DESCRIPTION": "Ignores defense, unreflectable"
+    },
+    {
+        "ACTION_NAME": "Raze",
+        "MP": 36,
+        "TARGETING": "One Foe",
+        "POWER":  75,
+        "EVADE": "M. Eva.",
+        "DAMAGE": "Fire/Wind",
+        "DESCRIPTION": "May set Sap"
+    },
+
+    {
+        "ACTION_NAME": "Refract",
+        "MP": 24,
+        "TARGETING": "One Ally",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Image/Rflect, unreflectable"
+    },
+    {
+        "ACTION_NAME": "Shield",
+        "MP": 48,
+        "TARGETING": "Party",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Safe"
+    },
+    {
+        "ACTION_NAME": "Tsunami",
+        "MP": 64,
+        "TARGETING": "All Foes",
+        "POWER":  72,
+        "EVADE": "-",
+        "DAMAGE": "Water",
+        "DESCRIPTION": "-"
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Rage",
+        "attack_bonus": "Attack Bonus",
+        "two_third_odds": "2/3 Odds",
+        "one_third_odss": "1/3_Odds"
+    },
+    {
+        "name": "Adamantite",
+        "attack_bonus": "2x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Holy Wind"
+    },
+    {
+        "name": "Albatross",
+        "attack_bonus": "2x",
+        "two_third_odds": "Fireball",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Anemone",
+        "attack_bonus": "Sets Poison",
+        "two_third_odds": "Discharge",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Antlion",
+        "attack_bonus": "Sets Stop (no dmg)",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Snare"
+    },
+    {
+        "name": "Behemoth",
+        "attack_bonus": "2x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Meteo"
+    },
+    {
+        "name": "Belladonna",
+        "attack_bonus": "-",
+        "two_third_odds": "Moonlight",
+        "one_third_odss": "Raid"
+    },
+    {
+        "name": "Bomb",
+        "attack_bonus": "-",
+        "two_third_odds": "Exploder",
+        "one_third_odss": "-"
+    },
+    {
+        "name": "Brainpan",
+        "attack_bonus": "-",
+        "two_third_odds": "Blow Fish",
+        "one_third_odss": "\u2022Rerise"
+    },
+    {
+        "name": "Buffalax",
+        "attack_bonus": "3x",
+        "two_third_odds": "Landslide",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Cephalid",
+        "attack_bonus": "Sets Slow",
+        "two_third_odds": "Tentacle",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Chickenlip",
+        "attack_bonus": "Sets Muddle",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Net"
+    },
+    {
+        "name": "Chimera",
+        "attack_bonus": "-",
+        "two_third_odds": "Aqualung",
+        "one_third_odss": "Fireball"
+    },
+    {
+        "name": "Conjurer",
+        "attack_bonus": "Sets Sap",
+        "two_third_odds": "\u2022Rerise",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Crawler",
+        "attack_bonus": "Steals HP",
+        "two_third_odds": "Magnitude",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Doggo",
+        "attack_bonus": "3x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Step Mine"
+    },
+    {
+        "name": "Exocite",
+        "attack_bonus": "2x",
+        "two_third_odds": "Rock",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Eye Goo",
+        "attack_bonus": "-",
+        "two_third_odds": "Lode Stone",
+        "one_third_odss": "Glare"
+    },
+    {
+        "name": "Flan",
+        "attack_bonus": "-",
+        "two_third_odds": "\u2022Life",
+        "one_third_odss": "\u2022SlowX"
+    },
+    {
+        "name": "Gargoyle",
+        "attack_bonus": "-",
+        "two_third_odds": "Sun Bath",
+        "one_third_odss": "Quake"
+    },
+    {
+        "name": "Griffin",
+        "attack_bonus": "-",
+        "two_third_odds": "Giga Volt",
+        "one_third_odss": "Air Blast"
+    },
+    {
+        "name": "Grizzly",
+        "attack_bonus": "3x",
+        "two_third_odds": "Cave In",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Hornet",
+        "attack_bonus": "3x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Blink"
+    },
+    {
+        "name": "Io",
+        "attack_bonus": "-",
+        "two_third_odds": "Atomic Ray",
+        "one_third_odss": "Diffuser"
+    },
+    {
+        "name": "Jinn",
+        "attack_bonus": "Sets Mute",
+        "two_third_odds": "Discord",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Kudzu",
+        "attack_bonus": "-",
+        "two_third_odds": "Raid",
+        "one_third_odss": "\u2022RegenX"
+    },
+    {
+        "name": "Leafer",
+        "attack_bonus": "-",
+        "two_third_odds": "Wind Slash",
+        "one_third_odss": "Air Blast"
+    },
+    {
+        "name": "Lich",
+        "attack_bonus": "-",
+        "two_third_odds": "\u2022Rasp",
+        "one_third_odss": "Elf Fire"
+    },
+    {
+        "name": "Locust",
+        "attack_bonus": "-",
+        "two_third_odds": "Gale Cut",
+        "one_third_odss": "Mirage"
+    },
+    {
+        "name": "Magic Pot",
+        "attack_bonus": "4x",
+        "two_third_odds": "\u2022Cure",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Mantodea",
+        "attack_bonus": "Sets Sap",
+        "two_third_odds": "Shrapnel",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Marlboro",
+        "attack_bonus": "-",
+        "two_third_odds": "Bio Blast",
+        "one_third_odss": "Bad Breath"
+    },
+    {
+        "name": "Mesosaur",
+        "attack_bonus": "-",
+        "two_third_odds": "Holy Wind",
+        "one_third_odss": "Magnitude"
+    },
+    {
+        "name": "Nastidon",
+        "attack_bonus": "-",
+        "two_third_odds": "Snowball",
+        "one_third_odss": "Absolute 0"
+    },
+    {
+        "name": "Ninja",
+        "attack_bonus": "-",
+        "two_third_odds": "Wave Scroll",
+        "one_third_odss": "Vanish"
+    },
+    {
+        "name": "Onion Kid",
+        "attack_bonus": "Sets Bserk",
+        "two_third_odds": "Brown Note",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Osteosaur",
+        "attack_bonus": "Sets Petrify (no dmg)",
+        "two_third_odds": "\u2022Doom",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Rain Man",
+        "attack_bonus": "-",
+        "two_third_odds": "Acid Rain",
+        "one_third_odss": "\u2022Bolt 2"
+    },
+    {
+        "name": "Raven",
+        "attack_bonus": "Sets Sleep",
+        "two_third_odds": "\u2022Break",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Repo Man",
+        "attack_bonus": "-",
+        "two_third_odds": "Step Mine",
+        "one_third_odss": "Vanish"
+    },
+    {
+        "name": "Revenant",
+        "attack_bonus": "-",
+        "two_third_odds": "\u2022Holy",
+        "one_third_odss": "Blaze"
+    },
+    {
+        "name": "Rhydon",
+        "attack_bonus": "2x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Sun Bath"
+    },
+    {
+        "name": "Rocky",
+        "attack_bonus": "-",
+        "two_third_odds": "Harvester",
+        "one_third_odss": "Rock"
+    },
+    {
+        "name": "Sand Ray",
+        "attack_bonus": "2x",
+        "two_third_odds": "Sand Storm",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Scarab",
+        "attack_bonus": "-",
+        "two_third_odds": "Starlight",
+        "one_third_odss": "Mega Volt"
+    },
+    {
+        "name": "Scrapper",
+        "attack_bonus": "2x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Chakra"
+    },
+    {
+        "name": "Sewer Rat",
+        "attack_bonus": "Sets Poison",
+        "two_third_odds": "\u2022Poison",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Shokan",
+        "attack_bonus": "-",
+        "two_third_odds": "\u2022Dark",
+        "one_third_odss": "Raze"
+    },
+    {
+        "name": "Soldier",
+        "attack_bonus": "2x",
+        "two_third_odds": "\u2022Cure 2",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Spirit",
+        "attack_bonus": "-",
+        "two_third_odds": "\u2022Demi",
+        "one_third_odss": "\u2022Quartr"
+    },
+    {
+        "name": "Stray Cat",
+        "attack_bonus": "3x",
+        "two_third_odds": "Snowball",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Tek Armor",
+        "attack_bonus": "2x",
+        "two_third_odds": "Barrier",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Templar",
+        "attack_bonus": "3x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "\u2022Remedy"
+    },
+    {
+        "name": "Titan",
+        "attack_bonus": "3x",
+        "two_third_odds": "Avalanche",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Troll",
+        "attack_bonus": "3x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Refract"
+    },
+    {
+        "name": "Tumbleweed",
+        "attack_bonus": "Steals HP",
+        "two_third_odds": "\u2022Cure 3",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Tyrano",
+        "attack_bonus": "3x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "Firestorm"
+    },
+    {
+        "name": "Vagrant",
+        "attack_bonus": "2x",
+        "two_third_odds": "Flash Rain",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Vaporite",
+        "attack_bonus": "Sets Blind (no dmg)",
+        "two_third_odds": "Plasma",
+        "one_third_odss": "(Attack)"
+    },
+    {
+        "name": "Vulture",
+        "attack_bonus": "-",
+        "two_third_odds": "Razor Leaf",
+        "one_third_odss": "Harvester"
+    },
+    {
+        "name": "Weedula",
+        "attack_bonus": "-",
+        "two_third_odds": "\u2022Quake",
+        "one_third_odss": "Razor Leaf"
+    },
+    {
+        "name": "Werewolf",
+        "attack_bonus": "3x",
+        "two_third_odds": "(Attack)",
+        "one_third_odss": "\u2022Regen"
+    },
+    {
+        "name": "Windrunner",
+        "attack_bonus": "-",
+        "two_third_odds": "Aero",
+        "one_third_odss": "Blight"
+    },
+    {
+        "name": "Witch",
+        "attack_bonus": "-",
+        "two_third_odds": "Refract",
+        "one_third_odss": "\u2022Fire 3"
+    },
+    {
+        "name": "Zombone",
+        "attack_bonus": "Sets Zombie (no dmg)",
+        "two_third_odds": "Cave In",
+        "one_third_odss": "(Attack)"
+    }
+]

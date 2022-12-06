@@ -1,0 +1,29 @@
+Armor,Value,Def,M.Def,Evade,M.Evade,Stat Boost(s),Equip,Description...
+Hard Leather,300,30,25,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Initial: Terra Locke Edgar Cyan
+Karate Gi,400,25,20,10,-,Vgr +2 / Spd +2,Locke Sabin Gau Shadow,Initial: Sabin Shadow
+Cotton Robe,500,20,30,-,10,Mag +2 / Stam +2,Terra Celes Sabin Strago Mog,Initial: Strago
+Iron Armor,1000,45,30,-,-,Spd-3,Terra Celes Cyan Edgar,-
+Mythril Vest,1500,40,25,10,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Initial: Setzer
+Ninja Gear,2500,30,20,20,-,Vgr +3 / Spd +3,Locke Sabin Gau Shadow,-
+White Dress,3000,20,40,-,20,Mag +5,Terra Celes Relm,-
+Mythril Mail,4500,50,35,-,-,Spd-2,Terra Celes Cyan Edgar Locke Setzer Shadow Mog,-
+Gaia Gear,5000,35,30,20,-,Vgr +3 / Stam +5,Locke Sabin Gau Shadow Mog,Halves Earth damage
+Power Armor,7500,40,25,-,-,Vgr +5 / Stam +3 / Spd-3,Terra Celes Cyan Edgar Setzer Mog,-
+Gold Armor,9000,55,40,-,-,Vgr +5 / Stam +3 / Spd-3,Terra Celes Cyan Edgar Setzer Mog,Halves Water damage
+Diamond Vest,10000,55,35,10,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Halves Bolt damage
+Diamond Mail,15000,65,45,-,-,Spd-3,Terra Celes Cyan Edgar Setzer Mog,Halves Bolt damage
+Crystal Mail,30000,75,50,-,-,Spd-3,Terra Celes Cyan Edgar Setzer Mog,Halves Wind damage
+Dark Gear,20000,40,35,20,-,Vgr +5 / Spd +5,Locke Sabin Gau Shadow Mog,-
+Light Robe,15000,25,50,-,20,Mag +5 / Stam +5,Terra Celes Sabin Strago Mog,-
+Genji Armor,-,70,35,10,-,Vgr +7 / Stam +7,Terra Celes Cyan Edgar Locke Setzer Shadow Mog,-
+Force Armor,-,35,70,-,10,Mag +7,Terra Celes Cyan Edgar Setzer Mog,Halves Fire/Ice/Bolt damage
+Royal Jacket,-,50,40,20,-,Vgr +5,Edgar Sabin,HP+25%
+Minerva,-,50,50,10,10,Vgr +5 / Mag +5,Terra Celes,Blocks Fire/Ice/Bolt damage
+Radiant Gown,-,40,50,-,20,Mag +5,Relm,MP+25%; brush spellcast rate up
+Tabby Hide,-,25,30,10,10,Spd +3 / Mag +3,Gau Strago Relm Gogo,Halves Earth damage
+Gator Hide,-,30,35,10,10,Spd +3 / Stam +3,Gau Strago Relm Gogo,Halves Water damage
+Chocobo Hide,-,35,40,10,10,Spd +5 / Stam +5,Gau Strago Relm Gogo,Halves Water/Wind damage
+Moogle Hide,-,40,45,10,10,Spd +5 / Mag +5,Gau Strago Relm Gogo,Halves Earth/Wind damage
+Dragon Hide,-,50,55,10,10,Stam +7 / Mag +7,Gau Strago Relm Gogo,Halves Fire/Wind damage
+Snow Muffler,-,60,60,-,-,Spd-3,Gau Mog Gogo Umaro,HP+25%; blocks Ice/Wind damage
+Mirage Vest,-,35,35,20,20,Spd +7,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Auto-Haste (blocks Slow)

@@ -1,0 +1,752 @@
+[
+    {
+        "name": "Weapon",
+        "value": "Value",
+        "attack": "Attack",
+        "evade": "Evade",
+        "m_evade": "M.Evade",
+        "stat_boost": "Stat Boost(s)",
+        "equip": "Equip",
+        "description": "Description..."
+    },
+    {
+        "name": "Apocalypse",
+        "value": "-",
+        "attack": "180",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "All +5",
+        "equip": "Terra",
+        "description": "Uses MP for critical hits; may cast Flare"
+    },
+    {
+        "name": "Atma Weapon",
+        "value": "-",
+        "attack": "*225",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Attacks with stamina; weaker at low HP"
+    },
+    {
+        "name": "Avenger",
+        "value": "-",
+        "attack": "200",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Vgr +5 / Spd +5",
+        "equip": "Locke Shadow Setzer Gogo",
+        "description": "Holy damage; Dual-Wield; Throwable"
+    },
+    {
+        "name": "Blood Sword",
+        "value": "-",
+        "attack": "160",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Vgr +5 / Stam +5",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "May cast Drain"
+    },
+    {
+        "name": "Bone Club",
+        "value": "-",
+        "attack": "128",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Gau Umaro",
+        "description": "Initial: Umaro"
+    },
+    {
+        "name": "Boomerang",
+        "value": "1500",
+        "attack": "50",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Terra Celes Locke Mog",
+        "description": "Anti-air; high crit rate; ignores row; dual-wield"
+    },
+    {
+        "name": "Butterfly",
+        "value": "500",
+        "attack": "75",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Vgr +3",
+        "equip": "Locke Shadow Setzer Gogo",
+        "description": "2x damage to humans; Dual-Wield; Throwable"
+    },
+    {
+        "name": "Dali Brush",
+        "value": "-",
+        "attack": "(100)",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Mag +5 / Spd +3",
+        "equip": "Relm Gogo",
+        "description": "May cast Shell; (Cures HP); Hits 2x"
+    },
+    {
+        "name": "Darts",
+        "value": "1000",
+        "attack": "120",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Setzer",
+        "description": "Initial: Setzer; Ignores row"
+    },
+    {
+        "name": "Demonsbane",
+        "value": "-",
+        "attack": "120",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Vgr +3 / Spd +3",
+        "equip": "Locke Shadow Setzer Gogo",
+        "description": "Undead slayer; Dual-Wield; Throwable"
+    },
+    {
+        "name": "Dice",
+        "value": "5000",
+        "attack": "-",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Setzer",
+        "description": "Damage = (2Lv. * D1 * D2); always hits; Ignores row"
+    },
+    {
+        "name": "Doomstick",
+        "value": "15000",
+        "attack": "150",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Mag +3 / Stam +3",
+        "equip": "Strago Mog Relm Gogo",
+        "description": "May cast Doom; MP crit = X-Zone; High spellcast rate"
+    },
+    {
+        "name": "Elec Sword",
+        "value": "5000",
+        "attack": "125",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Spd +3 / Mag +3",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Bolt damage ; may cast Bolt 2"
+    },
+    {
+        "name": "Excalibur",
+        "value": "-",
+        "attack": "255",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Vgr +7 / Mag +7",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Uses MP for critical hits; stronger if held with 2 hands"
+    },
+    {
+        "name": "Falchion",
+        "value": "10000",
+        "attack": "200",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Vgr +5 / Spd +5",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Dual-wield ; may counter-attack"
+    },
+    {
+        "name": "Fire Lance",
+        "value": "6000",
+        "attack": "120",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Edgar Mog",
+        "description": "Fire damage; HP+12.5%; May guard allies; 2 hands; Jump bonus"
+    },
+    {
+        "name": "Fire Rod",
+        "value": "2500",
+        "attack": "120",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Mag +3",
+        "equip": "Strago Mog Relm Gogo",
+        "description": "May cast Fire 2; MP crit = 2x spell damage; High spellcast rate"
+    },
+    {
+        "name": "Fixed Dice",
+        "value": "-",
+        "attack": "-",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Setzer",
+        "description": "Damage = (2Lv. * D1 * D2 * D3); always hits; Ignores row"
+    },
+    {
+        "name": "Flametongue",
+        "value": "5000",
+        "attack": "125",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Vgr +3 / Mag +3",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Fire damage ; may cast Fire 2"
+    },
+    {
+        "name": "Frostgore",
+        "value": "-",
+        "attack": "150",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Vgr +7 / Stam +5",
+        "equip": "Sabin",
+        "description": "Ice damage; may cast Ice; Dual-wield"
+    },
+    {
+        "name": "Full Moon",
+        "value": "3000",
+        "attack": "100",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Terra Celes Locke Mog",
+        "description": "Anti-air; high crit rate; ignores row; dual-wield"
+    },
+    {
+        "name": "Gungnir",
+        "value": "-",
+        "attack": "160",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Edgar Mog",
+        "description": "Always hits; HP+50%; May guard allies; 2 hands; Jump bonus"
+    },
+    {
+        "name": "Hanzo",
+        "value": "-",
+        "attack": "90",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Stam +2",
+        "equip": "Cyan Shadow",
+        "description": "Initial: Cyan/Shadow ; 2 Hands"
+    },
+    {
+        "name": "Hell Claw",
+        "value": "5000",
+        "attack": "120",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Vgr +5 / Spd +3",
+        "equip": "Sabin",
+        "description": "Fire damage; may cast Fire; Dual-wield"
+    },
+    {
+        "name": "Ice Rod",
+        "value": "2500",
+        "attack": "120",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Mag +3",
+        "equip": "Strago Mog Relm Gogo",
+        "description": "May cast Ice 2; MP crit = 2x spell damage; High spellcast rate"
+    },
+    {
+        "name": "Icebrand",
+        "value": "5000",
+        "attack": "125",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Stam +3 / Mag +3",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Ice damage ; may cast Ice 2"
+    },
+    {
+        "name": "Ichimonji",
+        "value": "1500",
+        "attack": "140",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Spd +3 / Stam +3",
+        "equip": "Cyan Shadow",
+        "description": "High critical rate ; can insta-kill ; 2 Hands"
+    },
+    {
+        "name": "Illumina",
+        "value": "-",
+        "attack": "180",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "All +5",
+        "equip": "Celes",
+        "description": "Uses MP for critical hits; may cast Holy"
+    },
+    {
+        "name": "Iron Cutlass",
+        "value": "500",
+        "attack": "100",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Spd +2",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Initial: Celes"
+    },
+    {
+        "name": "Kagenui",
+        "value": "-",
+        "attack": "175",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Mag+7",
+        "equip": "Shadow",
+        "description": "Fight hits 2x; may set Stop/Slow; Dual-wield ; Throwable"
+    },
+    {
+        "name": "Kazekiri",
+        "value": "-",
+        "attack": "150",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Spd +5 / Stam +5",
+        "equip": "Cyan Shadow",
+        "description": "May hit all foes with stamina-based wind attack ; 2 Hands"
+    },
+    {
+        "name": "Kotetsu",
+        "value": "750",
+        "attack": "120",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Vgr +3 / Stam +3",
+        "equip": "Cyan Shadow",
+        "description": "May counter-attack ; 2 Hands"
+    },
+    {
+        "name": "Kunai",
+        "value": "250",
+        "attack": "100",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Spd +3",
+        "equip": "Shadow",
+        "description": "Anti-air; high crit rate; Dual-wield ; Throwable"
+    },
+    {
+        "name": "Kusarigama",
+        "value": "2000",
+        "attack": "100",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Shadow Gogo",
+        "description": "2x damage to humans; may set Stop/Slow"
+    },
+    {
+        "name": "Light Brush",
+        "value": "-",
+        "attack": "(60)",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Mag +3",
+        "equip": "Relm Gogo",
+        "description": "Initial: Relm; (Cures HP); Hits 2x"
+    },
+    {
+        "name": "Longinus",
+        "value": "-",
+        "attack": "180",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Edgar Mog",
+        "description": "Holy damage; HP+25%; May guard allies; 2 hands; Jump bonus"
+    },
+    {
+        "name": "Magic Bone",
+        "value": "-",
+        "attack": "64",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Mag +7",
+        "equip": "Gau Umaro",
+        "description": "-"
+    },
+    {
+        "name": "Man Eater",
+        "value": "10000",
+        "attack": "160",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Vgr +5",
+        "equip": "Locke Shadow Setzer Gogo",
+        "description": "2x damage to humans; Dual-Wield; Throwable"
+    },
+    {
+        "name": "Masamune",
+        "value": "-",
+        "attack": "180",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Vgr +7 / Stam +7",
+        "equip": "Cyan Shadow",
+        "description": "May counter-attack ; 2 Hands"
+    },
+    {
+        "name": "Monet Brush",
+        "value": "5000",
+        "attack": "(80)",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Mag +3 / Spd +3",
+        "equip": "Relm Gogo",
+        "description": "May cast Safe; (Cures HP); Hits 2x"
+    },
+    {
+        "name": "Morning Star",
+        "value": "5000",
+        "attack": "125",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Spd -2",
+        "equip": "Terra Celes",
+        "description": " Ignores defense"
+    },
+    {
+        "name": "Murasame",
+        "value": "-",
+        "attack": "160",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Vgr +5 / Stam +5",
+        "equip": "Cyan Shadow",
+        "description": "May counter-attack ; 2 Hands"
+    },
+    {
+        "name": "Mutsunokami",
+        "value": "-",
+        "attack": "210",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Spd +7 / Stam +7",
+        "equip": "Cyan Shadow",
+        "description": "May hit all foes with stamina-based wind attack ; 2 Hands"
+    },
+    {
+        "name": "Mythril Bolo",
+        "value": "250",
+        "attack": "75",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Initial: Terra"
+    },
+    {
+        "name": "Mythril Claw",
+        "value": "-",
+        "attack": "60",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Vgr +2",
+        "equip": "Sabin",
+        "description": "Initial: Sabin (2x); Dual-wield"
+    },
+    {
+        "name": "Mythril Dirk",
+        "value": "100",
+        "attack": "50",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Locke Shadow Setzer Gogo",
+        "description": "Initial: Locke / Gogo; Dual-Wield; Throwable"
+    },
+    {
+        "name": "Mythril Pike",
+        "value": "-",
+        "attack": "80",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Edgar Mog",
+        "description": "Initial: Edgar / Mog; May guard allies; 2 hands; Jump bonus"
+    },
+    {
+        "name": "Mythril Rod",
+        "value": "-",
+        "attack": "90",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Stam +3",
+        "equip": "Strago Mog Relm Gogo",
+        "description": "Initial: Strago"
+    },
+    {
+        "name": "Ninjato",
+        "value": "2500",
+        "attack": "150",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Spd +5",
+        "equip": "Shadow",
+        "description": "Anti-air; high crit rate; Dual-wield ; Throwable"
+    },
+    {
+        "name": "Ocean Claw",
+        "value": "2500",
+        "attack": "100",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Vgr +5 / Stam +3",
+        "equip": "Sabin",
+        "description": "Water damage; may cast Drain; Dual-wield"
+    },
+    {
+        "name": "Orochi",
+        "value": "-",
+        "attack": "200",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Spd +7",
+        "equip": "Shadow",
+        "description": "Anti-air; high crit rate; Dual-wield ; Throwable"
+    },
+    {
+        "name": "Partisan",
+        "value": "9000",
+        "attack": "140",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Edgar Mog",
+        "description": "HP+25%; May guard allies; 2 hands; Jump bonus"
+    },
+    {
+        "name": "Poison Claw",
+        "value": "1500",
+        "attack": "90",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Vgr +3 / Stam +2",
+        "equip": "Sabin",
+        "description": "Dark damage; may cast Sap; Dual-wield"
+    },
+    {
+        "name": "Punisher",
+        "value": "-",
+        "attack": "150",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Mag +7 / Stam +7",
+        "equip": "Strago Mog Relm Gogo",
+        "description": "May cast Dark; MP crit =2x spell damage; High spellcast rate"
+    },
+    {
+        "name": "Quartrstaff",
+        "value": "5000",
+        "attack": "150",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Stam +7",
+        "equip": "Strago Mog Relm Gogo",
+        "description": "May cast Quartr; MP crit = hits foe group; High spellcast rate"
+    },
+    {
+        "name": "Rising Sun",
+        "value": "9000",
+        "attack": "130",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Terra Celes Locke Mog",
+        "description": "Anti-air; high crit rate; ignores row; dual-wield"
+    },
+    {
+        "name": "Ross Brush",
+        "value": "-",
+        "attack": "(120)",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Mag +5 / Spd +5",
+        "equip": "Relm Gogo",
+        "description": "May cast Rflect; (Cures HP); Hits 2x"
+    },
+    {
+        "name": "Rune Blade",
+        "value": "25000",
+        "attack": "150",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Vgr +5 / Mag +5",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Uses MP for critical hits"
+    },
+    {
+        "name": "Sakura",
+        "value": "1000",
+        "attack": "125",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Spd +3 / Mag +5",
+        "equip": "Shadow",
+        "description": "May cast Break; Dual-wield ; Throwable"
+    },
+    {
+        "name": "Scimitar",
+        "value": "2500",
+        "attack": "150",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Vgr +3 / Spd +3",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "Dual-wield ; may counter-attack"
+    },
+    {
+        "name": "Soul Sabre",
+        "value": "-",
+        "attack": "175",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Mag +7",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "May cast Osmose"
+    },
+    {
+        "name": "Spirit Claw",
+        "value": "750",
+        "attack": "80",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Vgr +3 / Spd +2",
+        "equip": "Sabin",
+        "description": "Holy damage; may cast Slow; Dual-wield"
+    },
+    {
+        "name": "Stormfang",
+        "value": "-",
+        "attack": "180",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Vgr +7 / Spd +5",
+        "equip": "Sabin",
+        "description": "Bolt damage; may cast Bolt; Dual-wield"
+    },
+    {
+        "name": "Stout Spear",
+        "value": "1500",
+        "attack": "90",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Edgar Mog",
+        "description": "HP+25%; May guard allies; 2 hands; Jump bonus"
+    },
+    {
+        "name": "Switchblade",
+        "value": "-",
+        "attack": "100",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Spd +5",
+        "equip": "Locke Shadow Setzer Gogo",
+        "description": "May steal from foe; Dual-Wield; Throwable"
+    },
+    {
+        "name": "Tanto",
+        "value": "-",
+        "attack": "75",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Spd +2",
+        "equip": "Shadow",
+        "description": "Initial: Shadow ; Dual-wield ; Throwable"
+    },
+    {
+        "name": "Tarot",
+        "value": "-",
+        "attack": "140",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Setzer",
+        "description": "Holy damage; undead slayer; Ignores row"
+    },
+    {
+        "name": "Thunder Rod",
+        "value": "2500",
+        "attack": "120",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "Mag +3",
+        "equip": "Strago Mog Relm Gogo",
+        "description": "May cast Bolt 2; MP crit = 2x spell damage; High spellcast rate"
+    },
+    {
+        "name": "Trident",
+        "value": "3000",
+        "attack": "100",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Edgar Mog",
+        "description": "Water damage; HP+12.5%; May guard allies; 2 hands; Jump bonus"
+    },
+    {
+        "name": "Valiance",
+        "value": "-",
+        "attack": "175",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Vgr +5",
+        "equip": "Locke",
+        "description": "Ignores defense; stronger at low HP; Dual-Wield; Throwable"
+    },
+    {
+        "name": "Viper Darts",
+        "value": "-",
+        "attack": "160",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Setzer",
+        "description": "Uses MP for critical hits; Ignores row"
+    },
+    {
+        "name": "Wind Breaker",
+        "value": "-",
+        "attack": "180",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Spd +5 / Stam +5",
+        "equip": "Strago Relm",
+        "description": "May hit all foes with stamina-based wind attack"
+    },
+    {
+        "name": "Wing Edge",
+        "value": "-",
+        "attack": "160",
+        "evade": "-",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Terra Celes Locke Mog",
+        "description": "Anti-air; high crit rate; ignores row; dual-wield"
+    },
+    {
+        "name": "Zantetsuken",
+        "value": "-",
+        "attack": "210",
+        "evade": "20",
+        "m_evade": "20",
+        "stat_boost": "Vgr +7 / Spd +7",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "May counter-attack; always hits; high crit rate; can insta-kill"
+    }
+]

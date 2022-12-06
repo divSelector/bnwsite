@@ -1,0 +1,21 @@
+Item,Value,Description...
+Dried Meat,50,Cures 100 HP
+Phoenix Down,200,Cures death (HP = 1)
+Red Bull,250,Cures 200 HP
+Phoenix Tear,-,Cures death (HP = 3/4 max)
+Tonic,500,Cures 1/2 max HP
+Holy Water,400,Cures “Zombie” (HP = 1/8 max)
+Potion,2000,Cures 3/4 max HP
+Antidote,50,Cures Poison
+X-Potion,-,Cures 3/4 max HP – party
+Eyedrops,50,Cures “Blind”
+Tincture,1000,Cures 50 MP
+Green Cherry,100,Has a calming effect
+Ether,-,Cures 3/4 max MP
+Remedy,150,Lifts most bad statuses
+X-Ether,-,Cures 3/4 max MP – party
+Warp Whistle,300,Casts Warp
+Elixir,-,HP/MP to max; lifts most bad statuses
+Bouncy Ball,500,Random damage to foes
+Megalixir,-,Full heal (HP/MP/status) – party
+Rename Card,?,Hidden item

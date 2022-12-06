@@ -1,0 +1,76 @@
+[
+    {
+        "ACTION_NAME": "TOOLS",
+        "VALUE": "Value",
+        "TARGETING": "Targeting",
+        "POWER":  "Power",
+        "DAMAGE": "Damage Type",
+        "DESCRIPTION": "Description"
+    },
+    {
+        "ACTION_NAME": "Autocrossbow",
+        "VALUE": 500,
+        "TARGETING": "Foe Group",
+        "POWER":  180,
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Ignores row, can miss (evasion stat = Evade)"
+    },
+    {
+
+        "ACTION_NAME": "Noiseblaster",
+        "VALUE": 1000,
+        "TARGETING": "Foe Group",
+        "POWER":  "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets “Muddle”, can miss (evasion stat = Stamina)"
+    },
+    {
+        "ACTION_NAME": "Bio Blaster",
+        "VALUE": 5000,
+        "TARGETING": "Foe Group",
+        "POWER":  45,
+        "DAMAGE": "Dark",
+        "DESCRIPTION": "Sets Poison"
+    },
+    {
+        "ACTION_NAME": "Drill",
+        "VALUE": 10000,
+        "TARGETING": "Single",
+        "POWER":  200,
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Ignores defense, sets Sap"
+    },
+    {
+        "ACTION_NAME": "Flash",
+        "VALUE": 15000,
+        "TARGETING": "Foe Group",
+        "POWER":  60,
+        "DAMAGE": "Non-elemental",
+        "DESCRIPTION": "Sets Blind"
+    },
+    {
+        "ACTION_NAME": "Defibrillator",
+        "VALUE": 30000,
+        "TARGETING": "One Ally",
+        "POWER":  10,
+        "DAMAGE": "Revives fallen ally",
+        "DESCRIPTION": "-"
+    },
+    {
+        "ACTION_NAME": "Mana Battery",
+        "VALUE": "-",
+        "TARGETING": "One Ally",
+        "POWER":  "1",
+        "DAMAGE": "Cures MP",
+        "DESCRIPTION": "-"
+    },
+    {
+        "ACTION_NAME": "Chainsaw",
+        "VALUE": "-",
+        "TARGETING": "Single",
+        "POWER":  255,
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Ignores defense, randomly kills"
+    }
+]
+

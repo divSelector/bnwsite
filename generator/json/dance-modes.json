@@ -1,0 +1,214 @@
+[
+    {
+        "NAME": "DANCE_MODES",
+        "MODE": ""
+    },
+    {
+        "NAME": "Wind Song",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "7/16",
+                "RESULT": "Sun Bath"
+            },
+            {
+                "ODDS": "5/16",
+                "RESULT": "Wind Slash"
+            },
+            {
+                "ODDS": "3/16",
+                "RESULT": "Razor Leaf"
+            },
+            {
+                "ODDS": "1/16",
+                "RESULT": "Cockatrice"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Desert Aria",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "7/16",
+                "RESULT": "Sand Storm"
+            },
+            {
+                "ODDS": "5/16",
+                "RESULT": "Mirage"
+            },
+            {
+                "ODDS": "3/16",
+                "RESULT": "Sun Bath"
+            },
+            {
+                "ODDS": "1/16",
+                "RESULT": "Meerkat"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Forest Suite",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "7/16",
+                "RESULT": "Harvester"
+            },
+            {
+                "ODDS": "5/16",
+                "RESULT": "Razor Leaf"
+            },
+            {
+                "ODDS": "3/16",
+                "RESULT": "Elf Fire"
+            },
+            {
+                "ODDS": "1/16",
+                "RESULT": "Raccoon"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Earth Blues",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "7/16",
+                "RESULT": "Avalanche"
+            },
+            {
+                "ODDS": "5/16",
+                "RESULT": "Sun Bath"
+            },
+            {
+                "ODDS": "3/16",
+                "RESULT": "Wind Slash"
+            },
+            {
+                "ODDS": "1/16",
+                "RESULT": "Wild Boars"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Dusk Requiem",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "7/16",
+                "RESULT": "Cave In"
+            },
+            {
+                "ODDS": "5/16",
+                "RESULT": "Snare"
+            },
+            {
+                "ODDS": "3/16",
+                "RESULT": "Moonlight"
+            },
+            {
+                "ODDS": "1/16",
+                "RESULT": "Wombat"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Love Sonata",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "7/16",
+                "RESULT": "Bedevil"
+            },
+            {
+                "ODDS": "5/16",
+                "RESULT": "Moonlight"
+            },
+            {
+                "ODDS": "3/16",
+                "RESULT": "Elf Fire"
+            },
+            {
+                "ODDS": "1/16",
+                "RESULT": "Tapir"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Water Rondo",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "7/16",
+                "RESULT": "El Nino"
+            },
+            {
+                "ODDS": "5/16",
+                "RESULT": "Plasma"
+            },
+            {
+                "ODDS": "3/16",
+                "RESULT": "Surge"
+            },
+            {
+                "ODDS": "1/16",
+                "RESULT": "Toxic Frog"
+            }
+
+        ]
+    },
+    {
+        "NAME": "Snowman Jazz",
+        "MODE": [
+            {
+                "ODDS": "Odds",
+                "RESULT": "Result"
+            },
+            {
+                "ODDS": "7/16",
+                "RESULT": "Blizzard"
+            },
+            {
+                "ODDS": "5/16",
+                "RESULT": "Surge"
+            },
+            {
+                "ODDS": "3/16",
+                "RESULT": "Mirage"
+            },
+            {
+                "ODDS": "1/16",
+                "RESULT": "Ice Rabbit"
+            }
+
+        ]
+    }
+]

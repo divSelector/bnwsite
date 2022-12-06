@@ -1,0 +1,25 @@
+Dance,Targeting,Power,Evade,Type,Description...
+Avalanche,One Foe,60,M.Eva,Earth,Ignores defense
+Bedevil,One Foe,25,-,Steals HP/MP,Ignores defense; effective vs. undead
+Blizzard,All Foes,90,-,Ice/Wind,May set Blind
+Cave In,One Foe,-,Stam,Earth,Damage = (HP *3/4); sets Sap
+Cockatrice,One Foe,120,-,Non-elemental,Ignores defense; sets Petrify
+Elf Fire,One Foe,72,-,Fire,-
+El Nino,All Foes,60,-,Water,-
+Harvester,Party,10,-,Cures HP (stamina-based),Lifts most bad statuses
+Ice Rabbit,Party,-,-,Cures HP to max,Sets Image
+Meerkat,Party,-,-,-,Sets Image/Haste
+Mirage,Party,-,-,-,Randomly sets Image (odds = 1/2)
+Moonlight,All Foes,90,M.Eva,Holy,*(1/2 on multi-target)
+Plasma,One Foe,72,-,Water,-
+Raccoon,Party,-,-,Cures HP to max,Lifts most bad statuses
+Razor Leaf,All Foes,100,M.Eva,Earth/Wind,*(1/2 on multi-target)
+Sand Storm,All Foes,42,M.Eva,Earth/Wind,May set Blind
+Snare,One Foe,-,-,Instant death,-
+Sun Bath,Party,20,-,Cures HP (stamina-based),-
+Surge,All Foes,90,-,Ice/Water,Ground attack
+Tapir,Party,2,-,Cures MP,Lifts ALL bad statuses
+Toxic Frog,One Foe,180,-,Water/Dark,Sets Poison
+Wild Boars,One Foe,120,-,Non-elemental,Ignores defense; ground attack
+Wind Slash,All Foes,50,M.Eva,Wind,-
+Wombat,All Foes,100,-,Non-elemental,Ignores defense; ground attack

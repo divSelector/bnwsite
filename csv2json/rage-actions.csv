@@ -1,0 +1,33 @@
+Rage,Targeting,Power,Evade,Type,Description...
+Absolute 0,All Foes,120,-,Ice,-
+Acid Rain,All Foes,30,-,Water,May set Sap
+Aero,All Foes,75,M.Eva,Wind,May set Sap
+Air Blast,Free,-,Stam,Wind,Damage = (HP *1/2)
+Atomic Ray,One Foe,90,M.Eva,Non-elemental,Unreflectable
+Barrier,One Ally,-,-,-,Sets Shell/Rflect unreflectable
+Bio Blast,Foe Group,45,-,Dark,May set Poison
+Blight,Foe Group,45,M.Eva,Dark/Wind,May set Poison; *(1/2 on multi-target)
+Blink,One Ally,-,-,-,Sets Image/Haste
+Brown Note,One Foe,60,M.Eva,Non-elemental,May set random negative status
+Diffuser,All Foes,90,M.Eva,Bolt,*(1/2 on multi-target)
+Discharge,All Foes,75,M.Eva,Bolt,-
+Exploder,All Foes,-,-,Non-elemental,Damage = caster's (current) HP (if used via Rage: * 2.5)
+Fireball,Foe Group,60,M.Eva,Fire,May set Sap; *(1/2 on multi-target)
+Firestorm,All Foes,50,-,Fire/Water,-
+Flash Rain,All Foes,60,-,Bolt/Water,-
+Gale Cut,All Foes,25,M.Eva,Wind,-
+Giga Volt,One Foe,120,M.Eva,Bolt/Wind,May set Sap
+Glare,One Foe,-,Stam,-,Sets Petrify (will miss on Clear targets)
+Landslide,All Foes,60,-,Earth,Ground attack; may set Slow
+Lode Stone,One Foe,-,Stam,Earth,Damage = (HP *5/8); sets Slow
+Magnitude,All Foes,100,-,Earth,Ground attack; *(1/2 on multi-target)
+Mega Volt,Free,30,M.Eva,Bolt/Wind,May set Sap
+Meteo,All Foes,60,M.Eva,Non-elemental,Ignores defense. Low accuracy
+Net,One Foe,-,Stam,-,Sets Slow/Stop
+Rock,Free,100,(!)Eva,Stamina-based,Low accuracy; may set Muddle; (!) = see Tentacle
+Shrapnel,Foe Group,150,(!)Eva,Stamina-based,*(1/2 on multi-target); (!) = see Tentacle
+Snowball,Foe Group,50,M.Eva,Ice,May set Slow; *(1/2 on multi-target)
+Starlight,All Foes,60,M.Eva,Non-elemental,May set Blind
+Step Mine,One Foe,-,M.Eva,Non-elemental,Damage rises with number of steps taken
+Tentacle,Free,120,(!)Eva,Stamina-based,(!) = physical attack if used by enemy; magical otherwise
+Vanish,One Ally,-,-,-,Sets Clear

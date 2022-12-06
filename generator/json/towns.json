@@ -1,0 +1,380 @@
+[
+    {
+        "NAME": "TOWNS",
+        "MODE": ""
+    },
+    {
+        "NAME": "Figaro Castle",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (Initial)",
+                "ITEMS": "Autocrossbow / Noiseblaster"
+            },
+            {
+                "LABEL": "Item (Initial)",
+                "ITEMS": "Dried Meat / Phoenix Down"
+            },
+            {
+                "LABEL": "Weapon (WoB)",
+                "ITEMS": "Stout Spear / Autocrossbow / Noiseblaster / Bio Blaster / Drill"
+            },
+            {
+                "LABEL": "Item (WoB)",
+                "ITEMS": "Dried Meat / Tincture / Phoenix Down / Holy Water"
+            },
+            {
+                "LABEL": "Weapon (WoR)",
+                "ITEMS": "Stout Spear / Partisan / Autocrossbow / Noiseblaster / Bio Blaster / Drill / Flash / Defibrillator"
+            },
+            {
+                "LABEL": "Item (WoR)",
+                "ITEMS": "Dried Meat / Tincture / Phoenix Down / Holy Water / Bouncy Ball / Warp Whistle"
+            }
+
+        ]
+    },
+    {
+        "NAME": "South Figaro",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (WoB)",
+                "ITEMS": "Mythril Dirk / Mythril Bolo / Iron Cutlass / Boomerang / Autocrossbow / Noiseblaster"
+            },
+            {
+                "LABEL": "Armor (WoB)",
+                "ITEMS": "Buckler / Iron Shield / Leather Hat / Hair Band / Bandana / Hard Leather / Karate Gi / Cotton Robe"
+            },
+            {
+                "LABEL": "Weapon (WoR)",
+                "ITEMS": "Falchion / Trident / Fire Lance / Morning Star"
+            },
+            {
+                "LABEL": "Armor (WoR)",
+                "ITEMS": "Diamond Kite / Diamond Helm / Diamond Vest / Diamond Mail"
+            },
+            {
+                "LABEL": "Relic",
+                "ITEMS": "Goggles / Bracelet / Knight Cape / Dragoon Seal"
+            },
+            {
+                "LABEL": "Item",
+                "ITEMS": "Dried Meat / Tincture / Phoenix Down / Antidote / Eyedrops"
+            }
+        ]
+    },
+    {
+        "NAME": "Returner's Hideout",
+        "MODE": "Dried Meat / Phoenix Down / Antidote / Eyedrops / Goggles / Bracelet"
+    },
+    {
+        "NAME": "Traveling Merchant",
+        "MODE": "Dried Meat / Phoenix Down / Antidote / Eyedrops / Spirit Claw / Bandana / Shuriken / Smoke Bomb"
+    },
+    {
+        "NAME": "Soul Train",
+        "MODE": "Dried Meat / Phoenix Down / Remedy / Ghost Ring"
+    },
+    {
+        "NAME": "Mobliz",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon",
+                "ITEMS": "Mythril Dirk / Mythril Bolo"
+            },
+            {
+                "LABEL": "Armor",
+                "ITEMS": "Buckler / Leather Hat / Hard Leather / Cotton Robe"
+            },
+            {
+                "LABEL": "Relic",
+                "ITEMS": "Googes / Bracelet"
+            },
+            {
+                "LABEL": "Item",
+                "ITEMS": "Dried Meat / Tonic / Phoenix Down / Holy Water / Antidote / Eyedrops / Remedy / Green Cherry"
+            }
+        ]
+    },
+    {
+        "NAME": "Nikeah",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (WoB)",
+                "ITEMS": "Spirit Claw / Poison Claw / Kotetsu / Stout Spear / Autocrossbow / Noiseblaster"
+            },
+            {
+                "LABEL": "Armor (WoB)",
+                "ITEMS": "Buckler / Bandana / Karate Gi / Iron Shield / Iron Helm / Iron Armor"
+            },
+            {
+                "LABEL": "Weapon (WoR)",
+                "ITEMS": "Butterfly / Kotetsu / Ichimonji / Fire Rod / Ice Rod / Thunder Rod"
+            },
+            {
+                "LABEL": "Armor (WoR)",
+                "ITEMS": "Targe / Mythril Mail / Mythril Helm / Power Armor"
+            },
+            {
+                "LABEL": "Relic",
+                "ITEMS": "Talisman / Fairy Charm / Safety Glove / Barrier Cube / White Cape / Dragoon Seal"
+            },
+            {
+                "LABEL": "Item",
+                "ITEMS": "Dried Meat / Red Bull / Tonic / Tincture / Phoenix Down / Remedy"
+            }
+        ]
+    },
+    {
+        "NAME": "Narshe",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (Initial)",
+                "ITEMS": "Butterfly / Iron Cutlass / Full Moon / Morning Star"
+            },
+            {
+                "LABEL": "Armor (Initial)",
+                "ITEMS": "Buckler / Iron Shield / Iron Helm / Iron Armor"
+            },
+            {
+                "LABEL": "Weapon (Post-IMTRF",
+                "ITEMS": "Flametongue / Icebrand / Elec Sword / Fire Lance / Full Moon / Morning Star"
+            },
+            {
+                "LABEL": "Armor (Post-IMTRF)",
+                "ITEMS": "Mythril Helm / Mythril Mail / Gaia Gear / Power Armor"
+            },
+            {
+                "LABEL": "Relic",
+                "ITEMS": "Talisman / Fairy Charm / Safety Glove / Barrier Cube"
+            },
+            {
+                "LABEL": "Item",
+                "ITEMS": "Dried Meat / Phoenix Down / Antidote / Eyedrops"
+            }
+        ]
+    },
+    {
+        "NAME": "Kohlingen",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (WoB)",
+                "ITEMS": "Mythril Dir / Butterfly / Spirit Claw / Poison Claw"
+            },
+            {
+                "LABEL": "Armor",
+                "ITEMS": "Targe / Bandana / Green Beret / Mythril Vest"
+            },
+            {
+                "LABEL": "Weapon (WoR)",
+                "ITEMS": "Man Eater / Hell Claw"
+            },
+            {
+                "LABEL": "Item",
+                "ITEMS": "Dried Meat / Red Bull / Tonic / Phoenix Down / Remedy / Green Cherry"
+            }
+        ]
+    },
+    {
+        "NAME": "Jidoor",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (WoB)",
+                "ITEMS": "Kotetsu / Kunai / Kusarigama / Shuriken / Wave Scrool / Fire Scroll / Bolt Scroll / Smoke Bomb"
+            },
+            {
+                "LABEL": "Armor (WoB)",
+                "ITEMS": "Hair Band / Karate Gi / Ninja Gear / White Dress"
+            },
+            {
+                "LABEL": "Weapon (WoR)",
+                "ITEMS": "Kunai / Sakura / Ninjato / Shuriken / Wave Scroll / Fire Scroll / Bolt Scroll / Smoke Bomb"
+            },
+            {
+                "LABEL": "Armor (WoR)",
+                "ITEMS": "Hair Band / White Dress / Dark Hood / Dark Gear"
+            },
+            {
+                "LABEL": "Relic",
+                "ITEMS": "Knight Cape / White Cape / Back Guard / Stat Stick"
+            },
+            {
+                "LABEL": "Item",
+                "ITEMS": "Potion / Tincture / Phoenix Down / Monet Brush"
+            }
+        ]
+    },
+    {
+        "NAME": "Thamasa",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (WoB)",
+                "ITEMS": "Fire Rod / Ice Rod / Thunder Rod / Rising Sun"
+            },
+            {
+                "LABEL": "Armor (WoB)",
+                "ITEMS": "Gold Shield / Gold Helm / Gold Armor / Mystery Veil / Magus Hat / White Dress"
+            },
+            {
+                "LABEL": "Weapon (WoR)",
+                "ITEMS": "Quartrstaff / Doomstick / Rising Sun / Kusarigama"
+            },
+            {
+                "LABEL": "Armor (WoR)",
+                "ITEMS": "Oath Veil / Circlet / Light Robe / Dark Gear"
+            },
+            {
+                "LABEL": "Relic",
+                "ITEMS": "Spirit Stone / Amulet / Sprint Shoes / Guard Ring / Wall Ring / Gale Hairpin"
+            },
+            {
+                "LABEL": "Item",
+                "ITEMS": "Dried Meat / Tincture / Phoenix Down / Warp Whistle"
+            }
+        ]
+    },
+    {
+        "NAME": "Albrook",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (WoB)",
+                "ITEMS": "Stout Spear / Kotetsu / Kunai / Sakura"
+            },
+            {
+                "LABEL": "Armor (WoB)",
+                "ITEMS": "Iron Shield / Hair Band / Bandana / Cotton Robe / Iron Armor / Ninja Gear"
+            },
+            {
+                "LABEL": "Weapon (WoR)",
+                "ITEMS": "Schimitar / Flametongue / Icebrand / Elec Sword / Morning Star / Rising Sun"
+            },
+            {
+                "LABEL": "Armor (WoR)",
+                "ITEMS": "Gold Shield / Gold Helm / Gold Armor / Mystery Veil"
+            },
+            {
+                "LABEL": "Relic",
+                "ITEMS": "Safety Glove / Barrier Cube / Sprint Shoes / Stat Stick / Dragoon Seal / Gale Hairpin"
+            },
+            {
+                "LABEL": "Item",
+                "ITEMS": "Dried Meat / Tonic / Tincture / Phoenix Down / Holy Water / Remedy / Green Cherry"
+            }
+        ]
+    },
+    {
+        "NAME": "Tzen",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (WoB)",
+                "ITEMS": "Spirit Claw / Poison Claw / Ocean Claw / Full Moon"
+            },
+            {
+                "LABEL": "Armor (WoB)",
+                "ITEMS": "Green Beret / Tiger Mask / Mystery Veil / White Dress"
+            },
+            {
+                "LABEL": "Weapon (WoR)",
+                "ITEMS": "Spirit Claw / Poison Claw / Ocean Claw / Hell Claw"
+            },
+            {
+                "LABEL": "Armor (WoR)",
+                "ITEMS": "Green Beret / Tiger Mask / Gaia Gear / Light Robe"
+            },
+            {
+                "LABEL": "Relic",
+                "ITEMS": "Spirit Stone / Amulet / Back Guard / Hyper Wrist"
+            },
+            {
+                "LABEL": "Item",
+                "ITEMS": "Dried Meat / Red Bull / Antidote / Eyedrops"
+            }
+        ]
+    },
+    {
+        "NAME": "Maranda",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon (WoB)",
+                "ITEMS": "Trident / Schimitar / Ichimonji / Morning Star"
+            },
+            {
+                "LABEL": "Armor (WoB)",
+                "ITEMS": "Mythril Helm / Mythril Vest / Mythril Mail"
+            },
+            {
+                "LABEL": "Weapon (WoR)",
+                "ITEMS": "Falchion / Rune Blade"
+            },
+            {
+                "LABEL": "Armor (WoR)",
+                "ITEMS": "Crystal Kite / Crystal Helm / Crystal Mail"
+            }
+        ]
+    },
+    {
+        "NAME": "Vector",
+        "MODE": [
+            {
+                "LABEL": "",
+                "ITEMS": ""
+            },
+            {
+                "LABEL": "Weapon",
+                "ITEMS": "Flametongue / Icebrand / Elec Sword"
+            },
+            {
+                "LABEL": "Armor",
+                "ITEMS": "Targe / Mythril Vest"
+            }
+        ]
+    },
+    {
+        "NAME": "Blackjack",
+        "MODE": "Darts / Dice"
+    }
+
+]

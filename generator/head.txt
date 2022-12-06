@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Final Fantasy VI Brave New World - a Searchable Game Guide | BNW</title>
+  <meta name="description" content="Optimize your Final Fantasy VI Brave New World party build using a searchable game guide including magic, skills, summons, esper level boons, skills, enemies, weapons, armor, and more." />
+  <meta property="og:title" content="Final Fantasy VI Brave New World - a Searchable Game Guide" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="Optimize your Final Fantasy VI Brave New World party build using a searchable game guide including magic, skills, summons, esper level boons, skills, enemies, weapons, armor, and more." />
+  <meta property="og:image" content="https://bnw.pages.dev/thumbnail.png" />
+  <meta property="og:url" content="https://bnw.pages.dev/index.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="og:site_name" content="BNW" />
+  <meta name="twitter:image:alt" content="A Final Fantasy Moogle relaxing with a glass of wine." />
+
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer=""></script>
+</head>
+<body>
+<script>0</script>
+  <div id="main-wrapper">
+    <header>
+        <!-- Logo -->
+        <h1><a href="/index.html" id="logo">bnw</a></h1>
+        <input type="text" id="mainInput">
+        <label for="mainInput" class="sr-only">Filter Table by Input</label>
+
+        <!-- Hamburger icon -->
+        <input class="side-menu" type="checkbox" id="side-menu"/>
+        <label class="hamb" for="side-menu">
+          <span class="hamb-line"></span>  <!--  Not Accessible  -->
+        </label>
+        <!-- Menu -->
+        <nav class="nav">
+            <ul class="menu">
+                <li><a href="/index.html">Search</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="https://www.romhacking.net/hacks/2095/" target="_blank">Get Mod</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+      <form id="top">
+          <!--<label for="mainInput">Filter Table by Input</label>
+          <input type="text" id="mainInput">-->
+      <ul class="single-table-checkboxes">
+        <li>
+          <input id="toggle-magic-black" type="checkbox" checked="checked" />
+          <label for="toggle-magic-black">Black Magic</label>
+        </li>
+        <li>
+          <input id="toggle-magic-white" type="checkbox" checked="checked" />
+          <label for="toggle-magic-white">White Magic</label>
+        </li>
+        <li>
+          <input id="toggle-magic-gray" type="checkbox" checked="checked" />
+          <label for="toggle-magic-gray">Gray Magic</label>
+        </li>
+        <li>
+          <input id="toggle-esper-summons" type="checkbox" checked="checked" />
+          <label for="toggle-esper-summons">Esper Summons</label>
+        </li>
+        <li>
+          <input id="toggle-esper-boons" type="checkbox" checked="checked" />
+          <label for="toggle-esper-boons">Esper Boons</label>
+        </li>
+        <li>
+          <input id="toggle-blitz" type="checkbox" checked="checked" />
+          <label for="toggle-blitz">Blitz</label>
+        </li>
+        <li>
+          <input id="toggle-bushido" type="checkbox" checked="checked" />
+          <label for="toggle-bushido">Bushido</label>
+        </li>
+        <li>
+          <input id="toggle-dance-actions" type="checkbox" checked="checked" />
+          <label for="toggle-dance-actions">Dance Actions</label>
+        </li>
+        <li>
+          <input id="toggle-dance-modes" type="checkbox" checked="checked" />
+          <label for="toggle-dance-modes">Dance Modes</label>
+        </li>
+        <li>
+          <input id="toggle-lore" type="checkbox" checked="checked" />
+          <label for="toggle-lore">Lore</label>
+        </li>
+        <li>
+          <input id="toggle-rage-actions" type="checkbox" checked="checked" />
+          <label for="toggle-rage-actions">Rage Actions</label>
+        </li>
+        <li>
+          <input id="toggle-rage-modes" type="checkbox" checked="checked" />
+          <label for="toggle-rage-modes">Rage Modes</label>
+        </li>
+        <li>
+          <input id="toggle-slots" type="checkbox" checked="checked" />
+          <label for="toggle-slots">Slots</label>
+        </li>
+        <li>
+          <input id="toggle-thrown" type="checkbox" checked="checked" />
+          <label for="toggle-thrown">Thrown</label>
+        </li>
+        <li>
+          <input id="toggle-tools" type="checkbox" checked="checked" />
+          <label for="toggle-tools">Tools</label>
+        </li>
+        <li>
+          <input id="toggle-characters" type="checkbox" checked="checked" />
+          <label for="toggle-characters">Characters</label>
+        </li>
+        <li>
+          <input id="toggle-experience-growth" type="checkbox" checked="checked" />
+          <label for="toggle-experience-growth">Exp Growth</label>
+        </li>
+        <li>
+          <input id="toggle-enemy" type="checkbox" checked="checked" />
+          <label for="toggle-enemy">Enemies</label>
+        </li>
+        <li>
+          <input id="toggle-weapons" type="checkbox" checked="checked" />
+          <label for="toggle-weapons">Weapons</label>
+        </li>
+        <li>
+          <input id="toggle-legend" type="checkbox" checked="checked" />
+          <label for="toggle-legend">Legend</label>
+        </li>
+        <li>
+          <input id="toggle-items" type="checkbox" checked="checked" />
+          <label for="toggle-items">Items</label>
+        </li>
+        <li>
+          <input id="toggle-shields" type="checkbox" checked="checked" />
+          <label for="toggle-shields">Shields</label>
+        </li>
+        <li>
+          <input id="toggle-armor" type="checkbox" checked="checked" />
+          <label for="toggle-armor">Armor</label>
+        </li>
+        <li>
+          <input id="toggle-helmets" type="checkbox" checked="checked" />
+          <label for="toggle-helmets">Helmets</label>
+        </li>
+        <li>
+          <input id="toggle-relics" type="checkbox" checked="checked" />
+          <label for="toggle-relics">Relics</label>
+        </li>
+        <li>
+          <input id="toggle-towns" type="checkbox" checked="checked" />
+          <label for="toggle-towns">Towns</label>
+        </li>
+
+      <!--  Insert Your Toggle Checkbox  -->
+
+      </ul>
+      </form>

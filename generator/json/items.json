@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Item",
+        "value": "Value",
+        "description": "Description..."
+    },
+    {
+        "name": "Antidote",
+        "value": "50",
+        "description": "Cures Poison"
+    },
+    {
+        "name": "Bouncy Ball",
+        "value": "500",
+        "description": "Random damage to foes"
+    },
+    {
+        "name": "Dried Meat",
+        "value": "50",
+        "description": "Cures 100 HP"
+    },
+    {
+        "name": "Elixir",
+        "value": "-",
+        "description": "HP/MP to max; lifts most bad statuses"
+    },
+    {
+        "name": "Ether",
+        "value": "-",
+        "description": "Cures 3/4 max MP"
+    },
+    {
+        "name": "Eyedrops",
+        "value": "50",
+        "description": "Cures \u201cBlind\u201d"
+    },
+    {
+        "name": "Green Cherry",
+        "value": "100",
+        "description": "Has a calming effect"
+    },
+    {
+        "name": "Holy Water",
+        "value": "400",
+        "description": "Cures \u201cZombie\u201d (HP = 1/8 max)"
+    },
+    {
+        "name": "Megalixir",
+        "value": "-",
+        "description": "Full heal (HP/MP/status) \u2013 party"
+    },
+    {
+        "name": "Phoenix Down",
+        "value": "200",
+        "description": "Cures death (HP = 1)"
+    },
+    {
+        "name": "Phoenix Tear",
+        "value": "-",
+        "description": "Cures death (HP = 3/4 max)"
+    },
+    {
+        "name": "Potion",
+        "value": "2000",
+        "description": "Cures 3/4 max HP"
+    },
+    {
+        "name": "Red Bull",
+        "value": "250",
+        "description": "Cures 200 HP"
+    },
+    {
+        "name": "Remedy",
+        "value": "150",
+        "description": "Lifts most bad statuses"
+    },
+    {
+        "name": "Rename Card",
+        "value": "?",
+        "description": "Hidden item"
+    },
+    {
+        "name": "Tincture",
+        "value": "1000",
+        "description": "Cures 50 MP"
+    },
+    {
+        "name": "Tonic",
+        "value": "500",
+        "description": "Cures 1/2 max HP"
+    },
+    {
+        "name": "Warp Whistle",
+        "value": "300",
+        "description": "Casts Warp"
+    },
+    {
+        "name": "X-Ether",
+        "value": "-",
+        "description": "Cures 3/4 max MP \u2013 party"
+    },
+    {
+        "name": "X-Potion",
+        "value": "-",
+        "description": "Cures 3/4 max HP \u2013 party"
+    }
+]

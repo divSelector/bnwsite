@@ -1,0 +1,74 @@
+[
+    {
+        "ACTION_NAME": "BUSHIDO",
+        "LVL": "Lv",
+        "TARGETING": "Targeting",
+        "POWER":  "Power",
+        "DAMAGE": "Damage Type",
+        "DESCRIPTION": "Description"
+    },
+    {
+        "ACTION_NAME": "Dispatch",
+        "LVL": 1,
+        "TARGETING": "One Foe",
+        "POWER":  "(Atk * 3/4)",
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Ignores defense, 2x damage to humans"
+    },
+    {
+        "ACTION_NAME": "Mindblow",
+        "LVL": 8,
+        "TARGETING": "One Foe",
+        "POWER":  "-",
+        "DAMAGE": "MP damage",
+        "DESCRIPTION": "Damage = 500"
+    },
+    {
+        "ACTION_NAME": "Empowerer",
+        "LVL": 10,
+        "TARGETING": "One Foe",
+        "POWER":  75,
+        "DAMAGE": "Steals HP/MP",
+        "DESCRIPTION": "Sets Sap, row affects damage, effective vs. undead"
+    },
+    {
+        "ACTION_NAME": "Flurry",
+        "LVL": 12,
+        "TARGETING": "Foe(s)",
+        "POWER":  "(Atk * 3/8)",
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Hits 4 times, may set Muddle"
+    },
+    {
+        "ACTION_NAME": "Dragon",
+        "LVL": 18,
+        "TARGETING": "One Foe",
+        "POWER":  40,
+        "DAMAGE": "Stamina-based",
+        "DESCRIPTION": "Ignores defense, randomly sets “Petrify” (odds = 1/2)"
+    },
+    {
+        "ACTION_NAME": "Eclipse",
+        "LVL": 24,
+        "TARGETING": "All Foes",
+        "POWER":  90,
+        "DAMAGE": "Non-elemental",
+        "DESCRIPTION": "Sets Blind"
+    },
+    {
+        "ACTION_NAME": "Tempest",
+        "LVL": 30,
+        "TARGETING": "Foe(s)",
+        "POWER":  "(Atk * 1/2)",
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Hits 4 times"
+    },
+    {
+        "ACTION_NAME": "Cleave",
+        "LVL": "-",
+        "TARGETING": "All Foes",
+        "POWER":  "-",
+        "DAMAGE": "Instant death",
+        "DESCRIPTION": "Can miss (evasion = Evade + Stamina)"
+    }
+]

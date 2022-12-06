@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Dance",
+        "targeting": "Targeting",
+        "power": "Power",
+        "evade": "Evade",
+        "damage": "Type",
+        "description": "Description..."
+    },
+    {
+        "name": "Avalanche",
+        "targeting": "One Foe",
+        "power": "60",
+        "evade": "M.Eva",
+        "damage": "Earth",
+        "description": "Ignores defense"
+    },
+    {
+        "name": "Bedevil",
+        "targeting": "One Foe",
+        "power": "25",
+        "evade": "-",
+        "damage": "Steals HP/MP",
+        "description": "Ignores defense; effective vs. undead"
+    },
+    {
+        "name": "Blizzard",
+        "targeting": "All Foes",
+        "power": "90",
+        "evade": "-",
+        "damage": "Ice/Wind",
+        "description": "May set Blind"
+    },
+    {
+        "name": "Cave In",
+        "targeting": "One Foe",
+        "power": "-",
+        "evade": "Stam",
+        "damage": "Earth",
+        "description": "Damage = (HP *3/4); sets Sap"
+    },
+    {
+        "name": "Cockatrice",
+        "targeting": "One Foe",
+        "power": "120",
+        "evade": "-",
+        "damage": "Non-elemental",
+        "description": "Ignores defense; sets Petrify"
+    },
+    {
+        "name": "El Nino",
+        "targeting": "All Foes",
+        "power": "60",
+        "evade": "-",
+        "damage": "Water",
+        "description": "-"
+    },
+    {
+        "name": "Elf Fire",
+        "targeting": "One Foe",
+        "power": "72",
+        "evade": "-",
+        "damage": "Fire",
+        "description": "-"
+    },
+    {
+        "name": "Harvester",
+        "targeting": "Party",
+        "power": "10",
+        "evade": "-",
+        "damage": "Cures HP (stamina-based)",
+        "description": "Lifts most bad statuses"
+    },
+    {
+        "name": "Ice Rabbit",
+        "targeting": "Party",
+        "power": "-",
+        "evade": "-",
+        "damage": "Cures HP to max",
+        "description": "Sets Image"
+    },
+    {
+        "name": "Meerkat",
+        "targeting": "Party",
+        "power": "-",
+        "evade": "-",
+        "damage": "-",
+        "description": "Sets Image/Haste"
+    },
+    {
+        "name": "Mirage",
+        "targeting": "Party",
+        "power": "-",
+        "evade": "-",
+        "damage": "-",
+        "description": "Randomly sets Image (odds = 1/2)"
+    },
+    {
+        "name": "Moonlight",
+        "targeting": "All Foes",
+        "power": "90",
+        "evade": "M.Eva",
+        "damage": "Holy",
+        "description": "*(1/2 on multi-target)"
+    },
+    {
+        "name": "Plasma",
+        "targeting": "One Foe",
+        "power": "72",
+        "evade": "-",
+        "damage": "Water",
+        "description": "-"
+    },
+    {
+        "name": "Raccoon",
+        "targeting": "Party",
+        "power": "-",
+        "evade": "-",
+        "damage": "Cures HP to max",
+        "description": "Lifts most bad statuses"
+    },
+    {
+        "name": "Razor Leaf",
+        "targeting": "All Foes",
+        "power": "100",
+        "evade": "M.Eva",
+        "damage": "Earth/Wind",
+        "description": "*(1/2 on multi-target)"
+    },
+    {
+        "name": "Sand Storm",
+        "targeting": "All Foes",
+        "power": "42",
+        "evade": "M.Eva",
+        "damage": "Earth/Wind",
+        "description": "May set Blind"
+    },
+    {
+        "name": "Snare",
+        "targeting": "One Foe",
+        "power": "-",
+        "evade": "-",
+        "damage": "Instant death",
+        "description": "-"
+    },
+    {
+        "name": "Sun Bath",
+        "targeting": "Party",
+        "power": "20",
+        "evade": "-",
+        "damage": "Cures HP (stamina-based)",
+        "description": "-"
+    },
+    {
+        "name": "Surge",
+        "targeting": "All Foes",
+        "power": "90",
+        "evade": "-",
+        "damage": "Ice/Water",
+        "description": "Ground attack"
+    },
+    {
+        "name": "Tapir",
+        "targeting": "Party",
+        "power": "2",
+        "evade": "-",
+        "damage": "Cures MP",
+        "description": "Lifts ALL bad statuses"
+    },
+    {
+        "name": "Toxic Frog",
+        "targeting": "One Foe",
+        "power": "180",
+        "evade": "-",
+        "damage": "Water/Dark",
+        "description": "Sets Poison"
+    },
+    {
+        "name": "Wild Boars",
+        "targeting": "One Foe",
+        "power": "120",
+        "evade": "-",
+        "damage": "Non-elemental",
+        "description": "Ignores defense; ground attack"
+    },
+    {
+        "name": "Wind Slash",
+        "targeting": "All Foes",
+        "power": "50",
+        "evade": "M.Eva",
+        "damage": "Wind",
+        "description": "-"
+    },
+    {
+        "name": "Wombat",
+        "targeting": "All Foes",
+        "power": "100",
+        "evade": "-",
+        "damage": "Non-elemental",
+        "description": "Ignores defense; ground attack"
+    }
+]

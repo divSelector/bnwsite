@@ -1,0 +1,43 @@
+Relic,Value,Def,M.Def,Evade,M.Evade,Stat Boost(s),Equip,Description...
+Dragoon Seal,5000,-,-,20,-,Vgr +3 / Spd +5,Edgar Mog Gogo Terra Celes Relm,Fight to Jump; sword spellcast rate up
+Gale Hairpin,10000,-,-,-,20,Mag +3 / Spd +5,Edgar Mog Gogo Terra Celes Relm,Pre-emptive attack rate up
+Thief Glove,-,-,-,10,-,Vgr +5 / Spd +3,Locke Gogo,Steal to Mug; physical output +25%
+Rogue Cloak,-,-,-,-,10,Mag +5 / Spd +3,Locke Shadow,Fight always hits; magical output +25%
+Moogle Charm,-,-,-,10,-,Spd +7 / Stam +7,Mog Gogo,???
+Memento Ring,-,-,-,-,10,Mag +7 / Stam +7,Shadow Relm,???
+Daryl's Soul,-,10,-,-,-,Vgr +5 / Stam +5,Setzer,Fight hits 2x
+Heiji's Coin,-,-,10,-,-,Spd +5 / Stam +5,Setzer Gogo,Slot to GP Toss
+Nirvana Band,-,10,-,-,-,Vgr +3 / Stam +3,Edgar Sabin Cyan,All output +25%
+Sage Stone,-,-,10,-,-,Mag +3 / Stam +3,Locke Strago Mog,Magic to X-Magic
+Gem Box,-,20,-,-,-,Vgr +7,Terra,MP costs = 1/2
+Soul Box,-,-,20,-,-,Mag +7,Celes,MP costs = 1/2
+Psycho Belt,-,-,-,-,-,Spd +5,Gau (*Umaro...?),Physical output +25%; blocks Bolt damage
+Blizzard Orb,-,-,-,-,-,Stam +5,Gau (*Umaro...?),Magical output +25%; blocks Fire damage
+Muscle Belt,-,10,10,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,HP+25%; physical output +25%
+Crystal Orb,-,-,-,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,MP+25%; magical output +25%
+Goggles,500,5,-,-,-,Vgr +2 / Stam +2,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Blocks Blind
+Bracelet,500,-,5,-,-,Mag +2 / Stam +2,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Blocks Poison
+Talisman,1000,10,-,-,-,Vgr +3 / Stam +3,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Blocks Blind; Poison
+Fairy Charm,1500,-,10,-,-,Mag +3 / Stam +3,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Blocks Sleep; Muddle Lo / Sh / Se / Mo
+Spirit Stone,3000,15,-,-,-,Vgr +5 / Stam +5,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Blocks Blind; Poison; Petrify
+Amulet,6000,-,15,-,-,Mag +5 / Stam +5,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Blocks Sleep; Muddle; Bserk
+Ribbon,-,-,20,20,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Blocks Stop; Petrify; Death ( = instant death + Zombie)
+Quartz Charm,-,-,-,-,-,Stam +7,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Auto-Safe/Shell
+Safety Glove,1500,20,-,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Sets Safe on low HP
+Barrier Cube,2500,-,20,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Sets Shell on low HP
+Sprint Shoes,3000,-,20,0,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Auto-Haste (blocks Slow)
+Life Bell,-,-,-,-,-,Stam +5,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Auto-Regen (blocks Sap)
+Hyper Wrist,5000,-,-,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Auto-Bserk
+Guard Ring,7500,5,15,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Auto-Safe
+Wall Ring,10000,15,5,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Auto-Shell
+Reflect Ring,-,-,-,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Auto-Rflect
+Ghost Ring,1000,-,-,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Makes wearer undead
+Knight Cape,1000,-,-,10,-,Vgr +5 / Spd +3,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,HP+12.5%; may guard allies
+White Cape,2500,-,-,-,10,Mag +5 / Spd +3,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Blocks Imp; Mute; Stop
+Zephyr Cape,-,-,-,10,10,Spd +7 / Stam +5,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Sets Haste on low HP
+Back Guard,4500,20,20,-,-,-,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Prevents back/pincer attacks
+Black Belt,-,-,-,-,-,Spd +7,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Fight always hits; may counter-attack
+Power Glove,-,-,-,-,-,Vgr +7,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,Physical output +25%
+Magic Cube,-,-,-,-,20,Mag +7,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,MP+50%
+Stat Stick,6000,-,-,-,-,Vgr +5 / Mag +5 / Spd +5 / Stam +5,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,HP/MP+12.5%
+Hero Ring,-,-,-,-,-,Vgr +7 / Mag +7,Terra Locke Cyan Shadow Edgar Sabin Celes Strago Relm Setzer Mog Gau Gogo,HP/MP+25%; may guard allies

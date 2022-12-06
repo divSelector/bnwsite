@@ -1,0 +1,248 @@
+[
+    {
+        "SPELL_NAME": "ESPER SUMMONS",
+        "MP": "MP Cost",
+        "TARGETING": "Targeting",
+        "POWER":  "Power",
+        "EVADE": "Evade",
+        "DAMAGE": "Damage Type",
+        "DESCRIPTION": "Description"
+    },
+
+    {
+        "SPELL_NAME": "Ramuh",
+        "MP": 32,
+        "TARGETING": "All Foes",
+        "POWER":  120,
+        "EVADE": "-",
+        "DAMAGE": "Bolt",
+        "DESCRIPTION": "*(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Kirin",
+        "MP": 24,
+        "TARGETING": "Party",
+        "POWER":  10,
+        "EVADE": "-",
+        "DAMAGE": "Cures HP/revives allies",
+        "DESCRIPTION": ""
+    },
+    {
+        "SPELL_NAME": "Siren",
+        "MP": 16,
+        "TARGETING": "All Foes",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Bserk (physical damage up, become uncontrollable)"
+    },
+
+    {
+        "SPELL_NAME": "Stray",
+        "MP": 24,
+        "TARGETING": "Party",
+        "POWER":  10,
+        "EVADE": "-",
+        "DAMAGE": "Cures HP (stamina-based)",
+        "DESCRIPTION": "Sets Regen (periodic heal, cancels Sap)"
+    },
+    {
+        "SPELL_NAME": "Shiva",
+        "MP": 32,
+        "TARGETING": "All Foes",
+        "POWER":  120,
+        "EVADE": "-",
+        "DAMAGE": "Ice",
+        "DESCRIPTION": "*(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Ifrit",
+        "MP": 32,
+        "TARGETING": "All Foes",
+        "POWER":  120,
+        "EVADE": "-",
+        "DAMAGE": "Fire",
+        "DESCRIPTION": "*(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Unicorn",
+        "MP": 24,
+        "TARGETING": "Party",
+        "POWER":  15,
+        "EVADE": "-",
+        "DAMAGE": "Cures HP (stamina-based)",
+        "DESCRIPTION": "Lifts most bad statuses"
+    },
+    {
+        "SPELL_NAME": "Maduin",
+        "MP": 48,
+        "TARGETING": "All Foes",
+        "POWER":  90,
+        "EVADE": "-",
+        "DAMAGE": "Wind",
+        "DESCRIPTION": "Ignores defense"
+    },
+    {
+        "SPELL_NAME": "Shoat",
+        "MP": 48,
+        "TARGETING": "All Foes",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Petrify (low hit%)"
+    },
+
+    {
+        "SPELL_NAME": "Phantom",
+        "MP": 16,
+        "TARGETING": "Party",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Clear"
+    },
+    {
+        "SPELL_NAME": "Carbunkl",
+        "MP": 24,
+        "TARGETING": "Party",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Rflect"
+    },
+    {
+        "SPELL_NAME": "Bismark",
+        "MP": 32,
+        "TARGETING": "All Foes",
+        "POWER": 120,
+        "EVADE": "",
+        "DAMAGE": "Water",
+        "DESCRIPTION": "*(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Golem",
+        "MP": 48,
+        "TARGETING": "Party",
+        "POWER": "-",
+        "EVADE": "-",
+        "DAMAGE": "Blocks physical damage",
+        "DESCRIPTION": "Durability = caster's max HP"
+    },
+    {
+        "SPELL_NAME": "Zoneseek",
+        "MP": 48,
+        "TARGETING": "Party",
+        "POWER": "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Shell (magical defense up)"
+    },
+    {
+        "SPELL_NAME": "Seraph",
+        "MP": 80,
+        "TARGETING": "Party",
+        "POWER": "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Rerise (casts Life upon death)"
+    },
+    {
+        "SPELL_NAME": "Palidor",
+        "MP": 24,
+        "TARGETING": "Party",
+        "POWER": "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Party attacks with Jump"
+    },
+    {
+        "SPELL_NAME": "Fenrir",
+        "MP": 48,
+        "TARGETING": "Party",
+        "POWER": "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Image"
+    },
+    {
+        "SPELL_NAME": "Tritoch",
+        "MP": 64,
+        "TARGETING": "All Foes",
+        "POWER": 180,
+        "EVADE": "-",
+        "DAMAGE": "Fire/Ice/Bolt",
+        "DESCRIPTION": "*(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Terrato",
+        "MP": 64,
+        "TARGETING": "All Foes",
+        "POWER": 180,
+        "EVADE": "-",
+        "DAMAGE": "Earth",
+        "DESCRIPTION": "*(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Starlet",
+        "MP": 80,
+        "TARGETING": "Party",
+        "POWER": "-",
+        "EVADE": "-",
+        "DAMAGE": "Cures HP to max",
+        "DESCRIPTION": "Lifts ALL statuses"
+    },
+    {
+        "SPELL_NAME": "Crusader",
+        "MP": 64,
+        "TARGETING": "All Foes",
+        "POWER": 180,
+        "EVADE": "-",
+        "DAMAGE": "Dark",
+        "DESCRIPTION": "*(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Phoenix",
+        "MP": 80,
+        "TARGETING": "Party",
+        "POWER": "-",
+        "EVADE": "-",
+        "DAMAGE": "Revives fallen allies",
+        "DESCRIPTION": "Revives to Max HP"
+    },
+    {
+        "SPELL_NAME": "Odin",
+        "MP": 99,
+        "TARGETING": "All Foes",
+        "POWER": 150,
+        "EVADE": "-",
+        "DAMAGE": "Stamina-based",
+        "DESCRIPTION": "Ignores defense. *(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Alexandr",
+        "MP": 99,
+        "TARGETING": "All Foes",
+        "POWER": 255,
+        "EVADE": "-",
+        "DAMAGE": "Holy",
+        "DESCRIPTION": "*(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Bahamut",
+        "MP": 99,
+        "TARGETING": "All Foes",
+        "POWER": 100,
+        "EVADE": "-",
+        "DAMAGE": "Non-elemental",
+        "DESCRIPTION": "Ignores defense. *(1/2 damage on multi-target)"
+    },
+    {
+        "SPELL_NAME": "Ragnarok",
+        "MP": 99,
+        "TARGETING": "One Foe",
+        "POWER": 100,
+        "EVADE": "-",
+        "DAMAGE": "Non-elemental",
+        "DESCRIPTION": "Damage = 9999"
+    }
+]

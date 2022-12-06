@@ -1,0 +1,75 @@
+Weapon,Value,Attack,Evade,M.Evade,Stat Boost(s),Equip,Description...
+Mythril Bolo,250,75,10,-,-,Terra Celes Locke Edgar,Initial: Terra
+Iron Cutlass,500,100,10,-,Spd +2,Terra Celes Locke Edgar,Initial: Celes
+Scimitar,2500,150,10,-,Vgr +3 / Spd +3,Terra Celes Locke Edgar,Dual-wield ; may counter-attack
+Flametongue,5000,125,-,10,Vgr +3 / Mag +3,Terra Celes Locke Edgar,Fire damage ; may cast Fire 2
+Icebrand,5000,125,-,10,Stam +3 / Mag +3,Terra Celes Locke Edgar,Ice damage ; may cast Ice 2
+Elec Sword,5000,125,-,10,Spd +3 / Mag +3,Terra Celes Locke Edgar,Bolt damage ; may cast Bolt 2
+Blood Sword,-,160,10,-,Vgr +5 / Stam +5,Terra Celes Locke Edgar,May cast Drain
+Soul Sabre,-,175,-,10,Mag +7,Terra Celes Locke Edgar,May cast Osmose
+Falchion,10000,200,10,-,Vgr +5 / Spd +5,Terra Celes Locke Edgar,Dual-wield ; may counter-attack
+Rune Blade,25000,150,-,10,Vgr +5 / Mag +5,Terra Celes Locke Edgar,Uses MP for critical hits
+Zantetsuken,-,210,20,20,Vgr +7 / Spd +7,Terra Celes Locke Edgar,May counter-attack; always hits; high crit rate; can insta-kill
+Excalibur,-,255,10,10,Vgr +7 / Mag +7,Terra Celes Locke Edgar,Uses MP for critical hits; stronger if held with 2 hands
+Atma Weapon,-,*225,-,-,-,Terra Celes Locke Edgar,Attacks with stamina; weaker at low HP
+Apocalypse,-,180,10,10,All +5,Terra,Uses MP for critical hits; may cast Flare
+Illumina,-,180,10,10,All +5,Celes,Uses MP for critical hits; may cast Holy
+Mythril Dirk,100,50,-,-,-,Locke Shadow Setzer Gogo,Initial: Locke / Gogo; Dual-Wield; Throwable
+Butterfly,500,75,-,-,Vgr +3,Locke Shadow Setzer Gogo,2x damage to humans; Dual-Wield; Throwable
+Switchblade,-,100,10,-,Spd +5,Locke Shadow Setzer Gogo,May steal from foe; Dual-Wield; Throwable
+Demonsbane,-,120,10,-,Vgr +3 / Spd +3,Locke Shadow Setzer Gogo,Undead slayer; Dual-Wield; Throwable
+Man Eater,10000,160,-,-,Vgr +5,Locke Shadow Setzer Gogo,2x damage to humans; Dual-Wield; Throwable
+Avenger,-,200,10,-,Vgr +5 / Spd +5,Locke Shadow Setzer Gogo,Holy damage; Dual-Wield; Throwable
+Valiance,-,175,10,-,Vgr +5,Locke,Ignores defense; stronger at low HP; Dual-Wield; Throwable
+Mythril Pike,-,80,-,-,-,Edgar Mog,Initial: Edgar / Mog; May guard allies; 2 hands; Jump bonus
+Stout Spear,1500,90,-,-,-,Edgar Mog,HP+25%; May guard allies; 2 hands; Jump bonus
+Trident,3000,100,-,-,-,Edgar Mog,Water damage; HP+12.5%; May guard allies; 2 hands; Jump bonus
+Fire Lance,6000,120,-,-,-,Edgar Mog,Fire damage; HP+12.5%; May guard allies; 2 hands; Jump bonus
+Partisan,9000,140,-,-,-,Edgar Mog,HP+25%; May guard allies; 2 hands; Jump bonus
+Gungnir,-,160,-,-,-,Edgar Mog,Always hits; HP+50%; May guard allies; 2 hands; Jump bonus
+Longinus,-,180,-,-,-,Edgar Mog,Holy damage; HP+25%; May guard allies; 2 hands; Jump bonus
+Mythril Claw,-,60,-,-,Vgr +2,Sabin,Initial: Sabin (2x); Dual-wield
+Spirit Claw,750,80,-,-,Vgr +3 / Spd +2,Sabin,Holy damage; may cast Slow; Dual-wield
+Poison Claw,1500,90,-,-,Vgr +3 / Stam +2,Sabin,Dark damage; may cast Sap; Dual-wield
+Ocean Claw,2500,100,-,-,Vgr +5 / Stam +3,Sabin,Water damage; may cast Drain; Dual-wield
+Hell Claw,5000,120,-,-,Vgr +5 / Spd +3,Sabin,Fire damage; may cast Fire; Dual-wield
+Frostgore,-,150,-,-,Vgr +7 / Stam +5,Sabin,Ice damage; may cast Ice; Dual-wield
+Stormfang,-,180,-,-,Vgr +7 / Spd +5,Sabin,Bolt damage; may cast Bolt; Dual-wield
+Morning Star,5000,125,-,-,Spd -2,Terra Celes, Ignores defense
+Hanzo,-,90,10,-,Stam +2,Cyan Shadow,Initial: Cyan/Shadow ; 2 Hands
+Kotetsu,750,120,10,-,Vgr +3 / Stam +3,Cyan Shadow,May counter-attack ; 2 Hands
+Ichimonji,1500,140,10,-,Spd +3 / Stam +3,Cyan Shadow,High critical rate ; can insta-kill ; 2 Hands
+Kazekiri,-,150,10,-,Spd +5 / Stam +5,Cyan Shadow,May hit all foes with stamina-based wind attack ; 2 Hands
+Murasame,-,160,10,-,Vgr +5 / Stam +5,Cyan Shadow,May counter-attack ; 2 Hands
+Masamune,-,180,10,-,Vgr +7 / Stam +7,Cyan Shadow,May counter-attack ; 2 Hands
+Mutsunokami,-,210,10,-,Spd +7 / Stam +7,Cyan Shadow,May hit all foes with stamina-based wind attack ; 2 Hands
+Tanto,-,75,10,10,Spd +2,Shadow,Initial: Shadow ; Dual-wield ; Throwable
+Kunai,250,100,10,10,Spd +3,Shadow,Anti-air; high crit rate; Dual-wield ; Throwable
+Sakura,1000,125,10,10,Spd +3 / Mag +5,Shadow,May cast Break; Dual-wield ; Throwable
+Ninjato,2500,150,10,10,Spd +5,Shadow,Anti-air; high crit rate; Dual-wield ; Throwable
+Kagenui,-,175,10,10,Mag+7,Shadow,Fight hits 2x; may set Stop/Slow; Dual-wield ; Throwable
+Orochi,-,200,10,10,Spd +7,Shadow,Anti-air; high crit rate; Dual-wield ; Throwable
+Kusarigama,2000,100,-,-,-,Shadow Gogo,2x damage to humans; may set Stop/Slow
+Darts,1000,120,-,-,-,Setzer,Initial: Setzer; Ignores row
+Tarot,-,140,-,-,-,Setzer,Holy damage; undead slayer; Ignores row
+Viper Darts,-,160,-,-,-,Setzer,Uses MP for critical hits; Ignores row
+Dice,5000,-,-,-,-,Setzer,Damage = (2Lv. * D1 * D2); always hits; Ignores row
+Fixed Dice,-,-,-,-,-,Setzer,Damage = (2Lv. * D1 * D2 * D3); always hits; Ignores row
+Mythril Rod,-,90,-,-,Stam +3,Strago Mog Relm Gogo,Initial: Strago
+Fire Rod,2500,120,-,-,Mag +3,Strago Mog Relm Gogo,May cast Fire 2; MP crit = 2x spell damage; High spellcast rate
+Ice Rod,2500,120,-,-,Mag +3,Strago Mog Relm Gogo,May cast Ice 2; MP crit = 2x spell damage; High spellcast rate
+Thunder Rod,2500,120,-,-,Mag +3,Strago Mog Relm Gogo,May cast Bolt 2; MP crit = 2x spell damage; High spellcast rate
+Quartrstaff,5000,150,10,-,Stam +7,Strago Mog Relm Gogo,May cast Quartr; MP crit = hits foe group; High spellcast rate
+Doomstick,15000,150,10,-,Mag +3 / Stam +3,Strago Mog Relm Gogo,May cast Doom; MP crit = X-Zone; High spellcast rate
+Punisher,-,150,10,-,Mag +7 / Stam +7,Strago Mog Relm Gogo,May cast Dark; MP crit =2x spell damage; High spellcast rate
+Wind Breaker,-,180,10,-,Spd +5 / Stam +5,Strago Relm,May hit all foes with stamina-based wind attack
+Light Brush,-,(60),-,10,Mag +3,Relm Gogo,Initial: Relm; (Cures HP); Hits 2x
+Monet Brush,5000,(80),-,10,Mag +3 / Spd +3,Relm Gogo,May cast Safe; (Cures HP); Hits 2x
+Dali Brush,-,(100),-,10,Mag +5 / Spd +3,Relm Gogo,May cast Shell; (Cures HP); Hits 2x
+Ross Brush,-,(120),-,10,Mag +5 / Spd +5,Relm Gogo,May cast Rflect; (Cures HP); Hits 2x
+Boomerang,1500,50,-,-,-,Terra Celes Locke Mog,Anti-air; high crit rate; ignores row; dual-wield
+Full Moon,3000,100,-,-,-,Terra Celes Locke Mog,Anti-air; high crit rate; ignores row; dual-wield
+Rising Sun,9000,130,-,-,-,Terra Celes Locke Mog,Anti-air; high crit rate; ignores row; dual-wield
+Wing Edge,-,160,-,-,-,Terra Celes Locke Mog,Anti-air; high crit rate; ignores row; dual-wield
+Bone Club,-,128,-,-,-,Gau Umaro,Initial: Umaro
+Magic Bone,-,64,-,-,Mag +7,Gau Umaro,-

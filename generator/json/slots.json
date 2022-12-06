@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Slots",
+        "targeting": "Targeting",
+        "power": "Power",
+        "description": "Description..."
+    },
+    {
+        "name": "(Losing Spin)",
+        "targeting": "Party",
+        "power": "10",
+        "description": "Cures HP"
+    },
+    {
+        "name": "3 Airships",
+        "targeting": "All Foes",
+        "power": "36",
+        "description": "Ignores defense"
+    },
+    {
+        "name": "3 Chocobos",
+        "targeting": "All Foes",
+        "power": "90",
+        "description": "Ground dmg; sets Sap"
+    },
+    {
+        "name": "3 Diamonds",
+        "targeting": "All Foes",
+        "power": "75",
+        "description": "Sets Blind"
+    },
+    {
+        "name": "7-7-7",
+        "targeting": "Party",
+        "power": "10",
+        "description": "Cures HP/revives allies"
+    },
+    {
+        "name": "Bar-Bar-Bar",
+        "targeting": "-",
+        "power": "-",
+        "description": "Summons random esper"
+    }
+]

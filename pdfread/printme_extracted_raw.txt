@@ -1,0 +1,2074 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Character Vigor Magic Speed Stamina
+(Base) (Base) (Base) Def & Evade & Retreat Lv HP MP Exp/EP E
+
+sper P
+oints = (Spell P
+
+oints * E
+xp.) / 8
+
+HP MP Attack M.Def M.Evade Speed 1 - - 32
+   Terra 30 42 30 30 60 45 32 30 / 36 6 / 12 Average 2 12 1 64
+   Locke 36 30 42 36 66 - 32 36 / 30 24 / 12 Highest 3 24 2 192
+   Edgar 36 30 30 24 72 - 64 42 / 24 6 / 6 Average 4 38 3 384
+   Sabin 48 24 36 42 144 - 64 42 / 42 18 / 12 Average 5 52 4 640
+   Celes 36 36 36 36 120 30 32 42 / 30 12 / 6 High 6 68 5 1024
+   Cyan 42 24 30 36 132 - 64 42 / 36 18 / 6 Low 7 84 6 1536
+   Gau 42 36 36 24 12 - 128 30 / 24 24 / 18 Highest 8 102 7 2176
+   Shadow 42 36 42 36 24 - 24 30 / 30 24 / 24 Highest 9 120 8 2944
+   Setzer 36 30 30 24 60 - 24 36 / 24 12 / 12 Average 10 140 9 3840
+   Mog 30 36 36 30 156 - 24 36 / 36 18 / 18 High 11 162 18 5888
+
+Terra   Strago 24 48 24 42 18 60 16 24 / 36 6 / 18 Low 12 186 27 6912
+   Relm 24 42 36 30 6 45 16 24 / 30 12 / 18 High 13 212 36 8192 Lv
+
+Cure
+   Gogo 30 30 30 30 - - 16 24 / 24 24 / 24 High 14 240 45 9728 1
+   Umaro 90 - 24 90 255 - 128 60 / 60 6 / 6 Low 15 270 54 11520 Lv
+
+Fire
+16 302 63 13568 4
+
+Esper Spells SP EL / Equip Bonus Esper Spells SP EL / Equip Bonus 17 336 72 15872 Lv
+Muddle
+
+Bolt 1 Vigor +2 Cure 1 HP+30 / Stam+1 18 372 81 18432 6
+Ramuh KirinBolt 2 15 Cure 2 15 19 410 90 21248 Lv
+
+ImpMagic +5Celes/Locke Demi 10 Locke/Cyan Life 10 20 450 99 24320 8
+Rasp 10 Mag+1 / Spd+1 Imp 10 Stamina +2 21 492 108 30464 Lv Fire 2Siren StrayBserk 10 Sleep 10 22 536 117 34048 10
+
+Celes/Edgar Remedy 15 Sabin/Gau Float 10 23 582 126 38144 Lv
+Regen
+
+Fire 1 Speed +2 Ice 1 Magic +2 24 630 135 42752 12
+Ifrit ShivaFire 2 15 Ice 2 15 25 680 144 47872 Lv
+
+Slow
+Locke/Relm Drain 10 Celes/Strago Slow 10 26 732 153 54016 16
+
+Scan 5 HP+30 / Stam+1 Mute 5 Mag+1 / Stam+1 27 786 162 61184 Lv Fire 3Unicorn MaduinCure 2 15 Muddle 10 28 842 171 69376 20
+Vigor +5Terra/Edgar Remedy 15 Terra/Mog Break 15 29 900 180 78592 Lv
+
+RegenX
+Sap 5 Magic +2 Dispel 5 Vgr+1 / Stam+1 30 960 181 88832 30
+
+Shoat PhantomPoison 15 Float 10 31 1020 182 109312
+CelesStamina +5 M.Evade +10Setzer/Mog Doom 15 Celes/Shadow Haste 15 32 1080 183 120576
+
+Stop 10 MP+25 / Stam+1 Storm 10 Vigor +2 33 1140 184 132864 Lv CureCarbunkl BismarkRflect 10 Regen 10 34 1200 185 146176 1
+Auto-RegenTerra/Strago Shell 15 Terra/Cyan Life 10 35 1260 186 160512 Lv
+
+Ice
+Slow 10 Vgr+1 / HP+20 Warp 15 Mag+1 / MP+20 36 1320 187 175872 6
+
+Golem ZoneseekSafe 15 Osmose 20 37 1380 188 196352 Lv
+ScanDefense +10 M.Defense +10Edgar/Sabin Strago/Relm 38 1440 189 221952 9
+
+Regen 10 HP+30 / MP+15 Float 10 Vgr+1 / Spd+1 39 1500 190 252672 Lv SlowSeraph PalidorCure 2 15 Haste 15 40 1550 191 288512 12
+Auto-HasteCeles/Setzer Rerise 25 Edgar/Mog SlowX 25 41 1600 192 329472 Lv
+
+Dispel
+Regen 10 Speed +2 Fire 3 20 Stamina +2 42 1650 193 375552 15
+
+Fenrir TritochWarp 15 Ice 3 20 43 1700 194 426752 Lv
+LifeEvade +10 Auto-ShellGau/Shadow HasteX 25 Terra Bolt 3 25 44 1750 195 483072 18
+
+Drain 10 HP +60 Remedy 15 Stamina +2 45 1800 196 544512 Lv SafeTerrato StarletQuake 20 Cure 3 20 46 1850 197 611072 21
+MP +25%Sabin/Mog SleepX 25 Setzer/Relm RegenX 25 47 1900 198 682752 Lv
+
+Ice 3
+Demi 10 HP +60 Fire 3 20 HP+30 / MP+15 48 1950 199 759552 24
+
+Crusader PhoenixQuartr 20 Cure 3 20 49 2000 200 841472 Lv
+Bolt 3Auto-Rflect HP +25%Celes/Cyan Merton 25 Terra/Locke Life 2 25 50 2000 200 943872 30
+
+Dark 20 Stamina +2 Meteor 20 MP +40
+Odin Bahamut Brave New WorldX-Zone 25 Flare 25
+
+Speed +5 Auto-SafeStrago Relm
+
+2.1.0Holy 25 Spd+1 / Stam+1 Ultima 30 MP +40Alexandr Ragnarok
+Celes Terra Created by: Synchysi & BTB
+
+E
+xp
+
+erien
+ce &
+
+ G
+row
+
+th
+(M
+
+axim
+um
+
+ E
+sper L
+
+evel = 25)
+
+Halves
+Bolt damage
+
+Blocks
+Mute/Muddle/Bserk
+
+Blocks
+Blind/Poison/Imp
+
+Halves
+Fire damage
+
+Halves
+Ice damage
+
+Halves
+Wind damage
+
+Halves
+Water damage
+
+Blocks
+Sleep/Petrify/Death
+
+Halves
+Earth damage
+
+Physical
+Damage +25%
+
+Magical
+Damage +25%
+
+
+
+Fi
+ga
+
+ro
+ C
+
+as
+tl
+
+e
+Weapon Autocrossbow
+
+M
+ob
+
+li
+z
+
+Weapon Mythril Dirk
+
+K
+oh
+
+li
+n
+
+ge
+n
+
+Weapon Mythril Dirk
+
+A
+lb
+
+ro
+ok
+
+Weapon Stout Spear
+(Initial) Noiseblaster Mythril Bolo (WoB) Butterfly (WoB) Kotetsu
+
+Item Dried Meat Armor Buckler Spirit Claw Kunai
+(Initial) Phoenix Down Leather Hat Poison Claw Sakura
+
+Weapon Stout Spear Hard Leather Armor Targe Armor Iron Shield
+(WoB) Autocrossbow Cotton Robe Bandana (WoB) Hair Band
+
+Noiseblaster Relic Goggles Green Beret Bandana
+Bio Blaster Bracelet Mythril Vest Cotton Robe
+
+Drill Item Dried Meat Weapon Man Eater Iron Armor
+Item Dried Meat Tonic (WoR) Hell Claw Ninja Gear
+
+(WoB) Tincture Phoenix Down Item Dried Meat Weapon Scimitar
+Phoenix Down Holy Water Red Bull (WoR) Flametongue
+
+Holy Water Antidote Tonic Icebrand
+Weapon Stout Spear Eyedrops Phoenix Down Elec Sword
+
+(WoR) Partisan Remedy Remedy Morning Star
+Autocrossbow Green Cherry Green Cherry Rising Sun
+Noiseblaster
+
+N
+ik
+
+ea
+h
+
+Weapon Spirit Claw
+
+Ji
+d
+
+oo
+r
+
+Weapon Kotetsu Armor Gold Shield
+Bio Blaster (WoB) Poison Claw (WoB) Kunai (WoR) Gold Helm
+
+Drill Kotetsu Kusarigama Gold Armor
+Flash Stout Spear Shuriken Mystery Veil
+
+Defibrillator Autocrossbow Wave Scroll Relic Safety Glove
+Item Dried Meat Noiseblaster Fire Scroll Barrier Cube
+
+(WoR) Tincture Armor Buckler Bolt Scroll Sprint Shoes
+Phoenix Down (WoB) Bandana Smoke Bomb Stat Stick
+
+Holy Water Karate Gi Armor Hair Band Dragoon Seal
+Bouncy Ball Iron Shield (WoB) Karate Gi Gale Hairpin
+
+Warp Whistle Iron Helm Ninja Gear Item Dried Meat
+
+S
+ou
+
+th
+ F
+
+ig
+ar
+
+o
+
+Weapon Mythril Dirk Iron Armor White Dress Tonic
+(WoB) Mythril Bolo Weapon Butterfly Weapon Kunai Tincture
+
+Iron Cutlass (WoR) Kotetsu (WoR) Sakura Phoenix Down
+Boomerang Ichimonji Ninjato Holy Water
+
+Autocrossbow Fire Rod Shuriken Remedy
+Noiseblaster Ice Rod Wave Scroll Green Cherry
+
+Armor Buckler Thunder Rod Fire Scroll
+
+T
+ze
+
+n
+
+Weapon Spirit Claw
+(WoB) Iron Shield Armor Targe Bolt Scroll (WoB) Poison Claw
+
+Leather Hat (WoR) Mythril Mail Smoke Bomb Ocean Claw
+Hair Band Mythril Helm Armor Hair Band Full Moon
+Bandana Power Armor (WoR) White Dress Armor Green Beret
+
+Hard Leather Relic Talisman Dark Hood (WoB) Tiger Mask
+Karate Gi Fairy Charm Dark Gear Mystery Veil
+
+Cotton Robe Safety Glove Relic Knight Cape White Dress
+Weapon Falchion Barrier Cube White Cape Weapon Spirit Claw
+
+(WoR) Trident White Cape Back Guard (WoR) Poison Claw
+Fire Lance Dragoon Seal Stat Stick Ocean Claw
+
+Morning Star Item Dried Meat Item Potion Hell Claw
+Armor Diamond Kite Red Bull Tincture Armor Green Beret
+(WoR) Diamond Helm Tonic Phoenix Down (WoR) Tiger Mask
+
+Diamond Vest Tincture Monet Brush Gaia Gear
+Diamond Mail Phoenix Down
+
+T
+h
+
+am
+as
+
+a
+
+Weapon Fire Rod Light Robe
+Relic Goggles Remedy (WoB) Ice Rod Relic Spirit Stone
+
+Bracelet
+
+N
+ar
+
+sh
+e
+
+Weapon Butterfly Thunder Rod Amulet
+Knight Cape (Initial) Iron Cutlass Rising Sun Back Guard
+Dragoon Seal Full Moon Armor Gold Shield Hyper Wrist
+
+Item Dried Meat Morning Star (WoB) Gold Helm Item Dried Meat
+Tincture Armor Buckler Gold Armor Red Bull
+
+Phoenix Down (Initial) Iron Shield Mystery Veil Antidote
+Antidote Iron Helm Magus Hat Eyedrops
+Eyedrops Iron Armor White Dress
+
+M
+ar
+
+an
+d
+
+a
+
+Weapon Trident
+Dried Meat Weapon Flametongue Weapon Quartrstaff (WoB) Scimitar
+
+Phoenix Down (Post-IMTRF) Icebrand (WoR) Doomstick Ichimonji
+Antidote Elec Sword Rising Sun Morning Star
+Eyedrops Fire Lance Kusarigama Armor Mythril Helm
+Goggles Full Moon Armor Oath Veil (WoB) Mythril Vest
+Bracelet Morning Star (WoR) Circlet Mythril Mail
+
+Dried Meat Armor Mythril Helm Light Robe Weapon Falchion
+Phoenix Down (Post-IMTRF) Mythril Mail Dark Gear (WoR) Rune Blade
+
+Antidote Gaia Gear Relic Spirit Stone Armor Crystal Kite
+Eyedrops Power Armor Amulet (WoR) Crystal Helm
+
+Spirit Claw Relic Talisman Sprint Shoes Crystal Mail
+Bandana Fairy Charm Guard Ring
+
+V
+ec
+
+to
+r Weapon Flametongue
+
+Shuriken Safety Glove Wall Ring Icebrand
+Smoke Bomb Barrier Cube Gale Hairpin Elec Sword
+
+Soul Train
+Dried Meat Item Dried Meat Item Dried Meat Armor Targe
+
+Phoenix Down Phoenix Down Tincture Mythril Vest
+Remedy Antidote Phoenix Down
+
+Blackjack
+Darts
+
+Ghost Ring Eyedrops Warp Whistle Dice
+
+Returner's 
+Hideout
+
+Travelling 
+Merchant
+
+
+
+  Black   MP   Targeting Power Evade Description...   White   MP   Targeting Power Description...
+   •Fire    4
+
+   Free
+   27
+
+ M.Eva  Fire damage  -
+   •Cure    3
+
+   Free
+   10
+
+ Cures HP  Holy damage to undead   •Fire 2    16    54    •Cure 2    18    25
+   •Fire 3    48    108    •Cure 3    36    40
+   •Ice    5
+
+   Free
+   30
+
+ M.Eva  Ice damage  -
+   •Life    15
+
+   One Ally    -  Revive fallen ally
+ Revives to 250-500 HP
+
+   •Ice 2    20    60    •Life 2    60  Revives to max HP
+   •Ice 3    60    120    •Rerise    30    One Ally    -  -
+   •Bolt    6
+
+   Free
+   33
+
+ M.Eva  Bolt damage  -
+   •Remedy    9    One Ally    15  Cures HP (stamina-based)  Lifts most bad statuses
+
+   •Bolt 2    24    66    •Regen    12    One Ally
+   10  Cures HP (stamina-based)
+
+   •Bolt 3    72    132    •RegenX    48    Ally Group
+   •Sap    6    Single    30
+
+ -  Dark damage   Gray   MP   Targeting Evade Description...   •Poison    18    Free    60
+   •Break    36    Single    40  -  Wind damage  Ignores defense    •Muddle    4    All Foes  Stam
+   •Storm    24    All Foes    45  -  Wind/Water damage  -    •Mute    4    Single  Stam
+   •Quake    48    All    50  -  Earth damage  Ignores defense, ground attack    •Imp    5    Single  -
+   •Demi    9    Single
+
+   -  Stam  Earth damage
+ Damage = (HP * 1/2)    •Bserk    6    Single  -
+
+   •Quartr    36    Foe Group  Damage = (HP * 3/4)    •Sleep    6    Single
+ Stam
+
+   •Doom    25    Single
+   -  Stam  Instant death
+
+ Ineffective on undead    •SleepX    18    Foe Group
+   •X-Zone    50    Foe Group  -    •Safe    12    One Ally  -
+   •Drain    10    Single    100  *  Steals HP  *Hitrate = 90%    •Shell    18    One Ally  -
+   •Dark    45    Single    90  -  Dark damage  -    •Haste    8    One Ally
+
+ -
+   •Holy    45    Single    48  -  Holy damage  Ignores defense    •HasteX    24    Ally Group
+   •Flare    50    Single    60  -  Non-elemental damage  Ignores defense    •Slow    4    Single
+
+ Stam
+   •Meteor    64    All Foes    90  -  Non-elemental damage  -    •SlowX    12    Foe Group
+   •Merton    80    All    120  -  Fire/Dark damage  -    •Stop    15    Single  Stam
+   •Ultima    99    All Foes    60  -  Non-elemental damage  Ignores defense    •Rflect    8    Single  -
+
+   •Float    15    Party  -
+  Esper   MP   Targeting Power Evade Description...    •Warp    10    -  -  Escape from dungeon or battle
+   Ramuh    32    All Foes    120*    -  Bolt damage  *(1/2 damage on multi-target)    •Scan    1    One Foe  -  Displays HP/MP, elemental weaknesses, & active statuses
+   Kirin    24    Party    10    -  Cures HP/revives allies  -    •Dispel    10    Single  -  Lifts positive statuses
+   Siren    16    All Foes    -  Stam  -  Sets “Bserk”    •Osmose    1    Single  *  Steals MP (power = 5, *hitrate = 90%)
+   Stray    24    Party    10    -  Cures HP (stamina-based)  Sets “Regen”    •Rasp    5    Single  Stam  MP damage (power = 25)
+   Shiva    32    All Foes    120*    -  Ice damage  *(1/2 damage on multi-target)
+
+  Blitz   Lv   Targeting Power Description...   Ifrit    32    All Foes    120*    -  Fire damage  *(1/2 damage on multi-target)
+   Unicorn      24    Party    15    -  Cures HP (stamina-based)  Lifts most bad statuses    Pummel    1    One Foe    150  Physical attack  Ignores defense, sets “Sap”
+   Maduin    48    All Foes    90*    -  Wind damage  Ignores defense    Suplex    9    One Foe    180  Physical attack  Ignores defense, may set “Stop”
+   Shoat    48    All Foes    -  Stam  -    Aurabolt    12    One Foe    75  Stamina-based Holy dmg  Row affects damage
+   Phantom    16    Party    -    -  -  Sets “Clear”    Fire Dance    15    All Foes    60  Fire damage  -
+   Carbunkl    24    Party    -    -  -  Sets “Rflect”    Mantra    20    Allies    -  Cures HP  Power is stamina-based, weaker at low HP
+   Bismark    32    All Foes    120*    -  Water damage  *(1/2 damage on multi-target)    Chakra    25    Allies    -  Cures MP  Power is stamina-based
+   Golem    48    Party    -    -  Blocks physical damage  Durability = caster's max HP    Sonic Boom    30    All Foes    60  Stamina-based Wind dmg  -
+   Zoneseek    48    Party    -    -  -  Sets “Shell”    Bum Rush    -    One Foe    255  Physical attack  Ignores defense
+   Seraph    80    Party    -    -  -  Sets “Rerise”
+
+  Bushido   Lv   Targeting Power Description...   Palidor    24    Party    -    -  -  Party attacks with “Jump”
+   Fenrir    48    Party    -    -  -  Sets “Image”    Dispatch    1    One Foe   (Atk * 3/4)  Physical attack  Ignores defense, 2x damage to humans
+   Tritoch    64    All Foes    180*    -  Fire/Ice/Bolt damage  *(1/2 damage on multi-target)    Mindblow    8    One Foe    -  MP damage  Damage = 500
+   Terrato    64    All Foes    180*    -  Earth damage  *(1/2 damage on multi-target)    Empowerer    10    One Foe    75  Steals HP/MP  Sets “Sap”, row affects damage, effective vs. undead
+   Starlet    80    Party    -    -  Cures HP to max  Lifts ALL bad statuses    Flurry    12    Foe(s)   (Atk * 3/8)  Physical attack  Hits 4 times, may set “Muddle”
+   Crusader    64    All Foes    180*    -  Dark damage  *(1/2 damage on multi-target)    Dragon    18    One Foe    40  Stamina-based damage
+   Phoenix    80    Party    -    -  Revives fallen allies  Revives to Max HP    Eclipse    24    All Foes    90  Non-elemental damage  Sets “Blind”
+   Odin    99    All Foes    150*    -  Stamina-based damage    Tempest    30    Foe(s)   (Atk * 1/2)  Physical attack  Hits 4 times
+   Alexandr    99    All Foes    255*    -  Holy damage  *(1/2 damage on multi-target)    Cleave    -    All Foes    -  Instant death
+   Bahamut    99    All Foes    100*    -  Non-elemental damage
+
+  Tools Value    Targeting Power Description...   Ragnarok    99    One Foe    -    -  Non-elemental damage  Damage = 9,999
+   Autocrossbow   500    Foe Group    180  Physical attack
+
+  Lore   MP   Targeting Power Evade Description...    Noiseblaster   1000    Foe Group    -  -
+   Aqualung    18    All Foes    36  -  Water damage  -    Bio Blaster   5000    Foe Group    45  Dark damage  Sets “Poison”
+   Bad Breath    16    Foe Group    -  Stam  -  Sets “Poison”/”Blind”/”Mute”    Drill   10000    Single    200  Physical attack  Ignores defense, sets “Sap”
+   Black Omen    72    All Foes    48  -  Non-elemental damage  Ignores defense    Flash   15000    Foe Group    60  Non-elemental damage  Sets “Blind”
+   Blaze    12    Free    42  M.Eva  Fire/Wind damage  May set “Blind”/”Sap”    Defibrillator   30000    One Ally    10  Revives fallen ally  -
+   Blow Fish    -    Single    -  -  Physical damage  Damage = 1,000    Mana Battery  -    One Ally    1  Cures MP  -
+   Discord    5    Single    -  Stam  -  Sets “Muddle”/”Bserk”, unreflectable    Chainsaw  -    Single    255  Physical attack  Ignores defense, randomly kills
+   Holy Wind    30    Party    -  -  Cures HP  Amount healed = caster's (current) HP
+
+  Thrown Value   Targeting Power Description...   Raid    15    One Foe    25  Stam  Steals HP/MP  Ignores defense, unreflectable
+   Raze    36    One Foe    75  M.Eva  Fire/Wind damage  May set “Sap”    Shuriken    250
+
+   Free
+   90
+
+ (Throwing stars – and thrown knives - are critical physical attacks that ignore defense/row)
+   Refract    24    One Ally    -  -  -  Sets “Image”/”Rflect”, unreflectable    Ninja Star    -    255
+   Shield    48    Party    -  -  -  Sets “Safe”    Ninja Scroll    500    All Foes    100*
+   Tsunami    64    All Foes    72  -  Water damage  -    Smoke Bomb    100    One Ally    -  Sets “Image”
+
+ Sets “Rerise”  (casts Life upon death)
+
+ Sets “Regen”  (periodic heal; cancels Sap)
+
+ Sets “Sap” (periodic damage, cancels Regen)
+ Sets “Poison” (rising periodic damage)
+
+ Sets “Muddle” (attack allies randomly until physically hit)
+ Sets “Mute” (can't do anything that costs MP)
+ Sets/lifts “Imp” (damage and healing output halved)
+ Sets “Bserk” (physical damage up, become uncontrollable)
+
+ Sets “Sleep” (inactive until physically hit or it wears off)
+
+ Sets “Safe” (physical defense up)
+ Sets “Shell” (magical defense up)
+
+ Sets “Haste” (speed up; cancels “Slow”)
+
+ Sets “Slow” (speed down; cancels “Haste”)
+
+ Sets “Stop” (can't move for a brief time)
+ Sets “Rflect” (repels single & free-target magic, excluding “Dance” attacks)
+ Sets “Float” (blocks “ground” attacks)
+
+ Sets “Petrify” (low hit%)
+
+ Ignores defense, randomly sets “Petrify” (odds = 1/2)
+
+ Ignores defense,  *(1/2 damage on multi-target)
+ Can miss (evasion stats = Evade & Stamina)
+
+ Ignores defense,  *(1/2 damage on multi-target)
+
+ Ignores row, can miss (evasion stat = Evade)
+ Sets “Muddle”, can miss (evasion stat = Stamina)
+
+ Three types: Fire, Bolt, or Water damage  *(1/2 damage on multi-target)
+
+
+
+  Rage Attack Bonus 2/3 Odds 1/3 Odds   Dance Odds Result   Rage   Targeting Power Evade Description...
+   Adamantite  2x damage  (Attack)  Holy Wind
+
+Wind
+
+7/16 Sun Bath
+   Absolute 0    All Foes    120  -  Ice damage  -
+
+   Albatross  2x damage  Fireball  (Attack)    Acid Rain    All Foes    30  -  Water damage  May set “Sap”
+   Anemone  Sets “Poison”  Discharge  (Attack)
+
+5/16 Wind Slash
+   Aero    All Foes    75  M.Eva  Wind damage  May set “Sap”
+
+   Antlion  (Attack)  Snare    Air Blast    Free    -  Stam  Wind damage  Damage = (HP *1/2)
+   Behemoth  2x damage  (Attack)  Meteo Song 3/16 Razor Leaf    Atomic Ray
+
+   One Foe    90  M.Eva  Non-elemental damage  Unreflectable
+   Belladonna  -  Moonlight  Raid    Barrier    One Ally    -  -  -  Sets “Shell”/”Rflect”, unreflectable
+   Bomb  -  Exploder  -
+
+1/16 Cockatrice
+   Bio Blast    Foe Group    45  -  Dark damage  May set “Poison”
+
+   Brainpan  -  Blow Fish  • Rerise    Blight    Foe Group    45*  M.Eva  Dark/Wind damage
+   Buffalax  3x damage  Landslide  (Attack)
+
+Desert
+
+7/16 Sand Storm
+   Blink    One Ally    -  -  -  Sets “Image”/”Haste”
+
+   Cephalid  Sets “Slow”  Tentacle  (Attack)    Brown Note    One Foe    60  M.Eva  Non-elemental damage  May set random negative status
+   Chickenlip  Sets “Muddle”  (Attack)  Net
+
+5/16 Mirage
+   Diffuser    All Foes    90*  M.Eva  Bolt damage  *(1/2 damage on multi-target)
+
+   Chimera  -  Aqualung  Fireball    Discharge    All Foes    75  M.Eva  Bolt damage  -
+   Conjurer  Sets “Sap”  • Rerise  (Attack) Aria 3/16 Sun Bath    Exploder
+
+   All Foes    -  -  Non-elemental damage  Damage = caster's (current) HP (if used via Rage, * 2.5)
+   Crawler  Steals HP  Magnitude  (Attack)    Fireball    Foe Group    60*  M.Eva  Fire damage
+   Doggo  3x damage  (Attack)  Step Mine
+
+1/16 Meerkat
+   Firestorm    All Foes    50  -  Fire/Water damage  -
+
+   Exocite  2x damage  Rock  (Attack)    Flash Rain    All Foes    60  -  Bolt/Water damage  -
+   Eye Goo  -  Lode Stone  Glare
+
+Forest
+
+7/16 Harvester
+   Gale Cut    All Foes    25  M.Eva  Wind damage  -
+
+   Flan  -  • Life  • SlowX    Giga Volt    One Foe    120  M.Eva  Bolt/Wind damage  May set “Sap”
+   Gargoyle  -  Sun Bath  Quake
+
+5/16 Razor Leaf
+   Glare    One Foe    -  Stam  -  Sets “Petrify” (will miss on “Clear” targets)
+
+   Griffin  -  Giga Volt  Air Blast    Landslide    All Foes    60  -  Earth damage  Ground attack, may set “Slow”
+   Grizzly  3x damage  Cave In  (Attack) Suite 3/16 Elf Fire    Lode Stone
+
+   One Foe    -  Stam  Earth damage  Damage = (HP *5/8), sets “Slow”
+   Hornet  3x damage  (Attack)  Blink    Magnitude    All Foes    100*  -  Earth damage
+   Io  -  Atomic Ray  Diffuser
+
+1/16 Raccoon
+   Mega Volt    Free    30  M.Eva  Bolt/Wind damage  May set “Sap”
+
+   Jinn  Sets “Mute”  Discord  (Attack)    Meteo    All Foes    60  M.Eva  Non-elemental damage  Ignores defense, low accuracy
+   Kudzu  -  Raid  • RegenX
+
+Earth
+
+7/16 Avalanche
+   Net    One Foe    -  Stam  -  Sets “Slow”/”Stop”
+
+   Leafer  -  Wind Slash  Air Blast    Rock    Free    100  (!)Eva  Stamina-based damage
+   Lich  -  • Rasp  Elf Fire
+
+5/16 Sun Bath
+   Shrapnel    Foe Group    150*  (!)Eva  Stamina-based damage  *(1/2 damage on multi-target), (!) = see “Tentacle”
+
+   Locust  -  Gale Cut  Mirage    Snowball    Foe Group    50*  M.Eva  Ice damage
+   Magic Pot  4x damage  • Cure  (Attack) Blues 3/16 Wind Slash    Starlight
+
+   All Foes    60  M.Eva  Non-elemental damage  May set “Blind”
+   Mantodea  Sets “Sap”  Shrapnel  (Attack)    Step Mine    One Foe    -  M.Eva  Non-elemental damage  Damage rises with number of steps taken
+   Marlboro  -  Bio Blast  Bad Breath
+
+1/16 Wild Boars
+   Tentacle    Free    120  (!)Eva  Stamina-based damage  (!) = physical attack if used by enemy, magical otherwise
+
+   Mesosaur  -  Holy Wind  Magnitude    Vanish    One Ally    -  -  -  Sets “Clear”
+   Nastidon  -  Snowball  Absolute 0
+
+Dusk
+
+7/16 Cave In   Dance   Targeting Power Evade Description...   Ninja  -  Wave Scroll  Vanish
+   Onion Kid  Sets “Bserk”  Brown Note  (Attack)
+
+5/16 Snare
+   Avalanche    One Foe    60  M.Eva  Earth damage  Ignores defense
+
+   Osteosaur  • Doom  (Attack)    Bedevil    One Foe    25  -  Steals HP/MP  Ignores defense, effective vs. undead
+   Rain Man  -  Acid Rain  • Bolt 2 Requiem 3/16 Moonlight    Blizzard
+
+   All Foes    90  -  Ice/Wind damage  May set “Blind”
+   Raven  Sets “Sleep”  • Break  (Attack)    Cave In    One Foe    -  Stam  Earth damage  Damage = (HP *3/4), sets “Sap”
+   Repo Man  -  Step Mine  Vanish
+
+1/16 Wombat
+   Cockatrice    One Foe    120  -  Non-elemental damage  Ignores defense, sets “Petrify”
+
+   Revenant  -  • Holy  Blaze    Elf Fire    One Foe    72  -  Fire damage  -
+   Rhydon  2x damage  (Attack)  Sun Bath
+
+Love
+
+7/16 Bedevil
+   El Nino    All Foes    60  -  Water damage  -
+
+   Rocky  -  Harvester  Rock    Harvester    Party    10  -  Cures HP (stamina-based)  Lifts most bad statuses
+   Sand Ray  2x damage  Sand Storm  (Attack)
+
+5/16 Moonlight
+   Ice Rabbit    Party    -  -  Cures HP to max  Sets ”Image”
+
+   Scarab  -  Starlight  Mega Volt    Meerkat    Party    -  -  -  Sets “Image”/”Haste”
+   Scrapper  2x damage  (Attack)  Chakra Sonata 3/16 Elf Fire    Mirage
+
+   Party    -  -  -
+   Sewer Rat  Sets “Poison”  • Poison  (Attack)    Moonlight    All Foes    90*  M.Eva  Holy damage  *(1/2 damage on multi-target)
+   Shokan  -  • Dark  Raze
+
+1/16 Tapir
+   Plasma    One Foe    72  -  Water damage  -
+
+   Soldier  2x damage  • Cure 2  (Attack)    Raccoon    Party    -  -  Cures HP to max  Lifts most bad statuses
+   Spirit  -  • Demi  • Quartr
+
+Water
+
+7/16 El Nino
+   Razor Leaf    All Foes    100*  M.Eva  Earth/Wind damage  *(1/2 damage on multi-target)
+
+   Stray Cat  3x damage  Snowball  (Attack)    Sand Storm    All Foes    42  M.Eva  Earth/Wind damage  May set “Blind”
+   Tek Armor  2x damage  Barrier  (Attack)
+
+5/16 Plasma
+   Snare    One Foe    -  -  Instant death  -
+
+   Templar  3x damage  (Attack)  • Remedy    Sun Bath    Party    20  -  Cures HP (stamina-based)  -
+   Titan  3x damage  Avalanche  (Attack) Rondo 3/16 Surge    Surge
+
+   All Foes    90  -  Ice/Water damage  Ground attack
+   Troll  3x damage  (Attack)  Refract    Tapir    Party    2  -  Cures MP  Lifts ALL bad statuses
+   Tumbleweed  Steals HP  • Cure 3  (Attack)
+
+1/16 Toxic Frog
+   Toxic Frog    One Foe    180  -  Water/Dark damage  Sets “Poison”
+
+   Tyrano  3x damage  (Attack)  Firestorm    Wild Boars    One Foe    120  -  Non-elemental damage  Ignores defense, ground attack
+   Vagrant  2x damage  Flash Rain  (Attack)
+
+Snowman
+
+7/16 Blizzard
+   Wind Slash    All Foes    50  M.Eva  Wind damage  -
+
+   Vaporite  Plasma  (Attack)    Wombat    All Foes    100  -  Non-elemental damage  Ignores defense, ground attack
+   Vulture  -  Razor Leaf  Harvester
+
+5/16 Surge   Slots   Targeting Power Description...   Slots Description...   Weedula  -  • Quake  Razor Leaf
+   Werewolf  3x damage  (Attack)  • Regen Jazz 3/16 Mirage    3 Chocobos
+
+   All Foes    90  Ground damage; sets “Sap”
+   Bar-Bar-Bar  Summons random esper
+
+   Windrunner  -  Aero  Blight    3 Diamonds    All Foes    75  Sets “Blind”
+   Witch  -  Refract  • Fire 3
+
+1/16 Ice Rabbit
+   3 Airships    All Foes    36  Ignores defense
+
+   7 – 7 – 7  Cures HP/revives allies (pwr = 10)
+   Zombone  Cave In  (Attack)    (Losing Spin)    Party    10  Cures HP
+
+ Sets “Stop” (no dmg)
+
+ May set “Poison”, *(1/2 damage on multi-target)
+
+ May set “Sap”,  *(1/2 damage on multi-target)
+
+ Ground attack, *(1/2 damage on multi-target)
+
+ Low accuracy, may set “Muddle”, (!) = see “Tentacle”
+
+ May set “Slow”,  *(1/2 damage on multi-target)
+
+ Sets “Petrify” (no dmg)
+
+ Randomly sets “Image” (odds = 1/2)
+
+ Sets “Blind” (no dmg)
+
+ Sets “Zombie“ (no dmg)
+
+
+
+  Weapon Value Attack Evade & Stat Boost(s) Equip Description...   Weapon Value Attack Evade & Stat Boost(s) Equip Description...M.Evade M.Evade
+   Mythril Bolo    250    75 10 / - -
+
+  Te / Ce
+
+ Initial: Te    Hanzo    -    90 10 / - Stam +2
+
+  Cy / Sh
+
+ Initial: Cy/Sh
+2 hand
+
+s
+
+   Iron Cutlass    500    100 10 / - Spd +2  Initial: Ce    Kotetsu    750    120 10 / - Vgr +3 / Stam +3  May counter-attack
+
+   Scimitar    2500    150 10 / - Vgr +3 / Spd +3  Dual-wield, may counter-attack    Ichimonji    1500    140 10 / - Spd +3 / Stam +3  High critical rate, can insta-kill
+
+   Flametongue    5000    125 - / 10 Vgr +3 / Mag +3  Fire damage, may cast Fire 2    Kazekiri    -    150 10 / - Spd +5 / Stam +5  May hit all foes with stamina-based wind attack
+
+   Icebrand    5000    125 - / 10 Stam +3 / Mag +3  Ice damage, may cast Ice 2    Murasame    -    160 10 / - Vgr +5 / Stam +5  May counter-attack
+
+   Elec Sword    5000    125 - / 10 Spd +3 / Mag +3  Bolt damage, may cast Bolt 2    Masamune    -    180 10 / - Vgr +7 / Stam +7  May counter-attack
+
+   Blood Sword    -    160 10 / - Vgr +5 / Stam +5  May cast Drain    Mutsunokami    -    210 10 / - Spd +7 / Stam +7  May hit all foes with stamina-based wind attack
+  Lo / Ed
+
+   Soul Sabre    -    175 - / 10 Mag +7  May cast Osmose    Tanto    -    75 10 / 10 Spd +2
+
+  Sh
+
+ Initial: Sh
+
+D
+ual-w
+
+ield
+
+T
+hrow
+
+able
+
+   Falchion    10000    200 10 / - Vgr +5 / Spd +5  Dual-wield, may counter-attack    Kunai    250    100 10 / 10 Spd +3  Anti-air, high crit rate
+
+   Rune Blade    25000    150 - / 10 Vgr +5 / Mag +5  Uses MP for critical hits    Sakura    1000    125 10 / 10 Spd +3 / Mag +5  May cast Break
+
+   Zantetsuken    -    210 20 / 20 Vgr +7 / Spd +7  May counter-attack, always hits, high crit rate, can insta-kill    Ninjato    2500    150 10 / 10 Spd +5  Anti-air, high crit rate
+
+   Excalibur    -    255 10 / 10 Vgr +7 / Mag +7  Uses MP for critical hits, stronger if held with 2 hands    Kagenui    -    175 10 / 10 Mag+7  “Fight” hits 2x; may set “Stop”/”Slow”
+
+   Atma Weapon    -    *225 - -  Attacks with stamina, weaker at low HP    Orochi    -    200 10 / 10 Spd +7  Anti-air, high crit rate
+
+   Apocalypse    -    180 10 / 10 All +5   Te  Uses MP for critical hits, may cast Flare    Kusarigama    2000    100 - -   Sh / Go  2x damage to humans, may set “Stop”/”Slow”
+
+   Illumina    -    180 10 / 10 All +5   Ce  Uses MP for critical hits, may cast Holy    Darts    1000    120 - -
+
+  Se
+
+ Initial: Se
+
+Ignores row
+
+   Mythril Dirk    100    50 - -
+
+  Lo / Sh
+
+ Initial: Lo/Go
+
+T
+hrow
+
+able
+
+D
+ual-w
+
+ield
+
+   Tarot    -    140 - -  Holy damage, undead slayer
+
+   Butterfly    500    75 - Vgr +3  2x damage to humans    Viper Darts    -    160 - -  Uses MP for critical hits
+
+   Switchblade    -    100 10 / - Spd +5  May steal from foe    Dice    5000    - - -  Damage = (2Lv. * D1 * D2), always hits
+
+   Demonsbane    -    120 10 / - Vgr +3 / Spd +3   Se / Go  Undead slayer    Fixed Dice    -    - - -  Damage = (2Lv. * D1 * D2 * D3), always hits
+
+   Man Eater    10000    160 - / - Vgr +5  2x damage to humans    Mythril Rod    -    90 - Stam +3
+
+  St / Mo
+
+ Initial: St U
+ses M
+
+P for critical hits(*)
+
+   Avenger    -    200 10 / - Vgr +5 / Spd +5  Holy damage    Fire Rod    2500    120 - Mag +3
+
+H
+igh spellcast rate
+
+   Valiance    -    175 10 / - Vgr +5   Lo  Ignores defense, stronger at low HP    Ice Rod    2500    120 - Mag +3
+
+   Mythril Pike    -    80 - -
+
+  Ed / Mo 
+
+ Initial: Ed/Mo
+
+M
+ay guard
+
+ allies
+
+2 hand
+s; “Jum
+
+p” bonus
+
+   Thunder Rod    2500    120 - Mag +3
+  Re / Go
+
+   Stout Spear    1500    90 - -  HP+25%    Quartrstaff    5000    150 10 / - Stam +7
+
+   Trident    3000    100 - -  Water damage, HP+12.5%    Doomstick    15000    150 10 / - Mag +3 / Stam +3
+
+   Fire Lance    6000    120 - -  Fire damage, HP+12.5%    Punisher    -    150 10 / - Mag +7 / Stam +7
+
+   Partisan    9000    140 - -  HP+25%    Wind Breaker    -    180 10 / - Spd +5 / Stam +5   St / Re  May hit all foes with stamina-based wind attack
+
+   Gungnir    -    160 - -  Always hits, HP+50%    Light Brush    -   (60) - / 10 Mag +3
+
+  Re / Go
+
+ Initial: Re
+
+H
+its 2x
+
+(C
+ures H
+
+P)
+
+   Longinus    -    180 - -  Holy damage, HP+25%    Monet Brush    5000   (80) - / 10 Mag +3 / Spd +3  May cast Safe
+
+   Mythril Claw    -    60 - Vgr +2
+
+  Sa
+
+ Initial: Sa (2x)
+
+D
+ual-w
+
+ield
+
+   Dali Brush    -   (100) - / 10 Mag +5 / Spd +3  May cast Shell
+
+   Spirit Claw    750    80 - Vgr +3 / Spd +2  Holy damage, may cast Slow    Ross Brush    -   (120) - / 10 Mag +5 / Spd +5  May cast Rflect
+
+   Poison Claw    1500    90 - Vgr +3 / Stam +2  Dark damage, may cast Sap    Boomerang    1500    50
+
+- -
+  Te / Ce
+
+ Anti-air, high crit rate, ignores row, dual-wield
+   Ocean Claw    2500    100 - Vgr +5 / Stam +3  Water damage, may cast Drain    Full Moon    3000    100
+
+   Hell Claw    5000    120 - Vgr +5 / Spd +3  Fire damage, may cast Fire    Rising Sun    9000    130   Lo / Mo
+
+   Frostgore    -    150 - Vgr +7 / Stam +5  Ice damage, may cast Ice    Wing Edge    -    160
+
+   Stormfang    -    180 - Vgr +7 / Spd +5  Bolt damage, may cast Bolt    Bone Club
+   -
+
+   128
+-
+
+-
+ Ga / Um
+
+  Initial: Um
+
+   Morning Star    5000    125 - Spd -2   Te / Ce  Ignores defense    Magic Bone    64 Mag +7    -
+
+  Item Value Description...   Item Value Description... Legend
+   Dried Meat    50  Cures 100 HP    Phoenix Down    200  Cures death (HP = 1)   Dual-Wield
+   Red Bull    250  Cures 200 HP    Phoenix Tear    -  Cures death (HP = 3/4 max)   2 Hands
+   Tonic    500  Cures 1/2 max HP    Holy Water    400  Cures “Zombie” (HP = 1/8 max)   MP for Criticals
+   Potion    2000  Cures 3/4 max HP    Antidote    50  Cures “Poison”   “May Cast (Spell)”
+   X-Potion    -  Cures 3/4 max HP – party    Eyedrops    50  Cures “Blind”   “May Counter-Attack”
+   Tincture    1000  Cures 50 MP    Green Cherry    100  Has a calming effect   “May Guard Allies”
+   Ether    -  Cures 3/4 max MP    Remedy    150  Lifts most bad statuses   “Jump” Bonus
+   X-Ether    -  Cures 3/4 max MP – party    Warp Whistle    300  Casts Warp   Throwable
+   Elixir    -  HP/MP to max, lifts most bad statuses    Bouncy Ball    500  Random damage to foes   Undead Slayer
+   Megalixir    -  Full heal (HP/MP/status) – party    Rename Card    ?  Hidden item
+
+ May cast Fire 2 --- *(MP crit = 2x spell damage)
+
+ May cast Ice 2 --- *(MP crit = 2x spell damage)
+
+ May cast Bolt 2 --- *(MP crit = 2x spell damage)
+
+ May cast Quartr --- *(MP crit = hits foe group)
+
+ May cast Doom --- *(MP crit = X-Zone)
+
+ May cast Dark --- *(MP crit = 2x spell damage)
+
+ Weapon may be used in the shield hand alongside any other weapon but a spear (both will deal 75% damage)
+
+ If off-hand is empty, weapon deals 150% damage (else normal damage, or 75% if a second weapon is present)
+
+ If MP is sufficient (1/2 user's lv.), it is used for a guaranteed critical hit (plus additional benefits for rod spellcasts)
+
+ (Spell) is randomly cast on target in addition to regular damage (NOTE: spell damage is affected by user's row)
+
+ User may counter any physical attack (rate is based on user's stamina – if stam >= 96, counter rate is 100%)
+
+ If in the front row, user may block physical attacks for back-row allies (if ally is near-fatal, will always guard)
+
+ Spears do double damage when used with “Jump” (other weapons deal 150% fight *AND* random spell damage)
+
+ Weapon is usable with the “Throw” command (critical damage, ignores defense/row)
+
+ Weapon randomly (50% odds) kills undead targets (if target is immune to death, then critical hit)
+
+  Anti-Air (High Crit Rate)  Critical hits deal triple damage to floating targets instead of double (critical hit odds = 50%)
+
+
+
+  Shield Value Def & Evade & Stat Boost(s) Equip Description...   Armor Value Def & Evade & Stat Boost(s) Equip Description...M.Def M.Evade M.Def M.Evade
+   Buckler    100 10 / 10 10 / - -    All but Sa/Cy/Sh/Um  Initial: Te, Mo    Hard Leather    300 30 / 25 - -    All but Um  Initial: Te, Lo, Ed, Cy
+
+   Iron Shield    500 20 / 20 10 / - Spd-2    Te / Ce / Lo / Ed  -    Karate Gi    400 25 / 20 10 / - Vgr +2 / Spd +2    Lo / Sa / Ga / Sh  Initial: Sa, Sh
+
+   Targe    1000 15 / 15 10 / - -    All but Sa/Cy/Sh/Um  Initial: Se, St    Cotton Robe    500 20 / 30 - / 10 Mag +2 / Stam +2    Te / Ce / Sa / St / Mo  Initial: St
+
+   Gold Shield    3000 30 / 30
+
+10 / 10 Spd-2
+   Te / Ce / Lo
+
+ Halves Water damage    Iron Armor    1000 45 / 30 - Spd-3    Te / Ce / Cy / Ed  -
+
+   Diamond Kite    5000 40 / 35  Halves Bolt damage    Mythril Vest    1500 40 / 25 10 / - -    All but Um  Initial: Se
+   Ed / Se / Mo
+
+   Crystal Kite    10000 50 / 40  Halves Wind damage    Ninja Gear    2500 30 / 20 20 / - Vgr +3 / Spd +3    Lo / Sa / Ga / Sh  -
+
+   Flameguard
+
+   - 20 / 30 - / 10
+
+Vgr +3 / Mag +3
+
+   All but Sa/Cy/Sh/Um
+
+ Absorbs Fire damage    White Dress    3000 20 / 40 - / 20 Mag +5    Te / Ce / Re  -
+
+   Iceguard Stam +3 / Mag +3  Absorbs Ice damage    Mythril Mail    4500 50 / 35 - Spd-2    Te / Ce / Cy / Ed  -   Lo / Se / Sh / Mo
+   Thunderguard Spd +3 / Mag +3  Absorbs Bolt damage    Gaia Gear    5000 35 / 30 20 / - Vgr +3 / Stam +5    Lo / Sa / Ga / Sh / Mo  Halves Earth damage
+
+   Genji Shield
+
+   -
+
+45 / 30 20 / -    Vgr+5 / Stam +5
+   Te / Ce / Lo
+
+ Auto-Safe    Power Armor    7500 40 / 25
+-
+
+Vgr +5 / Stam +3    Te / Ce / Cy  -
+
+   Force Shield 30 / 45 - / 20 Mag+5  Auto-Shell    Gold Armor    9000 55 / 40 Spd-3    Ed / Se / Mo  Halves Water damage
+   Ed / Se / Mo
+
+   Aegis Shield 25 / 25 20 / 20 Spd+5    Diamond Vest    10000 55 / 35 10 / - -    All but Um  Halves Bolt damage
+
+   Hero Shield    - 40 / 40 10 / 10    Vgr+5 / Mag +5    Te / Ce / Lo    Diamond Mail    15000 65 / 45
+- Spd-3
+
+   Te / Ce / Cy  Halves Bolt damage
+
+   Crystal Mail    30000 75 / 50    Ed / Se / Mo  Halves Wind damage
+  Helmet Value Def & Evade & Stat Boost(s) Equip Description...M.Def M.Evade    Dark Gear    20000 40 / 35 20 / - Vgr +5 / Spd +5    Lo / Sa / Ga / Sh / Mo  -
+   Leather Hat    100 15 / 10 -    -    All but Um  Initial: Te, Ed, Cy
+
+   Light Robe    15000 25 / 50 - / 20 Mag +5 / Stam +5    Te / Ce / Sa / St / Mo  -
+   Hair Band    150 5 / 15 - / 10    Mag +2    Te / Ce / Re  Initial: Ce
+
+   Genji Armor    - 70 / 35 10 / - Vgr +7 / Stam +7    Te / Ce / Cy / Ed  -
+   Bandana    200 5 / 10 10 / - Vgr +2 / Spd +2    All but Um  Initial: Lo, Se, Re    Lo / Se / Sh / Mo
+
+   Force Armor    - 35 / 70 - / 10 Mag +7    Te / Ce / Cy  Halves Fire/Ice/Bolt damage
+   Iron Helm    500 30 / 20 -    Spd -2    Te / Ce / Cy / Ed  -    Ed / Se / Mo
+
+   Royal Jacket    - 50 / 40 20 / - Vgr +5    Ed / Sa  HP+25%
+   Green Beret    1000 10 / 10 10 / 10    Stam +3    All but Um  HP/MP+12.5%
+
+   Minerva    - 50 / 50 10 / 10 Vgr +5 / Mag +5    Te / Ce  Blocks Fire/Ice/Bolt damage
+   Mythril Helm    2000 30 / 20 -    -    Te / Ce / Cy / Ed  -   Lo / Sh / Se / Mo    Radiant Gown    - 40 / 50 - / 20 Mag +5    Re  MP+25%, brush spellcast rate up
+   Tiger Mask    3000 5 / 15 20 / - Vgr +5 / Spd +3    Sa / Ga  Halves Fire damage
+
+   Tabby Hide
+
+   -
+
+25 / 30
+
+10 / 10
+
+Spd +3 / Mag +3
+
+   Ga / St / Re / Go
+
+ Halves Earth damage
+   Gold Helm    4500 30 / 25 -    Spd -2    Te / Ce / Cy  Halves Water damage   Ed / Se / Mo    Gator Hide 30 / 35 Spd +3 / Stam +3  Halves Water damage
+   Mystery Veil    5000 5 / 25 10 / - Mag +3 / Vgr +2    Te / Ce  Sword spellcast rate up
+
+   Chocobo Hide 35 / 40 Spd +5 / Stam +5  Halves Water/Wind damage
+   Magus Hat    6000 5 / 35 - / 10 Mag +3 / Stam +2    Te / Ce / St / Mo / Go  MP+25%
+
+   Moogle Hide 40 / 45 Spd +5 / Mag +5  Halves Earth/Wind damage
+   Ninja Mask     - 10 / 25 10 / 10 Vgr +5 / Spd +5    Lo / Sh  May counter-attack
+
+   Dragon Hide 50 / 55 Stam +7 / Mag +7  Halves Fire/Wind damage
+   Diamond Helm    7500 35 / 30
+
+-    Spd -2
+   Te / Ce / Cy  Halves Bolt damage
+
+   Snow Muffler    - 60 / 60 - Spd-3    Ga / Mo / Go / Um  HP+25%, blocks Ice/Wind damage
+   Crystal Helm    15000 40 / 35    Ed / Se / Mo  Halves Wind damage
+
+   Mirage Vest    - 35 / 35 20 / 20 Spd +7    All but Um
+   Dark Hood    10000 10 / 25 20 / -    Spd +5    All but Um  -
+
+   Oath Veil    20000 10 / 35 - / 10 Mag +5 / Vgr +3    Te / Ce  Sword spellcast rate up   Relic Value Def & Evade & Stat Boost(s) Description...M.Def M.Evade
+   Circlet    25000 10 / 45 10 / - Mag +5 / Stam +3    Te / Ce / St / Mo / Go  MP+50%    Goggles    500 5 / - - Vgr +2 / Stam +2  Blocks “Blind”
+
+   Bracelet    500 - / 5 - Mag +2 / Stam +2  Blocks “Poison”
+   Red Cap    - 15 / 15 10 / 10    Stam +5    All but Um  HP/MP+25%
+
+   Talisman    1000 10 / - - Vgr +3 / Stam +3  Blocks “Blind”, ”Poison”
+   Genji Helm    - 40 / 20 10 / - Vgr +5 / Stam +3    Te / Ce / Cy / Ed  -    Fairy Charm    1500 - / 10 - Mag +3 / Stam +3  Blocks “Sleep”, ”Muddle”   Lo / Sh / Se / Mo
+   Dragon Helm    - 20 / 40 - / 10 Vgr +5 / Mag +3    Ed / Mo / Go  “Jump” randomly hits 2x    Spirit Stone    3000 15 / - - Vgr +5 / Stam +5  Blocks “Blind”, ”Poison”, ”Petrify”
+
+   Amulet    6000 - / 15 - Mag +5 / Stam +5  Blocks “Sleep”, “Muddle”, “Bserk”
+   Cat Hood    - 10 / 30 10 / 10 Mag +5 / Spd +5    Ga / Re  -
+
+   Ribbon    - - 20 / 20 -
+   Skull Cap    - 30 / 30 -    Stam +7    All  -    Quartz Charm    - - - Stam +7  Auto-Safe/Shell
+
+   Safety Glove    1500 20 / - - -  Sets Safe on low HP
+  Relic Value Def & Evade & Stat Boost(s) Equip Description...    Barrier Cube    2500 - / 20 - -  Sets Shell on low HPM.Def M.Evade
+   Dragoon Seal    5000
+
+- / -
+20 / - Vgr +3 / Spd +5    Ed / Mo / Go  “Fight” to “Jump”, sword spellcast rate up    Sprint Shoes    3000 - 20 / 0 -
+
+   Gale Hairpin    10000 - / 20 Mag +3 / Spd +5    Te / Ce / Re  Pre-emptive attack rate up    Life Bell    - - - Stam +5
+   Thief Glove
+
+   - - / -
+10 / - Vgr +5 / Spd +3    Lo / Go  “Steal” to “Mug”, physical output +25%    Hyper Wrist    5000 - - -  Auto-Bserk
+
+   Rogue Cloak - / 10 Mag +5 / Spd +3    Lo / Sh  Fight always hits, magical output +25%    Guard Ring    7500 5 / 15 - -  Auto-Safe
+   Moogle Charm
+
+   - - / -
+10 / - Spd +7 / Stam +7    Mo / Go
+
+ ???
+   Wall Ring    10000 15 / 5 - -  Auto-Shell
+
+   Memento Ring - / 10 Mag +7 / Stam +7    Sh / Re    Reflect Ring    - - - -  Auto-Rflect
+   Daryl's Soul
+
+   -
+10 / -
+
+-
+Vgr +5 / Stam +5    Se  “Fight” hits 2x    Ghost Ring    1000 - - -  Makes wearer undead
+
+   Heiji's Coin - / 10 Spd +5 / Stam +5    Se / Go  “Slot” to “GP Toss”    Knight Cape    1000 - 10 / - Vgr +5 / Spd +3  HP+12.5%, may guard allies
+   Nirvana Band
+
+   -
+10 / -
+
+-
+Vgr +3 / Stam +3    Ed / Sa / Cy  All output +25%    White Cape    2500 - - / 10 Mag +5 / Spd +3  Blocks “Imp”, “Mute”, “Stop”
+
+   Sage Stone - / 10 Mag +3 / Stam +3    Lo / St / Mo  “Magic” to “X-Magic”    Zephyr Cape    - - 10 / 10 Spd +7 / Stam +5  Sets Haste on low HP
+   Gem Box
+
+   -
+20 / -
+
+-
+Vgr +7    Te
+
+ MP costs = 1/2
+   Back Guard    4500 20 / 20 - -  Prevents back/pincer attacks
+
+   Soul Box - / 20 Mag +7    Ce    Black Belt    - - - Spd +7  “Fight” always hits, may counter-attack
+   Psycho Belt
+
+   - - / - -
+Spd +5
+
+   Ga / (*Um...?)
+ Physical output +25%, blocks Bolt damage    Power Glove    - - - Vgr +7  Physical output +25%
+
+   Blizzard Orb Stam +5  Magical output +25%, blocks Fire damage    Magic Cube    - - - / 20 Mag +7  MP+50%
+   Muscle Belt
+
+   -
+10 / 10
+
+- -    All but Um
+ HP+25%, physical output +25%    Stat Stick    6000 - - All +5  HP/MP+12.5%
+
+   Crystal Orb - / -  MP+25%, magical output +25%    Hero Ring    - - - Vgr +7 / Mag +7  HP/MP+25%, may guard allies
+
+ Auto-Haste (blocks “Slow”)
+
+ Auto-Regen (blocks “Sap”)
+
+ Auto-Haste (blocks “Slow”)
+
+ Blocks  “Stop”, “Petrify”, Death ( = instant death + “Zombie”)
+
+ Auto-Haste (blocks “Slow”)
+ Auto-Regen (blocks “Sap”)
+
+
+
+  Enemy HP MP Exp GP Weakness Block/(Absorb) Resistances/Type Status   Enemy HP MP Exp GP Weakness Block/(Absorb) Resistances/Type Status
+   Guard  50
+
+ -
+ 50  49
+
+  X-Dark  -   -
+ -
+
+   Lobo  75
+
+ -
+
+ 50  33
+
+  X-Fire  O-Ice   -  -
+   Captain  250  75  66    Red Wolf  750  150  133
+   Zombie  500  100  100  133   X-Holy/Fire  O-(Dark)    Lunaris  1000  300  249
+   Soldier  100
+
+ 100
+
+ 25  99
+
+  X-Dark  -   -  -
+
+   Werewolf  5000  600  333
+   Officer  200  50  149    Mammoth  200
+
+ -
+ 100  66
+
+  X-Fire  O-Ice/Wind   -  -   Trooper  300  100  199    Tusker  400  250  99
+   Commando  600  125  249    Nastidon  6000  1000  499
+   Phalanx  200  100  75  149
+
+  X-Dark/Water  -  Safe + Shell
+   Sewer Rat  75
+
+ -
+ 25  33
+
+  X-Fire  -   -  -   Templar  800  300  200  299    Plague Rat  400  100  166
+   Centurion  4000  500  -  -    Vermin  750  125  333
+   Repo Man  50
+
+ -
+ 25  49
+
+  X-Dark  -   -  Shell
+   Leafer  50
+
+ -
+ 25  49
+
+  X-Fire  -   -   Mechanix  150  50  99    Rabite  200  50  99
+   Junkie  300  100  149    Dark Hare  1000  250  399
+   Scrapper  250
+
+ -
+ 75  166
+
+  X-Dark  -   -  -
+   Raven  50
+
+ -
+ 25  33
+
+  X-Bolt  -   -  Float   Fighter  500  150  399    Condor  150  50  66
+   Brawler  3000  350  849    Cockatrice  1500  450  499
+   Hobo  500
+
+ -
+ 200  333
+
+  X-Dark  -   -  -
+   Sand Ray  100
+
+ -
+ 25  66
+
+  X-Ice  -   -  -   Drifter  1500  300  666    Trilobite  200  50  99
+   Vagrant  2500  400  999    Antlion  50
+
+ -
+ 50  49
+
+  -  -   -  -
+   Slamdancer  600  100  250  499
+
+  X-Dark  O-Fire  -
+   Scorpion  500  250  149
+
+   Souldancer  3000  300  750  999    Hornet  50
+ -
+
+ 50  49
+  X-Fire  -   -
+
+   Tapdancer  4800  500  1250  1499    Wasp  250  200  99
+   Rain Man  800  100  200  599
+
+  X-Dark/Bolt  O-Water/Wind  Float
+   Crawler  100
+
+ -
+ 50  66
+
+  X-Fire  -   -  -
+   Umbro  2400  300  400  799    Slurm  500  150  166
+   Parasoul  3600  500  800  999    Eye Goo  100
+
+ -
+ 75  99
+
+  X-Fire  -   -  -
+   Conjurer  400  100  150  249
+
+  X-Dark  -  -
+   Puff Goo  1000  350  499
+
+   Warlock  2800  300  450  499    Foamy  150
+ -
+
+ 75  33
+  X-Fire  -   -  -   Wizard  4000  500  900  749    Rocky  600  150  99
+
+   Onion Kid  500
+ -
+
+ 75  149
+  X-Dark/Bolt  -  Safe
+
+   Nutkin  2400  450  349
+   Tiny Tim  2000  450  549    Rhyhorn  300
+
+ -
+ 150  99
+
+  X-Ice  O-Bolt/Earth   -  -   Iron Man  3000  700  949    Rhydon  1200  450  149
+   Dahling  2000
+
+ 500
+ 450  999
+
+  X-Dark  -  -
+   Rhyperior  4800  750  299
+
+   Madam  3000  600  1249    Bear  600
+
+ -
+
+ 350  149
+
+  X-Fire  O-Wind   -  -
+   Maiden  5000  750  1499    Grizzly  3600  750  299
+   Succubus  2000
+
+ 300
+ 500  749
+
+  X-Dark/Bolt  -  Float
+   Gold Bear  4800  1250  449
+
+   Banshee  4000  750  1499    Black Bear  7200  2500  599
+   Witch  3000
+
+ 500
+ 750  599
+
+  X-Dark  -
+ Float    Doberman  200
+
+ -
+ 50  99
+
+  -  -   -   Fiend  5000  1250  999  -    Rottweiler  400  100  133
+   Giant  2500
+
+ -
+ 1000  999
+
+  X-Dark  O-Earth  -
+   Foxhound  800  200  166
+
+   Titan  10000  2500  2499    Pooch  500
+ -
+
+ 125  199
+  -  -   -  -   Colossus  10000  5000  4999    Doggo  1000  250  399
+
+   Ninja  2000
+ -
+
+ 500  749
+  X-Dark  O-Fire
+
+   Chupacabra  1500  500  599
+   Shinobi  4000  1500  999    Stray Cat  300
+
+ -
+ 75  49
+
+  X-Water  -   -  -
+   Assassin  6000  2500  1249    Wild Cat  1800  550  499
+   Shokan  2500
+
+ 300
+ 500  649
+
+  X-Dark  -   -  -
+   Chickenlip  400
+
+ -
+ 100  133
+
+  X-Ice  -   -  -   Tarokan  5000  1000  749    Cluck  2400  500  299
+   Gorokan  7500  1500  849    Cricket  300
+
+ -
+ 100  49
+
+  X-Fire  -   -  Float   Samurai  4000
+ -
+
+ 1000  499
+  X-Dark  -   -  -
+
+   Dragonfly  500  200  149
+   Retainer  8000  2000  949    Locust  700  300  249
+   Katanasoul  40000  5000  3000  4999   X-Holy/Fire  O-(Dark)   Undead/All + HP%  -    Beakor  500
+
+ -
+
+ 150  149
+
+  X-Bolt  -   -
+   Siegfried  10000  -  -  -   X-Dark  -   -  -    Racer  1000  350  249
+   Wight  300  100  100  99
+
+  X-Holy/Fire  O-(Dark)  -
+   Windrunner  3000  550  349
+
+   Wraith  1500  300  350  399    Hoodwink  5000  750  449
+   Revenant  4500  500  700  699    Buzzard  500
+
+ -
+ 150  199
+
+  X-Bolt  -   -  Float   Lich  600  100  150  166
+  X-Holy/Fire  O-(Dark)  -
+
+   Vulture  700  250  249
+   Powerslave  3000  500  600  666    Osprey  900  350  299
+   Thanatos  3000
+
+ 1000
+ 500  499
+
+  X-Holy/Fire  O-(Dark)
+   Albatross  400
+
+ -
+ 150  149
+
+  X-Bolt  -   -  Float   Reaper  9000  2000  999    Wyvern  800  300  249
+   Death  18000  4000  1499    Dactyl  1600  450  349
+   Spirit  200  100  50  66
+
+  X-Holy/Fire  O-(Dark)  Float
+   Exocite  200
+
+ -
+ 75  49
+
+  X-Bolt  O-Water   -  -   Specter  600  300  100  333    Primordite  250  100  66
+   Phantom  1000  500  150  666    Clawglip  300  125  99
+   Jinn  1000  100  350  499
+
+  X-Holy/Fire  O-(Dark)
+   Nautiloid  300
+
+ -
+ 100  99
+
+  X-Fire/Bolt  O-Water   -  Shell   Djinni  1500  300  550  699    Cephalid  900  300  299
+   O-Bake  3000  500  750  899    Sea Flower  300
+
+ -
+ 150  149
+
+  X-Fire/Ice  O-(Bolt/Water)  Shell   Fossilfang  1000  100  250  399
+  X-Holy/Fire  O-(Dark)  -
+
+   Anemone  1200  350  249
+   Zombone  2000  300  500  599    Sponge  1800  550  349
+   Necrosaur  5000  500  2000  799    Anguiform  500
+
+ -
+ 200  249
+
+  X-Ice  O-Water/Earth   -  -
+   Sand Devil  4000  300  1000  349
+
+  X-Holy/Fire  O-(Dark)  Float
+   Latimeria  1500  400  749
+
+   Sea Devil  6000  500  2000  649    Prokaryote  200
+ -
+
+ 100  49
+  -  O-(Bolt/Water)   All  Float   Plantpire  500  300  350  333
+
+  X-Holy/Fire/Ice  O-(Dark/Water)  Safe + Shell
+   Eukaryote  1000  400  349
+
+   Weedula  1500  500  750  666    Vaporite  100
+ -
+
+ 50  33
+  X-Fire  O-(Bolt)   All   Belladonna  2400  300  300  449
+
+  X-Holy/Fire/Ice  O-(Dark/Water)  -
+   Ectoplasm  150  75  49
+
+   Nightshade  3200  500  600  849    Fuzzy  1500  500  249
+   Osteosaur  5000  1000  1000  999
+
+  X-Holy/Fire  O-(Dark)  -
+   Bomb  300
+
+ -
+ 125  33
+
+  X-Ice/Water  O-(Fire)   All  Sap + Float
+   Bonelord  10000  1500  2000  1999    Grenade  600  250  66
+
+  Undead (All but Death)
+
+  Amulet + Ribbon
+  (Sleep/Muddle/Bserk/Stop/Petrify/Death)
+
+ Haste
+ (blocks Slow)
+
+  Ribbon (Stop/Petrify/Death)  Haste + Float
+ (blocks Slow)
+
+  Amulet (Sleep/Muddle/Bserk)
+
+  Amulet (Sleep/Muddle/Bserk)
+
+  Ribbon (Stop/Petrify/Death)
+
+  Amulet (Sleep/Muddle/Bserk)
+
+  Ribbon (Stop/Petrify/Death)
+
+  Amulet (Sleep/Muddle/Bserk)  Haste
+ (blocks Slow)
+
+  Amulet + Ribbon
+  (Sleep/Muddle/Bserk/Stop/Petrify/Death)
+
+  Ribbon (Stop/Petrify/Death)
+ Haste
+ (blocks Slow)
+
+ Haste
+ (blocks Slow)
+
+  Undead (All but Death/Stop)
+
+  Undead (All but Death/Stop)
+
+  Undead + Ribbon (All)
+ Haste
+ (blocks Slow)
+
+  Undead (All but Death/Stop)
+
+  Undead (All but Death/Stop)  Shell + Float
+
+  Plant (All but Sleep)
+  Undead (All but Death/Stop)
+
+  Undead (All but Death/Stop)
+
+  Undead (All but Death/Stop)
+ Regen + Float
+ (blocks Sap)  Undead (All but Death/Stop)
+
+  Undead + Ribbon (All)
+
+
+
+  Enemy HP MP Exp GP Weakness Block/(Absorb) Resistances/Type Status   Enemy HP MP Exp GP Weakness Block/(Absorb) Resistances/Type Status
+   Trillium  300
+
+ 100
+ 100  149
+
+  X-Fire/Ice  O-(Water)  -
+   Lv.1 Mage  2000  300  300  199   X-Holy/Fire  O-(Dark)  -
+
+   Mandrake  600  200  249    Lv.2 Mage  2500
+ 300
+
+ 350  299   X-Dark  -  -
+   Kudzu  900  300  349    Lv.3 Mage  3000  400  399   X-Dark/Bolt  O-Water/Wind  Float
+   Tumbleweed  1500
+
+ -
+ 450  349
+
+  X-Fire  O-(Water)  -
+   Lv.4 Mage  4000  450  499   X-Dark  O-Fire  -
+
+   Atlasphere  2500  900  649    Lv.5 Mage  5000  500  500  599   X-Holy/Fire  O-(Dark)  -
+   Cave Stuff  1200  100  250  299
+
+  X-Fire  O-(Water)  Safe
+   Lv.6 Mage  6000
+
+ 500
+ 600  699
+
+  X-Dark  -
+ -
+
+   Pond Scum  3600  300  750  699    Lv.7 Mage  7000  700  799  Float
+   Marlboro  3600  100  600  349
+
+  X-Fire  O-(Water)  -
+   Lv.8 Mage  7500  800  899  -
+
+   Devil Weed  7200  300  900  549    Lv.9 Mage  8000  1000  900  999   X-Holy/Water  O-(Fire/Dark)  -
+   Mudcrab  500
+
+ -
+ 100  299
+
+  X-Ice  O-Water   -  -
+   Magic Pot  1000  -  100  1999   -  O-(Element)   -  Rflect
+
+   Hermit  3000  400  499    Whelk
+ ???  -  ???  -   X-Fire  O-(Bolt)   All + HP%  -
+
+   Beetle  600
+ -
+
+ 150  199
+  X-Ice  -   -  -
+
+   Chesticle
+   Scarab  1800  300  399    Vargas
+
+ ???  -  -  -   X-Dark  -   All + HP%  -
+   Komodo  1200
+
+ -
+ 250  249
+
+  X-Ice  -   -  -
+   Dadaluma
+
+   Basilisk  3600  450  449    Ultros
+ ???  -  -  -
+
+  X-Fire/Bolt  O-Water
+  All (+HP%)
+
+ -
+   Leap Frog  1600
+
+ -
+ 50  499
+
+  X-Ice  O-Water   -  -
+   Chupon   X-Bolt  O-Wind  Float
+
+   Frogger  2400  150  1499    Hell Angel  ???  ???  ???  -
+  X-Bolt/Water  O-Dark/Holy  Shell   Mantodea  2800
+
+ -
+ 400  449
+
+  X-Fire  -   -  -
+   Prometheus  18000  1000  3000  333
+
+   Zorathian  4800  800  899    Soul Train  ???  ???  ???  -   X-Holy/Fire  O-(Dark)   Undead/All + HP%  -
+   Buffalax  2500
+
+ -
+ 500  499
+
+  -  -  -
+   Shiva
+
+ ???  ???  -  -
+  X-Fire  O-(Ice)
+
+  All + HP%  -
+   Opinicus  5000  1500  999    Ifrit   X-Ice/Water  O-(Fire)
+   Griffin  6000
+
+ -
+ 1250  749
+
+  X-Bolt  -  Float
+   Number 024
+
+ ???  ???  ???  -   (???)  (???)   All + HP%  Regen
+   Roc  8000  2500  1499    MagiMaster
+   Gargoyle  2500  300  400  333
+
+  -  O-Earth  -
+   Number 128  ???  ???  ???
+
+ -   X-Bolt/Water  O-Dark/Holy   All + HP%
+ -
+
+   Mephisto  5000  500  800  666    (Arms)  ???  -  -  Regen
+   Brainpan  1000
+
+ -
+ 500  249
+
+  X-Water  O-Fire/Earth  Safe
+   Inferno  ???  ???  ???
+
+ -   X-Bolt/Water  O-Dark/Holy   All + HP%
+ -
+
+   Mu  2500  750  449    (Arms)  ???  -  -  Regen
+   Pan Dora  900  100  300  299
+
+  X-Bolt  -
+   Crane  ???  ???  -  -   X-Bolt/Water  O-Dark/Holy   All + HP%  -
+
+   Boxxy  1800  300  600  599    Heartfire  ???  ???  ???  -   X-Ice/Water  O-(Fire)   All + HP%  Float
+   Humpty  800  100  150  499
+
+  X-Water  -  -
+   IAF  ???
+
+ -  ???  -   X-Bolt/Water  O-Dark/Holy   All + HP%  Float
+   Dumpty  3200  300  350  699    (Bays)  ???
+   Suriander  2400
+
+ -
+ 450  399
+
+  X-Ice  -  -
+   Atma  ???
+
+ ???  ???  -   X-Ice  O-Earth   All + HP%  Regen
+   Wart Puck  3600  900  799    Ultima  ???
+   Adamantite  1200
+
+ 100
+ 350  299
+
+  X-Ice  -   -  Safe
+   Tentacle A
+
+ ???  ???  -  -
+
+  X-Water  O-(Bolt)
+
+  All
+
+ Regen
+   Adamantoid  1600  450  399    Tentacle B   X-Bolt  O-(Water)  Haste
+   Chimera  3000
+
+ -
+ 2000  999
+
+  -  O-Fire/Water  -
+   Tentacle C   X-Fire  O-(Ice)  Safe
+
+   Manticore  6000  3000  1249    Tentacle D   X-Ice/Water  O-(Fire)  Shell
+   Sphinx  9000  4000  1499    Dullahan  ???  ???  ???  -
+
+  X-Holy/Fire  O-(Dark)
+  Undead/All + HP%
+
+ -
+   Behemoth  5000
+
+ -
+ 1500  133
+
+  X-Ice  O-Wind  -
+   Didalos  20000  1000  4000  666
+
+   Diablos  10000  3000  249    Phunbaba  ???
+ -
+
+ ???  -
+  X-Fire  O-Wind
+
+  All + HP%
+ -
+
+   Intangir  25000  5000  499    Ogre Nix  15000  4000  999   All
+   Mesosaur  600
+
+ 100
+ 125  199
+
+  X-Ice  -   -  -
+   Chadarnook  ???  ???  ???  -   X-Holy/Fire  O-(Dark)   Undead/All + HP%  -
+
+   Raptor  3000  500  299    Tritoch  ???  ???  -  -   X-Fire  O-(Ice/Bolt)   All + HP%  -
+   Tyrano  9000
+
+ -
+ 4000  299
+
+  X-Ice  O-Earth/Wind  All  -
+   Yeti  ???  -  ???  -   X-Fire  O-Ice/Wind   All + HP%  -
+
+   Brontosaur  12000  5000  399    Curly
+ ???  ???  ???  -   X-Dark   -   All + HP%
+
+ Float
+   Flan  300
+
+ -
+ 300  249
+
+  -  All  Regen
+   Larry
+
+ -
+   Tofu  600  450  449    Moe
+   Troll  2500  100  500  499   X-Fire  -   -  -    Wrexsoul
+
+ ???  ???
+ ???
+
+ -   X-Holy/Water  O-(Fire/Dark)   Undead/All + HP%  -
+   Ahriman  7500  300  2000  299   X-Bolt  -   -  Float    Soulblazer  -
+   Pug  2000  500  500  99
+
+  X-Fire  O-Earth/Wind  -
+   Hidon
+
+ ???  ???
+ ???
+
+ -   X-Holy/Fire  O-(Dark)
+  Undead/All + HP%  Regen
+
+   Tonberry  20000  1000  1500  999    (Hidonites)  -  -
+   Master T  40000  1500  3000  1999    Doom Gaze  ???  ???  ???  -   X-Holy/Fire  O-(Dark)   All + HP%  Float
+   Sand Worm  10000
+
+ -
+ 2500  49
+
+  X-Ice/Water  O-Earth/Wind  -
+   Guardian  ???  ???  -  -   X-Bolt/Water  O-Dark/Holy   All + HP%  Regen
+
+   Land Worm  20000  5000  149    Purple-D
+
+ ???  ???  ???  -
+
+  X-Bolt  O-(Wind)
+
+  All + HP%  Float
+   Zone Eater  50000  -  -    Silver-D   X-Fire  O-(Ice)
+   Tek Armor  250
+
+ -
+ 100  199
+
+  X-Bolt/Water  O-Dark/Holy  Safe
+   Blue-D   X-Bolt  O-(Water)
+
+   Mega Armor  500  250  499    Gold-D   X-Water  O-(Bolt)
+   Robomech  7500  1000  999    Red-D
+
+ ???  ???  ???  -
+
+  X-Ice/Water  O-(Fire)
+  All +HP%
+
+ -
+   Spitfire  1200
+
+ -
+ 250  249
+
+  X-Bolt/Water  O-Dark/Holy  Float
+   Brown-D   X-Water  O-(Earth)
+
+   Sky Armor  2400  500  499    White-D   X-Dark  O-(Holy)
+  Undead/All + HP%
+
+   Autobot  4800  1500  999    Green-D   X-Holy/Fire  O-(Dark)
+   Proto Man  1000
+
+ -
+ 500  449
+
+  X-Bolt/Water  O-Dark/Holy  Safe
+   All Elements  ???  ???  ???  -   -  -   All + HP%  Float
+
+   Arsenal  7000  2000  849
+   The Triad  ???  ???  ???  -   -
+
+ O-(Ice)
+  All + HP%
+
+ Safe
+   Telstar  1500
+
+ -
+ 250  199
+
+  X-Bolt/Water  O-Dark/Holy  Float
+ O-(Bolt)  Shell
+
+   Chaser  3000  1000  599  O-(Fire)  Haste
+   Searcher  6000  2500  999
+
+   The End (I)  ???  ???  -  -
+  X-Fire
+
+ -   All + HP%  -   Cyborg  1000
+ -
+
+ 250  349
+  X-Bolt/Water  O-Dark/Holy
+
+  X-Ice
+   Robot  1500  350  549   X-Bolt
+   Android  3000  550  749
+
+   The End (II)  ???  ???  -  -
+  X-Fire/Ice
+
+ -
+  All + HP%  -
+
+   Mag Roader  1000
+ -
+
+ 350  249
+  X-Bolt/Water  O-Dark/Holy
+
+  X-Bolt/Water
+   Hot Wheels  5000  700  649   X-Earth/Wind  O-(Fire/Ice/Bolt)
+   Mag Roadie  500
+
+ -
+ 150  199
+
+  X-Bolt/Water  O-Dark/Holy
+  X-Dark/Holy   -
+
+   Low Rider  2500  450  499    The End (III)  ???  ???  -  -   X-Dark  O-(Element)   All + HP%  -   Io  5000
+ -
+
+ 5000  1499
+  X-Bolt/Water  O-Dark/Holy  Rflect
+
+  X-Holy  -
+   WEAPON  15000  10000  1999    Chaos...?  ???  ???  -  -   -  -   All + HP%   Warmech  25000  20000  2499
+
+  Plant (All but Sleep)
+  Undead (All but Death/Stop)
+
+  Amulet + Ribbon
+  (Sleep/Muddle/Bserk/Stop/Petrify/Death)
+
+  Plant (All but Sleep)
+  Undead (All but Death/Stop)
+
+  Plant (All but Sleep)   Amulet + Ribbon
+  (Sleep/Muddle/Bserk/Stop/Petrify/Death)
+
+  Plant (All but Sleep)
+  Undead (All but Death/Stop)
+
+  Machine (All but Blind)
+
+  Ribbon (Stop/Petrify/Death) 
+
+  Amulet + Ribbon
+  (Sleep/Muddle/Bserk/Stop/Petrify/Death)
+
+  Amulet (Sleep/Muddle/Bserk)
+
+  Ribbon (Stop/Petrify/Death) 
+
+  Amulet (Sleep/Muddle/Bserk)  Shell + Float
+
+  Ribbon (Stop/Petrify/Death) 
+
+  Amulet (Sleep/Muddle/Bserk)
+
+  Amulet + Ribbon
+  (Sleep/Muddle/Bserk/Stop/Petrify/Death)
+
+  Amulet + Ribbon
+  (Sleep/Muddle/Bserk/Stop/Petrify/Death)
+
+  Undead + Ribbon (All)
+
+ O-Element
+ (All but Dark/Holy)
+
+  Amulet + Ribbon
+  (Sleep/Muddle/Bserk/Stop/Petrify/Death)
+
+  Undead + Ribbon (All)
+
+  Amulet + Ribbon
+  (Sleep/Muddle/Bserk/Stop/Petrify/Death)
+
+  Machine (All but Blind)
+
+  Machine (All but Blind)
+
+  Machine (All but Blind)
+
+  Machine (All but Blind)
+
+  Machine (All but Blind)
+ Regen + Float
+ (blocks Sap)
+
+  Machine (All but Blind)
+ Haste
+ (blocks Slow)
+
+  Machine (All but Blind)
+ Haste
+ (blocks Slow)
+
+  Machine (All but Blind) Regen & Haste
+(+ Float)
+
+

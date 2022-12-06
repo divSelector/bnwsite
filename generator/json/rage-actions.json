@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Rage",
+        "targeting": "Targeting",
+        "power": "Power",
+        "evade": "Evade",
+        "damage": "Type",
+        "description": "Description..."
+    },
+    {
+        "name": "Absolute 0",
+        "targeting": "All Foes",
+        "power": "120",
+        "evade": "-",
+        "damage": "Ice",
+        "description": "-"
+    },
+    {
+        "name": "Acid Rain",
+        "targeting": "All Foes",
+        "power": "30",
+        "evade": "-",
+        "damage": "Water",
+        "description": "May set Sap"
+    },
+    {
+        "name": "Aero",
+        "targeting": "All Foes",
+        "power": "75",
+        "evade": "M.Eva",
+        "damage": "Wind",
+        "description": "May set Sap"
+    },
+    {
+        "name": "Air Blast",
+        "targeting": "Free",
+        "power": "-",
+        "evade": "Stam",
+        "damage": "Wind",
+        "description": "Damage = (HP *1/2)"
+    },
+    {
+        "name": "Atomic Ray",
+        "targeting": "One Foe",
+        "power": "90",
+        "evade": "M.Eva",
+        "damage": "Non-elemental",
+        "description": "Unreflectable"
+    },
+    {
+        "name": "Barrier",
+        "targeting": "One Ally",
+        "power": "-",
+        "evade": "-",
+        "damage": "-",
+        "description": "Sets Shell/Rflect unreflectable"
+    },
+    {
+        "name": "Bio Blast",
+        "targeting": "Foe Group",
+        "power": "45",
+        "evade": "-",
+        "damage": "Dark",
+        "description": "May set Poison"
+    },
+    {
+        "name": "Blight",
+        "targeting": "Foe Group",
+        "power": "45",
+        "evade": "M.Eva",
+        "damage": "Dark/Wind",
+        "description": "May set Poison; *(1/2 on multi-target)"
+    },
+    {
+        "name": "Blink",
+        "targeting": "One Ally",
+        "power": "-",
+        "evade": "-",
+        "damage": "-",
+        "description": "Sets Image/Haste"
+    },
+    {
+        "name": "Brown Note",
+        "targeting": "One Foe",
+        "power": "60",
+        "evade": "M.Eva",
+        "damage": "Non-elemental",
+        "description": "May set random negative status"
+    },
+    {
+        "name": "Diffuser",
+        "targeting": "All Foes",
+        "power": "90",
+        "evade": "M.Eva",
+        "damage": "Bolt",
+        "description": "*(1/2 on multi-target)"
+    },
+    {
+        "name": "Discharge",
+        "targeting": "All Foes",
+        "power": "75",
+        "evade": "M.Eva",
+        "damage": "Bolt",
+        "description": "-"
+    },
+    {
+        "name": "Exploder",
+        "targeting": "All Foes",
+        "power": "-",
+        "evade": "-",
+        "damage": "Non-elemental",
+        "description": "Damage = caster's (current) HP (if used via Rage: * 2.5)"
+    },
+    {
+        "name": "Fireball",
+        "targeting": "Foe Group",
+        "power": "60",
+        "evade": "M.Eva",
+        "damage": "Fire",
+        "description": "May set Sap; *(1/2 on multi-target)"
+    },
+    {
+        "name": "Firestorm",
+        "targeting": "All Foes",
+        "power": "50",
+        "evade": "-",
+        "damage": "Fire/Water",
+        "description": "-"
+    },
+    {
+        "name": "Flash Rain",
+        "targeting": "All Foes",
+        "power": "60",
+        "evade": "-",
+        "damage": "Bolt/Water",
+        "description": "-"
+    },
+    {
+        "name": "Gale Cut",
+        "targeting": "All Foes",
+        "power": "25",
+        "evade": "M.Eva",
+        "damage": "Wind",
+        "description": "-"
+    },
+    {
+        "name": "Giga Volt",
+        "targeting": "One Foe",
+        "power": "120",
+        "evade": "M.Eva",
+        "damage": "Bolt/Wind",
+        "description": "May set Sap"
+    },
+    {
+        "name": "Glare",
+        "targeting": "One Foe",
+        "power": "-",
+        "evade": "Stam",
+        "damage": "-",
+        "description": "Sets Petrify (will miss on Clear targets)"
+    },
+    {
+        "name": "Landslide",
+        "targeting": "All Foes",
+        "power": "60",
+        "evade": "-",
+        "damage": "Earth",
+        "description": "Ground attack; may set Slow"
+    },
+    {
+        "name": "Lode Stone",
+        "targeting": "One Foe",
+        "power": "-",
+        "evade": "Stam",
+        "damage": "Earth",
+        "description": "Damage = (HP *5/8); sets Slow"
+    },
+    {
+        "name": "Magnitude",
+        "targeting": "All Foes",
+        "power": "100",
+        "evade": "-",
+        "damage": "Earth",
+        "description": "Ground attack; *(1/2 on multi-target)"
+    },
+    {
+        "name": "Mega Volt",
+        "targeting": "Free",
+        "power": "30",
+        "evade": "M.Eva",
+        "damage": "Bolt/Wind",
+        "description": "May set Sap"
+    },
+    {
+        "name": "Meteo",
+        "targeting": "All Foes",
+        "power": "60",
+        "evade": "M.Eva",
+        "damage": "Non-elemental",
+        "description": "Ignores defense. Low accuracy"
+    },
+    {
+        "name": "Net",
+        "targeting": "One Foe",
+        "power": "-",
+        "evade": "Stam",
+        "damage": "-",
+        "description": "Sets Slow/Stop"
+    },
+    {
+        "name": "Rock",
+        "targeting": "Free",
+        "power": "100",
+        "evade": "(!)Eva",
+        "damage": "Stamina-based",
+        "description": "Low accuracy; may set Muddle; (!) = see Tentacle"
+    },
+    {
+        "name": "Shrapnel",
+        "targeting": "Foe Group",
+        "power": "150",
+        "evade": "(!)Eva",
+        "damage": "Stamina-based",
+        "description": "*(1/2 on multi-target); (!) = see Tentacle"
+    },
+    {
+        "name": "Snowball",
+        "targeting": "Foe Group",
+        "power": "50",
+        "evade": "M.Eva",
+        "damage": "Ice",
+        "description": "May set Slow; *(1/2 on multi-target)"
+    },
+    {
+        "name": "Starlight",
+        "targeting": "All Foes",
+        "power": "60",
+        "evade": "M.Eva",
+        "damage": "Non-elemental",
+        "description": "May set Blind"
+    },
+    {
+        "name": "Step Mine",
+        "targeting": "One Foe",
+        "power": "-",
+        "evade": "M.Eva",
+        "damage": "Non-elemental",
+        "description": "Damage rises with number of steps taken"
+    },
+    {
+        "name": "Tentacle",
+        "targeting": "Free",
+        "power": "120",
+        "evade": "(!)Eva",
+        "damage": "Stamina-based",
+        "description": "(!) = physical attack if used by enemy; magical otherwise"
+    },
+    {
+        "name": "Vanish",
+        "targeting": "One Ally",
+        "power": "-",
+        "evade": "-",
+        "damage": "-",
+        "description": "Sets Clear"
+    }
+]

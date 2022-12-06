@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Shield",
+        "value": "Value",
+        "defense": "Def",
+        "m_defense": "M.Def",
+        "evade": "Evade",
+        "m_evade": "M.Evade",
+        "stat_boost": "Stat Boost(s)",
+        "equip": "Equip",
+        "description": "Description..."
+    },
+    {
+        "name": "Aegis Shield",
+        "value": "-",
+        "defense": "25",
+        "m_defense": "25",
+        "evade": "20",
+        "m_evade": "20",
+        "stat_boost": "Spd+5",
+        "equip": "Terra Celes Locke Edgar Setzer Mog",
+        "description": "Auto-Haste (blocks \u201cSlow\u201d)"
+    },
+    {
+        "name": "Buckler",
+        "value": "100",
+        "defense": "10",
+        "m_defense": "10",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo",
+        "description": "Initial: Terra Mog"
+    },
+    {
+        "name": "Crystal Kite",
+        "value": "10000",
+        "defense": "50",
+        "m_defense": "40",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Spd-2",
+        "equip": "Terra Celes Locke",
+        "description": "Halves Wind damage"
+    },
+    {
+        "name": "Diamond Kite",
+        "value": "5000",
+        "defense": "40",
+        "m_defense": "35",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Spd-2",
+        "equip": "Terra Celes Locke",
+        "description": "Halves Bolt damage"
+    },
+    {
+        "name": "Flameguard",
+        "value": "-",
+        "defense": "20",
+        "m_defense": "30",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Vgr +3 / Mag +3",
+        "equip": "Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo",
+        "description": "Absorbs Fire damage"
+    },
+    {
+        "name": "Force Shield",
+        "value": "-",
+        "defense": "30",
+        "m_defense": "45",
+        "evade": "-",
+        "m_evade": "20",
+        "stat_boost": "Mag+5",
+        "equip": "Terra Celes Locke Edgar Setzer Mog",
+        "description": "Auto-Shell"
+    },
+    {
+        "name": "Genji Shield",
+        "value": "-",
+        "defense": "45",
+        "m_defense": "30",
+        "evade": "20",
+        "m_evade": "-",
+        "stat_boost": "Vgr+5 / Stam +5",
+        "equip": "Terra Celes Locke Edgar Setzer Mog",
+        "description": "Auto-Safe"
+    },
+    {
+        "name": "Gold Shield",
+        "value": "3000",
+        "defense": "30",
+        "m_defense": "30",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Spd-2",
+        "equip": "Terra Celes Locke",
+        "description": "Halves Water damage"
+    },
+    {
+        "name": "Hero Shield",
+        "value": "-",
+        "defense": "40",
+        "m_defense": "40",
+        "evade": "10",
+        "m_evade": "10",
+        "stat_boost": "Vgr+5 / Mag +5",
+        "equip": "Terra Celes Locke",
+        "description": "Auto-Regen (blocks \u201cSap\u201d)"
+    },
+    {
+        "name": "Iceguard",
+        "value": "-",
+        "defense": "20",
+        "m_defense": "30",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Stam +3 / Mag +3",
+        "equip": "Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo",
+        "description": "Absorbs Ice damage"
+    },
+    {
+        "name": "Iron Shield",
+        "value": "500",
+        "defense": "20",
+        "m_defense": "20",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "Spd-2",
+        "equip": "Terra Celes Locke Edgar",
+        "description": "-"
+    },
+    {
+        "name": "Targe",
+        "value": "1000",
+        "defense": "15",
+        "m_defense": "15",
+        "evade": "10",
+        "m_evade": "-",
+        "stat_boost": "-",
+        "equip": "Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo",
+        "description": "Initial: Setzer Strago"
+    },
+    {
+        "name": "Thunderguard",
+        "value": "-",
+        "defense": "20",
+        "m_defense": "30",
+        "evade": "-",
+        "m_evade": "10",
+        "stat_boost": "Spd +3 / Mag +3",
+        "equip": "Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo",
+        "description": "Absorbs Bolt damage"
+    }
+]

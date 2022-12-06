@@ -1,0 +1,83 @@
+[
+    {
+        "ACTION_NAME": "BLITZ",
+        "LVL": "Lv",
+        "TARGETING": "Targeting",
+        "POWER":  "Power",
+        "INPUT": "Input",
+        "DAMAGE": "Damage Type",
+        "DESCRIPTION": "Description"
+    },
+    {
+        "ACTION_NAME": "Pummel",
+        "LVL": 1,
+        "TARGETING": "One Foe",
+        "POWER":  150,
+        "INPUT": "← → ←",
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Ignores defense, sets Sap"
+    },
+    {
+        "ACTION_NAME": "Suplex",
+        "LVL": 9,
+        "TARGETING": "One Foe",
+        "POWER":  180,
+        "INPUT": "X Y ↓ ↑",
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Ignores defense, sets Stop"
+    },
+    {
+        "ACTION_NAME": "Aurabolt",
+        "LVL": 12,
+        "TARGETING": "One Foe",
+        "POWER":  75,
+        "INPUT": "↓ ↓ ←",
+        "DAMAGE": "Stamina-based Holy",
+        "DESCRIPTION": "Row affects damage"
+    },
+    {
+        "ACTION_NAME": "Fire Dance",
+        "LVL": 15,
+        "TARGETING": "All Foes",
+        "POWER":  60,
+        "INPUT": "← ← ↓ → →",
+        "DAMAGE": "Fire",
+        "DESCRIPTION": "-"
+    },
+    {
+        "ACTION_NAME": "Mantra",
+        "LVL": 20,
+        "TARGETING": "Allies",
+        "POWER":  "-",
+        "INPUT": "R L R L X Y",
+        "DAMAGE": "Cures HP",
+        "DESCRIPTION": "Power is stamina-based, weaker at low HP"
+    },
+    {
+        "ACTION_NAME": "Chakra",
+        "LVL": 25,
+        "TARGETING": "Allies",
+        "POWER":  "-",
+        "INPUT": "L R L R Y X",
+        "DAMAGE": "Cures MP",
+        "DESCRIPTION": "Power is stamina-based."
+    },
+    {
+        "ACTION_NAME": "Sonic Boom",
+        "LVL": 30,
+        "TARGETING": "All Foes",
+        "POWER":  60,
+        "INPUT": "↑ ↑ → ↓ ↓ ↓ ←",
+        "DAMAGE": "Stamina-based Wind",
+        "DESCRIPTION": "-"
+    },
+    {
+        "ACTION_NAME": "Bum Rush",
+        "LVL": "-",
+        "TARGETING": "One Foe",
+        "POWER":  255,
+        "INPUT": "↑ ↑ ↓ ↓ ← → ← →",
+        "DAMAGE": "Physical",
+        "DESCRIPTION": "Ignores defense"
+    }
+]

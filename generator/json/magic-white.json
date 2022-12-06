@@ -1,0 +1,93 @@
+[
+    {
+        "SPELL_NAME": "WHITE MAGIC",
+        "MP": "MP Cost",
+        "TARGETING": "Targeting",
+        "POWER":  "Power",
+        "EVADE": "Evade",
+        "DAMAGE": "Damage Type",
+        "DESCRIPTION": "Description"
+    },
+
+    {
+        "SPELL_NAME": "•Cure",
+        "MP": 3,
+        "TARGETING": "Free",
+        "POWER":  10,
+        "EVADE": "-",
+        "DAMAGE": "Cures HP",
+        "DESCRIPTION": "Holy damage to undead"
+    },
+    {
+        "SPELL_NAME": "•Cure 2",
+        "MP": 18,
+        "TARGETING": "Free",
+        "POWER":  25,
+        "EVADE": "-",
+        "DAMAGE": "Cures HP",
+        "DESCRIPTION": "Holy damage to undead"
+    },
+    {
+        "SPELL_NAME": "•Cure 3",
+        "MP": 36,
+        "TARGETING": "Free",
+        "POWER":  40,
+        "EVADE": "-",
+        "DAMAGE": "Cures HP",
+        "DESCRIPTION": "Holy damage to undead"
+    },
+    {
+        "SPELL_NAME": "•Life",
+        "MP": 15,
+        "TARGETING": "One Ally",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "Revive fallen ally",
+        "DESCRIPTION": "Revives to 250-500 HP"
+    },
+    {
+        "SPELL_NAME": "•Life2",
+        "MP": 60,
+        "TARGETING": "One Ally",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "Revive fallen ally",
+        "DESCRIPTION": "Revives to max HP"
+    },
+    {
+        "SPELL_NAME": "•Rerise",
+        "MP": 30,
+        "TARGETING": "One Ally",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Rerise (casts Life upon death)"
+    },
+    {
+        "SPELL_NAME": "•Remedy",
+        "MP": 9,
+        "TARGETING": "One Ally",
+        "POWER":  15,
+        "EVADE": "-",
+        "DAMAGE": "Cures HP (stamina-based)",
+        "DESCRIPTION": "Lifts most bad statuses"
+    },
+    {
+        "SPELL_NAME": "•Regen",
+        "MP": 12,
+        "TARGETING": "One Ally",
+        "POWER":  10,
+        "EVADE": "-",
+        "DAMAGE": "Cures HP (stamina-based)",
+        "DESCRIPTION": "Sets Regen (periodic heal, cancels Sap)"
+    },
+    {
+        "SPELL_NAME": "•RegenX",
+        "MP": 48,
+        "TARGETING": "Ally Group",
+        "POWER":  10,
+        "EVADE": "-",
+        "DAMAGE": "Cures HP (stamina-based)",
+        "DESCRIPTION": "Sets Regen (periodic heal, cancels Sap)"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Legend",
+        "description": "Description..."
+    },
+    {
+        "name": "2 Hands",
+        "description": "If off-hand is empty; weapon deals 150% damage (else normal damage; or 75% if a second weapon is present)"
+    },
+    {
+        "name": "Anti-Air (High Crit Rate)",
+        "description": "Critical hits deal triple damage to floating targets instead of double (critical hit odds = 50%)"
+    },
+    {
+        "name": "Dual-Wield",
+        "description": "Weapon may be used in the shield hand alongside any other weapon but a spear (both will deal 75% damage)"
+    },
+    {
+        "name": "MP for Criticals",
+        "description": "If MP is sufficient (1/2 user's lv.); it is used for a guaranteed critical hit (plus additional benefits for rod spellcasts)"
+    },
+    {
+        "name": "Throwable",
+        "description": "Weapon is usable with the \u201cThrow\u201d command (critical damage; ignores defense/row)"
+    },
+    {
+        "name": "Undead Slayer",
+        "description": "Weapon randomly (50% odds) kills undead targets (if target is immune to death; then critical hit)"
+    },
+    {
+        "name": "\u201cJump\u201d Bonus",
+        "description": "Spears do double damage when used with \u201cJump\u201d (other weapons deal 150% fight *AND* random spell damage)"
+    },
+    {
+        "name": "\u201cMay Cast (Spell)\u201d",
+        "description": "(Spell) is randomly cast on target in addition to regular damage (NOTE: spell damage is affected by user's row)"
+    },
+    {
+        "name": "\u201cMay Counter-Attack\u201d",
+        "description": "User may counter any physical attack (rate is based on user's stamina \u2013 if stam >= 96; counter rate is 100%)"
+    },
+    {
+        "name": "\u201cMay Guard Allies\u201d",
+        "description": "If in the front row; user may block physical attacks for back-row allies (if ally is near-fatal; will always guard)"
+    }
+]

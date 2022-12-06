@@ -1,0 +1,193 @@
+[
+    {
+        "SPELL_NAME": "GRAY MAGIC",
+        "MP": "MP Cost",
+        "TARGETING": "Targeting",
+        "POWER":  "Power",
+        "EVADE": "Evade",
+        "DAMAGE": "Damage Type",
+        "DESCRIPTION": "Description"
+    },
+
+    {
+        "SPELL_NAME": "•Muddle",
+        "MP": 4,
+        "TARGETING": "All Foes",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Muddle (attack allies randomly until physically hit)"
+    },
+    {
+        "SPELL_NAME": "•Mute",
+        "MP": 4,
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Mute (can't do anything that costs MP)"
+    },
+    {
+        "SPELL_NAME": "•Imp",
+        "MP": 5,
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets/lifts Imp (damage and healing output halved)"
+    },
+    {
+        "SPELL_NAME": "•Bserk",
+        "MP": 6,
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Bserk (physical damage up, become uncontrollable)"
+    },
+    {
+        "SPELL_NAME": "•Sleep",
+        "MP": 6,
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Sleep (inactive until physically hit or it wears off)"
+    },
+    {
+        "SPELL_NAME": "•SleepX",
+        "MP": 18,
+        "TARGETING": "Foe Group",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Sleep (inactive until physically hit or it wears off)"
+    },
+    {
+        "SPELL_NAME": "•Safe",
+        "MP": 12,
+        "TARGETING": "One Ally",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Safe (physical defense up)"
+    },
+    {
+        "SPELL_NAME": "•Shell",
+        "MP": 18,
+        "TARGETING": "One Ally",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Shell (magical defense up)"
+    },
+    {
+        "SPELL_NAME": "•Haste",
+        "MP": 8,
+        "TARGETING": "One Ally",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Haste (speed up; cancels Slow)"
+    },
+    {
+        "SPELL_NAME": "•HasteX",
+        "MP": 24,
+        "TARGETING": "Ally Group",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Haste (speed up; cancels Slow)"
+    },
+    {
+        "SPELL_NAME": "•Slow",
+        "MP": 4,
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Slow (speed down; cancels Haste)"
+    },
+    {
+        "SPELL_NAME": "•SlowX",
+        "MP": 12,
+        "TARGETING": "Foe Group",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Slow (speed down; cancels Haste)"
+    },
+
+    {
+        "SPELL_NAME": "•Stop",
+        "MP": 15,
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Stop (can't move for a brief time)"
+    },
+    {
+        "SPELL_NAME": "•Rflect",
+        "MP": 8,
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Rflect (repels single & free-target magic, excluding Dance attacks)"
+    },
+    {
+        "SPELL_NAME": "•Float",
+        "MP": 15,
+        "TARGETING": "Party",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Sets Float (blocks 'ground' attacks)"
+    },
+    {
+        "SPELL_NAME": "•Warp",
+        "MP": 10,
+        "TARGETING": "-",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Escape from dungeon or battle"
+    },
+    {
+        "SPELL_NAME": "•Scan",
+        "MP": 1,
+        "TARGETING": "Foe",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Displays HP/MP, elemental weaknesses, & active statuses"
+    },
+    {
+        "SPELL_NAME": "•Dispel",
+        "MP": 10,
+        "TARGETING": "Single",
+        "POWER":  "-",
+        "EVADE": "-",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Lifts positive statuses"
+    },
+    {
+        "SPELL_NAME": "•Osmose",
+        "MP": 1,
+        "TARGETING": "Single",
+        "POWER":  5,
+        "EVADE": "*",
+        "DAMAGE": "-",
+        "DESCRIPTION": "Steals MP (*hit rate = 90%)"
+    },
+    {
+        "SPELL_NAME": "•Rasp",
+        "MP": 5,
+        "TARGETING": "Single",
+        "POWER":  25,
+        "EVADE": "Stam",
+        "DAMAGE": "-",
+        "DESCRIPTION": "MP damage"
+    }
+]

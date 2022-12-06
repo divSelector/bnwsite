@@ -1,0 +1,14 @@
+Shield,Value,Def,M.Def,Evade,M.Evade,Stat Boost(s),Equip,Description...
+Buckler,100,10,10,10,-,-,Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo,Initial: Terra Mog
+Iron Shield,500,20,20,10,-,Spd-2,Terra Celes Locke Edgar,-
+Targe,1000,15,15,10,-,-,Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo,Initial: Setzer Strago
+Gold Shield,3000,30,30,10,10,Spd-2,Terra Celes Locke,Halves Water damage
+Diamond Kite,5000,40,35,10,10,Spd-2,Terra Celes Locke,Halves Bolt damage
+Crystal Kite,10000,50,40,10,10,Spd-2,Terra Celes Locke,Halves Wind damage
+Flameguard,-,20,30,-,10,Vgr +3 / Mag +3,Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo,Absorbs Fire damage
+Iceguard,-,20,30,-,10,Stam +3 / Mag +3,Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo,Absorbs Ice damage
+Thunderguard,-,20,30,-,10,Spd +3 / Mag +3,Terra Locke Edgar Celes Strago Relm Setzer Mog Gau Gogo,Absorbs Bolt damage
+Genji Shield,-,45,30,20,-,Vgr+5 / Stam +5,Terra Celes Locke Edgar Setzer Mog,Auto-Safe
+Force Shield,-,30,45,-,20,Mag+5,Terra Celes Locke Edgar Setzer Mog,Auto-Shell
+Aegis Shield,-,25,25,20,20,Spd+5,Terra Celes Locke Edgar Setzer Mog,Auto-Haste (blocks “Slow”)
+Hero Shield,-,40,40,10,10,Vgr+5 / Mag +5,Terra Celes Locke,Auto-Regen (blocks “Sap”)

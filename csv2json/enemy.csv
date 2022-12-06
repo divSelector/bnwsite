@@ -1,0 +1,303 @@
+Enemy,HP,MP,Exp,GP,Weakness,Block/(Absorb),Resistances/Type,Status
+Guard,50,-,50,49,X-Dark,-,-,-
+Captain,250,-,75,66,X-Dark,-,-,-
+Zombie,500,100,100,133,X-Holy/Fire,O-(Dark),Undead (All but Death),-
+Soldier,100,100,25,99,X-Dark,-,-,-
+Officer,200,100,50,149,X-Dark,-,-,-
+Trooper,300,100,100,199,X-Dark,-,-,-
+Commando,600,100,125,249,X-Dark,-,-,-
+Phalanx,200,100,75,149,X-Dark/Water,-,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),Safe+Shell
+Templar,800,300,200,299,X-Dark/Water,-,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),Safe+Shell
+Centurion,4000,500,-,-,X-Dark/Water,-,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),Safe+Shell
+Repo Man,50,-,25,49,X-Dark,-,-,Shell
+Mechanix,150,-,50,99,X-Dark,-,-,Shell
+Junkie,300,-,100,149,X-Dark,-,-,Shell
+Scrapper,250,-,75,166,X-Dark,-,-,-
+Fighter,500,-,150,399,X-Dark,-,-,-
+Brawler,3000,-,350,849,X-Dark,-,-,-
+Hobo,500,-,200,333,X-Dark,-,-,-
+Drifter,1500,-,300,666,X-Dark,-,-,-
+Vagrant,2500,-,400,999,X-Dark,-,-,-
+Slamdancer,600,100,250,499,X-Dark,O-Fire,Ribbon (Stop/Petrify/Death),-
+Souldancer,3000,300,750,999,X-Dark,O-Fire,Ribbon (Stop/Petrify/Death),-
+Tapdancer,4800,500,1250,1499,X-Dark,O-Fire,Ribbon (Stop/Petrify/Death),-
+Rain Man,800,100,200,599,X-Dark/Bolt,O-Water/Wind,Amulet (Sleep/Muddle/Bserk),Float
+Umbro,2400,300,400,799,X-Dark/Bolt,O-Water/Wind,Amulet (Sleep/Muddle/Bserk),Float
+Parasoul,3600,500,800,999,X-Dark/Bolt,O-Water/Wind,Amulet (Sleep/Muddle/Bserk),Float
+Conjurer,400,100,150,249,X-Dark,-,Amulet (Sleep/Muddle/Bserk),-
+Warlock,2800,300,450,499,X-Dark,-,Amulet (Sleep/Muddle/Bserk),-
+Wizard,4000,500,900,749,X-Dark,-,Amulet (Sleep/Muddle/Bserk),-
+Onion Kid,500,-,75,149,X-Dark/Bolt,-,Ribbon (Stop/Petrify/Death),Safe
+Tiny Tim,2000,-,450,549,X-Dark/Bolt,-,Ribbon (Stop/Petrify/Death),Safe
+Iron Man,3000,-,700,949,X-Dark/Bolt,-,Ribbon (Stop/Petrify/Death),Safe
+Dahling,2000,500,450,999,X-Dark,-,Amulet (Sleep/Muddle/Bserk),-
+Madam,3000,500,600,1249,X-Dark,-,Amulet (Sleep/Muddle/Bserk),-
+Maiden,5000,500,750,1499,X-Dark,-,Amulet (Sleep/Muddle/Bserk),-
+Succubus,2000,300,500,749,X-Dark/Bolt,-,Ribbon (Stop/Petrify/Death),Float
+Banshee,4000,300,750,1499,X-Dark/Bolt,-,Ribbon (Stop/Petrify/Death),Float
+Witch,3000,500,750,599,X-Dark,-,Amulet (Sleep/Muddle/Bserk),Float
+Fiend,5000,500,1250,999,X-Dark,-,Amulet (Sleep/Muddle/Bserk),-
+Giant,2500,-,1000,999,X-Dark,O-Earth,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Titan,10000,-,2500,2499,X-Dark,O-Earth,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Colossus,10000,-,5000,4999,X-Dark,O-Earth,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Ninja,2000,-,500,749,X-Dark,O-Fire,Ribbon (Stop/Petrify/Death),Haste (blocks Slow)
+Shinobi,4000,-,1500,999,X-Dark,O-Fire,Ribbon (Stop/Petrify/Death),Haste (blocks Slow)
+Assassin,6000,-,2500,1249,X-Dark,O-Fire,Ribbon (Stop/Petrify/Death),Haste (blocks Slow)
+Shokan,2500,300,500,649,X-Dark,-,-,-
+Tarokan,5000,300,1000,749,X-Dark,-,-,-
+Gorokan,7500,300,1500,849,X-Dark,-,-,-
+Samurai,4000,-,1000,499,X-Dark,-,-,-
+Retainer,8000,-,2000,949,X-Dark,-,-,-
+Katanasoul,40000,5000,3000,4999,X-Holy/Fire,O-(Dark),Undead/All + HP%,-
+Siegfried,10000,-,-,-,X-Dark,-,-,-
+Wight,300,100,100,99,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Wraith,1500,300,350,399,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Revenant,4500,500,700,699,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Lich,600,100,150,166,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Powerslave,3000,500,600,666,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Thanatos,3000,1000,500,499,X-Holy/Fire,O-(Dark),Undead + Ribbon (All),Haste (blocks Slow)
+Reaper,9000,1000,2000,999,X-Holy/Fire,O-(Dark),Undead + Ribbon (All),Haste (blocks Slow)
+Death,18000,1000,4000,1499,X-Holy/Fire,O-(Dark),Undead + Ribbon (All),Haste (blocks Slow)
+Spirit,200,100,50,66,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),Float
+Specter,600,300,100,333,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),Float
+Phantom,1000,500,150,666,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),Float
+Jinn,1000,100,350,499,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),Shell + Float
+Djinni,1500,300,550,699,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),Shell + Float
+O-Bake,3000,500,750,899,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),Shell + Float
+Fossilfang,1000,100,250,399,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Zombone,2000,300,500,599,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Necrosaur,5000,500,2000,799,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Sand Devil,4000,300,1000,349,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),Float
+Sea Devil,6000,500,2000,649,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),Float
+Plantpire,500,300,350,333,X-Holy/Fire/Ice,O-(Dark/Water),Undead (All but Death/Stop),Safe + Shell
+Weedula,1500,500,750,666,X-Holy/Fire/Ice,O-(Dark/Water),Undead (All but Death/Stop),Safe + Shell
+Belladonna,2400,300,300,449,X-Holy/Fire/Ice,O-(Dark/Water),Undead (All but Death/Stop),-
+Nightshade,3200,500,600,849,X-Holy/Fire/Ice,O-(Dark/Water),Undead (All but Death/Stop),-
+Osteosaur,5000,1000,1000,999,X-Holy/Fire,O-(Dark),Undead + Ribbon (All),-
+Bonelord,10000,1500,2000,1999,X-Holy/Fire,O-(Dark),Undead + Ribbon (All),-
+Lobo,75,-,50,33,X-Fire,O-Ice,-,-
+Red Wolf,-,750,150,133,X-Fire,O-Ice,-,-
+Lunaris,-,1000,300,249,X-Fire,O-Ice,-,-
+Werewolf,-,5000,600,333,X-Fire,O-Ice,-,-
+Mammoth,200,-,100,66,X-Fire,O-Ice/Wind,-,-
+Tusker,400,-,250,99,X-Fire,O-Ice/Wind,-,-
+Nastidon,-,6000,1000,499,X-Fire,O-Ice/Wind,-,-
+Sewer Rat,75,-,25,33,X-Fire,-,-,-
+Plague Rat,400,-,100,166,X-Fire,-,-,-
+Vermin,750,-,125,333,X-Fire,-,-,-
+Leafer,50,-,25,49,X-Fire,-,-,Haste (blocks Slow)
+Rabite,200,-,50,99,X-Fire,-,-,Haste (blocks Slow)
+Dark Hare,1000,-,250,399,X-Fire,-,-,Haste (blocks Slow)
+Raven,50,-,25,33,X-Bolt,-,-,Float
+Condor,150,-,50,66,X-Bolt,-,-,Float
+Cockatrice,1500,-,450,499,X-Bolt,-,-,Float
+Sand Ray,100,-,25,66,X-Ice,-,-,-
+Trilobite,200,-,50,99,X-Ice,-,-,-
+Antlion,50,-,50,49,-,-,-,-
+Scorpion,500,-,250,149,-,-,-,-
+Hornet,50,-,50,49,X-Fire,-,-,Haste + Float (blocks Slow)
+Wasp,250,-,200,99,X-Fire,-,-,Haste + Float (blocks Slow)
+Crawler,100,-,50,66,X-Fire,-,-,-
+Slurm,500,-,150,166,X-Fire,-,-,-
+Eye Goo,100,-,75,99,X-Fire,-,-,-
+Puff Goo,1000,-,350,499,X-Fire,-,-,-
+Foamy,150,-,75,33,X-Fire,-,-,-
+Rocky,600,-,150,99,X-Fire,-,-,-
+Nutkin,2400,-,450,349,X-Fire,-,-,-
+Rhyhorn,300,-,150,99,X-Ice,O-Bolt/Earth,-,-
+Rhydon,1200,-,450,149,X-Ice,O-Bolt/Earth,-,-
+Rhyperior,4800,-,750,299,X-Ice,O-Bolt/Earth,-,-
+Bear,600,-,350,149,X-Fire,O-Wind,-,-
+Grizzly,3600,-,750,299,X-Fire,O-Wind,-,-
+Gold Bear,4800,-,1250,449,X-Fire,O-Wind,-,-
+Black Bear,7200,-,2500,599,X-Fire,O-Wind,-,-
+Doberman,200,-,50,99,-,-,-,Haste (blocks Slow)
+Rottweiler,400,-,100,133,-,-,-,Haste (blocks Slow)
+Foxhound,800,-,200,166,-,-,-,Haste (blocks Slow)
+Pooch,500,-,125,199,-,-,-,-
+Doggo,1000,-,250,399,-,-,-,-
+Chupacabra,1500,-,500,599,-,-,-,-
+Stray Cat,300,-,75,49,X-Water,-,-,-
+Wild Cat,1800,-,550,499,X-Water,-,-,-
+Chickenlip,400,-,100,133,X-Ice,-,-,-
+Cluck,2400,-,500,299,X-Ice,-,-,-
+Cricket,300,-,100,49,X-Fire,-,-,Float
+Dragonfly,500,-,200,149,X-Fire,-,-,Float
+Locust,700,-,300,249,X-Fire,-,-,Float
+Beakor,500,-,150,149,X-Bolt,-,-,Haste (blocks Slow)
+Racer,1000,-,350,249,X-Bolt,-,-,Haste (blocks Slow)
+Windrunner,3000,-,550,349,X-Bolt,-,-,Haste (blocks Slow)
+Hoodwink,5000,-,750,449,X-Bolt,-,-,Haste (blocks Slow)
+Buzzard,500,-,150,199,X-Bolt,-,-,Float
+Vulture,700,-,250,249,X-Bolt,-,-,Float
+Osprey,900,-,350,299,X-Bolt,-,-,Float
+Albatross,400,-,150,149,X-Bolt,-,-,Float
+Wyvern,800,-,300,249,X-Bolt,-,-,Float
+Dactyl,1600,-,450,349,X-Bolt,-,-,Float
+Exocite,200,-,75,49,X-Bolt,O-Water,-,-
+Primordite,250,-,100,66,X-Bolt,O-Water,-,-
+Clawglip,300,-,125,99,X-Bolt,O-Water,-,-
+Nautiloid,300,-,100,99,X-Fire/Bolt,O-Water,-,Shell
+Cephalid,900,-,300,299,X-Fire/Bolt,O-Water,-,Shell
+Sea Flower,300,-,150,149,X-Fire/Ice,O-(Bolt/Water),Plant (All but Sleep),Shell
+Anemone,1200,-,350,249,X-Fire/Ice,O-(Bolt/Water),Plant (All but Sleep),Shell
+Sponge,1800,-,550,349,X-Fire/Ice,O-(Bolt/Water),Plant (All but Sleep),Shell
+Anguiform,500,-,200,249,X-Ice,O-Water/Earth,-,-
+Latimeria,1500,-,400,749,X-Ice,O-Water/Earth,-,-
+Prokaryote,200,-,100,49,-,O-(Bolt/Water),All,Float
+Eukaryote,1000,-,400,349,-,O-(Bolt/Water),All,Float
+Vaporite,100,-,50,33,X-Fire,O-(Bolt),All,Regen + Float (blocks Sap)
+Ectoplasm,150,-,75,49,X-Fire,O-(Bolt),All,Regen + Float (blocks Sap)
+Fuzzy,1500,-,500,249,X-Fire,O-(Bolt),All,Regen + Float (blocks Sap)
+Bomb,300,-,125,33,X-Ice/Water,O-(Fire),All,Sap + Float
+Grenade,600,-,250,66,X-Ice/Water,O-(Fire),All,Sap + Float
+Trillium,300,100,100,149,X-Fire/Ice,O-(Water),Plant (All but Sleep),-
+Mandrake,600,100,200,249,X-Fire/Ice,O-(Water),Plant (All but Sleep),-
+Kudzu,900,100,300,349,X-Fire/Ice,O-(Water),Plant (All but Sleep),-
+Tumbleweed,1500,-,450,349,X-Fire,O-(Water),Plant (All but Sleep),-
+Atlasphere,2500,-,900,649,X-Fire,O-(Water),Plant (All but Sleep),-
+Cave Stuff,1200,100,250,299,X-Fire,O-(Water),Plant (All but Sleep),Safe
+Pond Scum,3600,300,750,699,X-Fire,O-(Water),Plant (All but Sleep),Safe
+Marlboro,3600,100,600,349,X-Fire,O-(Water),Plant (All but Sleep),-
+Devil Weed,7200,300,900,549,X-Fire,O-(Water),Plant (All but Sleep),-
+Mudcrab,500,-,100,299,X-Ice,O-Water,-,-
+Hermit,3000,-,400,499,X-Ice,O-Water,-,-
+Beetle,600,-,150,199,X-Ice,-,-,-
+Scarab,1800,-,300,399,X-Ice,-,-,-
+Komodo,1200,-,250,249,X-Ice,-,-,-
+Basilisk,3600,-,450,449,X-Ice,-,-,-
+Leap Frog,1600,-,50,499,X-Ice,O-Water,-,-
+Frogger,2400,-,150,1499,X-Ice,O-Water,-,-
+Mantodea,2800,-,400,449,X-Fire,-,-,-
+Zorathian,4800,-,800,899,X-Fire,-,-,-
+Buffalax,2500,-,500,499,-,-,Ribbon (Stop/Petrify/Death),-
+Opinicus,5000,-,1500,999,-,-,Ribbon (Stop/Petrify/Death),-
+Griffin,6000,-,1250,749,X-Bolt,-,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),Float
+Roc,8000,-,2500,1499,X-Bolt,-,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),Float
+Gargoyle,2500,300,400,333,-,O-Earth,Amulet (Sleep/Muddle/Bserk),-
+Mephisto,5000,500,800,666,-,O-Earth,Amulet (Sleep/Muddle/Bserk),-
+Brainpan,1000,-,500,249,X-Water,O-Fire/Earth,Ribbon (Stop/Petrify/Death),Safe
+Mu,2500,-,750,449,X-Water,O-Fire/Earth,Ribbon (Stop/Petrify/Death),Safe
+Inferno,???,???,???,-,X-Bolt/Water,O-Dark/Holy,All + HP%,-
+Pan Dora,900,100,300,299,X-Bolt,-,Amulet (Sleep/Muddle/Bserk),Shell + Float
+Boxxy,1800,300,600,599,X-Bolt,-,Amulet (Sleep/Muddle/Bserk),Shell + Float
+Humpty,800,100,150,499,X-Water,-,Ribbon (Stop/Petrify/Death),-
+Dumpty,3200,300,350,699,X-Water,-,Ribbon (Stop/Petrify/Death),-
+Suriander,2400,-,450,399,X-Ice,-,Amulet (Sleep/Muddle/Bserk),-
+Wart Puck,3600,-,900,799,X-Ice,-,Amulet (Sleep/Muddle/Bserk),-
+Adamantite,1200,100,350,299,X-Ice,-,-,Safe
+Adamantoid,1600,100,450,399,X-Ice,-,-,Safe
+Chimera,3000,-,2000,999,-,O-Fire/Water,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Manticore,6000,-,3000,1249,-,O-Fire/Water,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Sphinx,9000,-,4000,1499,-,O-Fire/Water,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Behemoth,5000,-,1500,133,X-Ice,O-Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Diablos,10000,-,3000,249,X-Ice,O-Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Intangir,25000,-,5000,499,X-Ice,O-Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Mesosaur,600,100,125,199,X-Ice,-,-,-
+Raptor,3000,100,500,299,X-Ice,-,-,-
+Tyrano,9000,-,4000,299,X-Ice,O-Earth/Wind,All,-
+Brontosaur,12000,-,5000,399,X-Ice,O-Earth/Wind,All,-
+Flan,300,-,300,249,-,O-Element (All but Dark/Holy),All,Regen
+Tofu,600,-,450,449,-,O-Element (All but Dark/Holy),All,Regen
+Troll,2500,100,500,499,X-Fire,-,-,-
+Ahriman,7500,300,2000,299,X-Bolt,-,-,Float
+Pug,2000,500,500,99,X-Fire,O-Earth/Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Tonberry,20000,1000,1500,999,X-Fire,O-Earth/Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Master T,40000,1500,3000,1999,X-Fire,O-Earth/Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Sand Worm,10000,-,2500,49,X-Ice/Water,O-Earth/Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Land Worm,20000,-,5000,149,X-Ice/Water,O-Earth/Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Zone Eater,50000,-,-,-,X-Ice/Water,O-Earth/Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Tek Armor,250,-,100,199,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Safe
+Mega Armor,500,-,250,499,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Safe
+Robomech,7500,-,1000,999,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Safe
+Spitfire,1200,-,250,249,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Float
+Sky Armor,2400,-,500,499,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Float
+Autobot,4800,-,1500,999,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Float
+Proto Man,1000,-,500,449,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Safe
+Arsenal,7000,-,2000,849,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Safe
+Telstar,1500,-,250,199,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Float
+Chaser,3000,-,1000,599,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Float
+Searcher,6000,-,2500,999,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Float
+Cyborg,1000,-,250,349,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Regen + Float (blocks Sap)
+Robot,1500,-,350,549,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Regen + Float (blocks Sap)
+Android,3000,-,550,749,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Regen + Float (blocks Sap)
+Mag Roader,1000,-,350,249,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Haste (blocks Slow)
+Hot Wheels,5000,-,700,649,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Haste (blocks Slow)
+Mag Roadie,500,-,150,199,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Haste (blocks Slow)
+Low Rider,2500,-,450,499,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Haste (blocks Slow)
+Io,5000,-,5000,1499,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Rflect
+WEAPON,15000,-,10000,1999,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Rflect
+Warmech,25000,-,20000,2499,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Rflect
+Lv.1 Mage,2000,300,300,199,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Lv.2 Mage,2500,300,350,299,X-Dark,-,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Lv.3 Mage,3000,300,400,399,X-Dark/Bolt,O-Water/Wind,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),Float
+Lv.4 Mage,4000,300,450,499,X-Dark,O-Fire,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Lv.5 Mage,5000,500,500,599,X-Holy/Fire,O-(Dark),Undead (All but Death/Stop),-
+Lv.6 Mage,6000,500,600,699,X-Dark,-,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Lv.7 Mage,7000,500,700,799,X-Dark,-,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),Float
+Lv.8 Mage,7500,500,800,899,X-Dark,-,Amulet + Ribbon (Sleep/Muddle/Bserk/Stop/Petrify/Death),-
+Lv.9 Mage,8000,1000,900,999,X-Holy/Water,O-(Fire/Dark),Undead (All but Death/Stop),-
+Magic Pot,1000,-,100,1999,-,O-(Element),-,Rflect
+Whelk,???,-,???,-,X-Fire,O-(Bolt),All + HP%,-
+Chesticle,???,-,???,-,X-Fire,O-(Bolt),All + HP%,-
+Vargas,???,-,-,-,X-Dark,-,All + HP%,-
+Dadaluma,???,-,-,-,X-Dark,-,All + HP%,-
+Ultros,???,-,-,-,X-Fire/Bolt,O-Water,All + HP%,-
+Chupon,???,-,-,-,X-Bolt,O-Wind,All + HP%,Float
+Hell Angel,???,???,???,-,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Shell
+Prometheus,18000,1000,3000,333,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Shell
+Soul Train,???,???,???,-,X-Holy/Fire,O-(Dark),Undead/All + HP%,-
+Shiva,???,???,-,-,X-Fire,O-(Ice),All + HP%,-
+Ifrit,???,???,-,-,X-Ice/Water,O-(Fire),All + HP%,-
+Number 024,???,???,???,-,(???),(???),All + HP%,Regen
+MagiMaster,???,???,???,-,(???),(???),All + HP%,Regen
+Number 128,???,???,???,-,X-Bolt/Water,O-Dark/Holy,All + HP%,-
+Number 128 (Arms),???,???,???,-,(???),(???),All + HP%,Regen
+Crane,???,???,-,-,X-Bolt/Water,O-Dark/Holy,All + HP%,-
+Heartfire,???,???,???,-,X-Ice/Water,O-(Fire),All + HP%,Float
+IAF,???,-,???,-,X-Bolt/Water,O-Dark/Holy,All + HP%,Float
+IAF (Bays),???,-,???,-,X-Bolt/Water,O-Dark/Holy,All + HP%,Float
+Atma,???,???,???,-,X-Ice,O-Earth,All + HP%,Regen
+Ultima,???,???,???,-,X-Ice,O-Earth,All + HP%,Regen
+Tentacle A,???,???,-,-,X-Water,O-(Bolt),All,Regen
+Tentacle B,???,???,-,-,X-Bolt,O-(Water),All,Haste
+Tentacle C,???,???,-,-,X-Fire,O-(Ice),All,Safe
+Tentacle D,???,???,-,-,X-Ice/Water,O-(Fire),All,Shell
+Dullahan,???,???,???,-,X-Holy/Fire,O-(Dark),Undead/All + HP%,-
+Didalos,20000,1000,4000,666,X-Holy/Fire,O-(Dark),Undead + Ribbon (All),-
+Phunbaba,???,-,???,-,X-Fire,O-Wind,All + HP%,-
+Ogre Nix,15000,-,4000,999,X-Fire,O-Wind,All,-
+Chadarnook,???,???,???,-,X-Holy/Fire,O-(Dark),Undead/All + HP%,-
+Tritoch,???,???,-,-,X-Fire,O-(Ice/Bolt),All + HP%,-
+Yeti,???,-,???,-,X-Fire,O-Ice/Wind,All + HP%,-
+Curly,???,???,???,-,X-Dark,-,All + HP%,Float
+Larry,???,???,???,-,X-Dark,-,All + HP%,-
+Moe,???,???,???,-,X-Dark,-,All + HP%,-
+Wrexsoul,???,???,???,-,X-Holy/Water,O-(Fire/Dark),Undead/All + HP%,-
+Soulblazer,???,???,-,-,X-Holy/Water,O-(Fire/Dark),Undead/All + HP%,-
+Hidon,???,???,???,-,X-Holy/Fire,O-(Dark),Undead/All + HP%,Regen
+Hidonites,???,???,-,-,X-Holy/Fire,O-(Dark),Undead + Ribbon (All),-
+Doom Gaze,???,???,???,-,X-Holy/Fire,O-(Dark),All + HP%,Float
+Guardian,???,???,-,-,X-Bolt/Water,O-Dark/Holy,All + HP%,Regen
+Purple-D,???,???,???,-,X-Bolt,O-(Wind),All + HP%,Float
+Silver-D,???,???,???,-,X-Fire,O-(Ice),All + HP%,Float
+Blue-D,???,???,???,-,X-Bolt,O-(Water),All + HP%,Float
+Gold-D,???,???,???,-,X-Water,O-(Bolt),All + HP%,Float
+Red-D,???,???,???,-,X-Ice/Water,O-(Fire),All +HP%,-
+Brown-D,???,???,???,-,X-Water,O-(Earth),All +HP%,-
+White-D,???,???,???,-,X-Dark,O-(Holy),Undead/All + HP%,-
+Green-D,???,???,???,-,X-Holy/Fire,O-(Dark),Undead/All + HP%,-
+All Elements,???,???,???,-,-,-,All + HP%,Float
+The Triad,???,???,???,-,-,O-(Fire),All + HP%,Haste
+The Triad,???,???,???,-,-,O-(Bolt),All + HP%,Shell
+The Triad,???,???,???,-,-,O-(Ice),All + HP%,Safe
+The End (I),???,???,-,-,X-Fire,-,All + HP%,-
+The End (I),???,???,-,-,X-Ice,-,All + HP%,-
+The End (I),???,???,-,-,X-Bolt,-,All + HP%,-
+The End (II),???,???,-,-,X-Fire/Ice,-,All + HP%,-
+The End (II),???,???,-,-,X-Bolt/Water,-,All + HP%,-
+The End (II),???,???,-,-,X-Earth/Wind,O-(Fire/Ice/Bolt),All + HP%,-
+The End (II),???,???,-,-,X-Dark/Holy,-,All + HP%,-
+The End (III),???,???,-,-,X-Dark,O-(Element),All + HP%,-
+The End (III),???,???,-,-,X-Holy,-,All + HP%,-
+Chaos...?,???,???,-,-,-,-,All + HP%,Regen + Haste + Float
