@@ -18,10 +18,9 @@ This directory contains:
 
 If you didn't know, csv means "comma separated values".
 
-you want to add a new table, create a csv file and keep it with the rest of them in this directory.
+To add a new table, create a csv file and keep it with the rest of them in this directory.
 
 The first line should be the heading.
-The first entry of every heading line should be "name"
 Each line should have the same number of entries separated by commas.
 You should avoud using a comma inside of an entry, as the program that reads the csv will be confused by this. I use a semicolon in place of a comma if I need to.
 
