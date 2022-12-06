@@ -97,7 +97,7 @@ Bear with me as I explain what each of these files is for. I will go step by ste
 
 - `head.txt` - The code above `<div id="mainTable">`.
 - `index.html` - Once the dev server is running, this page will generate `<div id="mainTable">` -- that is, the container that will have all the html for all of the tables inserted into it.
-- `mainTable-raw.html` - This is where you copy the outerHTML of `<div id="mainTable">` to generate the full size.
+- `mainTable-raw.html` - This is where you copy the outerHTML of `<div id="mainTable">` to generate the full page.
 - `script.js` - This is the logic that will load when you open `index.html` in your browser (once the dev server is running)
 - `tail.txt` - The code below `<div id="mainTable">`.
 - `json/` - This is where all the json files, both those manually created and those genereated by `csv2json` will exist.
@@ -135,7 +135,7 @@ Notice two things.
 
 #### Staring a development server
 
-You will need to start a development web server. This is because in order for us to fetch the json files with javascript, we have to trick the browser into seeing our files asa  website on the internet and not a file on our computer.
+You will need to start a development web server. This is because in order for us to fetch the json files with javascript, we have to trick the browser into seeing our files as a  website on the internet and not a file on our computer.
 
 You can use any web server that you would like.
 Make sure that you navigate to the `generator/` directory before using this command.
@@ -156,7 +156,7 @@ Find the inspector, right click on `<div id="mainTable">` > select Copy > and Co
 
 This will copy all of the HTML to your clipboard
 
-Now open `generator/mainTable-raw.html`, which should be an empty file, and copy all this html into it. It will a huge amount of HTML all one one line. Just save and close the file.
+Now open `generator/mainTable-raw.html`, which should be an empty file (if it is not empty, make it empty), and copy all this html into it. It will be a huge amount of HTML all on one line. Just save and close the file.
 
 #### Adding the Toggle Checkbox
 
