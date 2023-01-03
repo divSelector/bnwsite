@@ -1,0 +1,65 @@
+Rage,Weakness,Block/(Absorb),Status Resistance,Innate
+Adamantite,-,-,-,Safe
+Albatross,X-Bolt,-,-,Float
+Anemone,X-Fire/Ice,O-(Bolt/Water),Plant (All but Sleep),Shell
+Antlion,-,-,-,-
+Behemoth,X-Ice,O-Fire/Wind,Sleep/Muddle/Berserk + Stop/Petrify/Death,-
+Belladonna,X-Fire/Holy/Ice,O-(Dark/Water),Undead (All but Death),Undead
+Bomb,X-Ice/Water,O-(Fire),All,Sap + Float
+Brainpan,X-Water,O-Fire/Earth,Stop/Petrify/Death,Safe
+Buffalax,-,-,Stop/Petrify/Death,-
+Cephalid,X-Fire/Bolt,O-Water,-,Shell
+Chickenlip,X-Ice,-,-,-
+Chimera,-,O-Fire/Water,Sleep/Muddle/Berserk + Stop/Petrify/Death,-
+Conjurer,X-Dark,-,Sleep/Muddle/Berserk,-
+Crawler,X-Fire,-,-,-
+Doggo,-,-,-,-
+Exocite,X-Fire/Bolt,O-Water,-,-
+Eye Goo,X-Fire,-,-,-
+Flan,-,O-Element (All but Dark/Holy),All,Regen
+Gargoyle,-,O-Earth,Sleep/Muddle/Berserk,-
+Griffin,X-Bolt,-,Sleep/Muddle/Berserk + Stop/Petrify/Death,Float
+Grizzly,X-Fire,O-Wind,-,-
+Hornet,X-Fire,-,-,Haste + Float
+Io,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Reflect
+Jinn,X-Fire/Holy,O-(Dark),Undead (All but Death),Shell + Undead/Float
+Kudzu,X-Fire/Ice,O-(Water),Plant (All but Sleep),-
+Leafer,X-Fire,-,-,Haste
+Lich,X-Fire/Holy,O-(Dark),Undead (All but Death),Undead
+Locust,X-Fire,-,-,Float
+Magic Pot,-,O-(Element) (All but Dark/Holy),All,Reflect
+Mantodea,X-Fire,-,-,-
+Marlboro,X-Fire,O-(Water),Plant (All but Sleep),-
+Mesosaur,X-Ice,-,-,-
+Nastidon,X-Fire,O-Ice/Wind,-,-
+Ninja,X-Dark,O-Fire,Stop/Petrify/Death,Haste
+Onion Kid,X-Dark/Bolt,-,Stop/Petrify/Death,Safe
+Osteosaur,X-Fire/Holy,O-(Dark),Undead (All but Death),Undead
+Rain Man,X-Dark/Bolt,O-Water/Wind,Sleep/Muddle/Berserk,Float
+Raven,X-Bolt,-,-,Float
+Repo Man,X-Dark,-,-,Shell
+Revenant,X-Fire/Holy,O-(Dark),Undead (All but Death),Undead
+Rhydon,X-Ice,O-Bolt/Earth,-,-
+Rocky,X-Fire,-,-,-
+Sand Ray,X-Ice,-,-,-
+Scarab,X-Ice,-,-,-
+Scrapper,X-Dark,-,-,-
+Sewer Rat,X-Fire,-,-,-
+Shokan,X-Dark,-,-,-
+Soldier,X-Dark,-,-,-
+Spirit,X-Fire/Holy,O-(Dark),Undead (All but Death),Undead/Float
+Stray Cat,X-Water,-,-,-
+Tek Armor,X-Bolt/Water,O-Dark/Holy,Machine (All but Blind),Safe
+Templar,X-Dark/Water,-,Sleep/Muddle/Berserk + Stop/Petrify/Death,Safe/Shell
+Titan,X-Dark,O-Earth,Sleep/Muddle/Berserk + Stop/Petrify/Death,-
+Troll,X-Fire,-,-,-
+Tumbleweed,X-Fire/Ice,O-(Water),Plant (All but Sleep),-
+Tyrano,X-Ice,O-Earth/Wind,All,-
+Vagrant,X-Dark,-,-,-
+Vaporite,X-Fire,O-(Bolt),All,Regen + Float
+Vulture,X-Bolt,-,-,Float
+Weedula,X-Fire/Holy,O-(Dark/Water),Undead (All but Death),Safe/Shell + Undead
+Werewolf,X-Fire,O-Ice,-,-
+Windrunner,X-Bolt,-,-,Haste
+Witch,X-Dark,-,Sleep/Muddle/Berserk,Float
+Zombone,X-Fire/Holy,O-(Dark),Undead (All but Death),Undead

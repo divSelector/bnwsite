@@ -1,33 +1,65 @@
-Rage,Targeting,Power,Evade,Type,Description...
-Absolute 0,All Foes,120,-,Ice,-
-Acid Rain,All Foes,30,-,Water,May set Sap
-Aero,All Foes,75,M.Eva,Wind,May set Sap
-Air Blast,Free,-,Stam,Wind,Damage = (HP *1/2)
-Atomic Ray,One Foe,90,M.Eva,Non-elemental,Unreflectable
-Barrier,One Ally,-,-,-,Sets Shell/Rflect unreflectable
-Bio Blast,Foe Group,45,-,Dark,May set Poison
-Blight,Foe Group,45,M.Eva,Dark/Wind,May set Poison; *(1/2 on multi-target)
-Blink,One Ally,-,-,-,Sets Image/Haste
-Brown Note,One Foe,60,M.Eva,Non-elemental,May set random negative status
-Diffuser,All Foes,90,M.Eva,Bolt,*(1/2 on multi-target)
-Discharge,All Foes,75,M.Eva,Bolt,-
-Exploder,All Foes,-,-,Non-elemental,Damage = caster's (current) HP (if used via Rage: * 2.5)
-Fireball,Foe Group,60,M.Eva,Fire,May set Sap; *(1/2 on multi-target)
-Firestorm,All Foes,50,-,Fire/Water,-
-Flash Rain,All Foes,60,-,Bolt/Water,-
-Gale Cut,All Foes,25,M.Eva,Wind,-
-Giga Volt,One Foe,120,M.Eva,Bolt/Wind,May set Sap
-Glare,One Foe,-,Stam,-,Sets Petrify (will miss on Clear targets)
-Landslide,All Foes,60,-,Earth,Ground attack; may set Slow
-Lode Stone,One Foe,-,Stam,Earth,Damage = (HP *5/8); sets Slow
-Magnitude,All Foes,100,-,Earth,Ground attack; *(1/2 on multi-target)
-Mega Volt,Free,30,M.Eva,Bolt/Wind,May set Sap
-Meteo,All Foes,60,M.Eva,Non-elemental,Ignores defense. Low accuracy
-Net,One Foe,-,Stam,-,Sets Slow/Stop
-Rock,Free,100,(!)Eva,Stamina-based,Low accuracy; may set Muddle; (!) = see Tentacle
-Shrapnel,Foe Group,150,(!)Eva,Stamina-based,*(1/2 on multi-target); (!) = see Tentacle
-Snowball,Foe Group,50,M.Eva,Ice,May set Slow; *(1/2 on multi-target)
-Starlight,All Foes,60,M.Eva,Non-elemental,May set Blind
-Step Mine,One Foe,-,M.Eva,Non-elemental,Damage rises with number of steps taken
-Tentacle,Free,120,(!)Eva,Stamina-based,(!) = physical attack if used by enemy; magical otherwise
-Vanish,One Ally,-,-,-,Sets Clear
+Rage,2/3 Odds,Targeting,Power,Description,1/3 Odds,Targeting,Power,Description
+Adamantite,(Attack),Single,Fight,2x damage,Holy Wind,Party,-,Cures HP; Amount healed = caster’s (current) HP
+Albatross,Fireball,Foe Group,60,Fire damage (1/2 damage on multi-target); may set “Sap”,(Attack),Single,Fight,2x damage
+Anemone,Discharge,All Foes,75,Bolt damage,(Attack),Single,Fight,Sets “Poison”
+Antlion,(Attack),Single,Fight,Sets “Stop” (no dmg),Snare,One Foe,-,Instant death; no stamina evasion
+Behemoth,(Attack),Single,Fight,2x damage,Meteo,All Foes,60,Ignores defense; low accuracy
+Belladonna,Moonlight,All Foes,90,Holy damage (1/2 damage on multi-target),Raid,One Foe,25,Steals HP/MP; ignores defense; unreflectable
+Bomb,Exploder,All Foes,-,Damage = 2.5x caster’s (current) HP,Exploder,All Foes,-,Damage = 2.5x caster’s (current) HP
+Brainpan,Blow Fish,One Foe,-,Physical damage; damage = 1,000,Rerise,One Ally,-,Sets “Rerise”
+Buffalax,Landslide,All Foes,60,Earth damage; ground attack; may set “Slow”,(Attack),Single,Fight,3x damage
+Cephalid,Tentacle,Free,120,Stamina-based damage (1/2 damage on multi-target),(Attack),Single,Fight,Sets “Slow”
+Chickenlip,(Attack),Single,Fight,Sets “Muddle”,Net,One Foe,-,Sets “Slow”/”Stop”
+Chimera,Aqualung,All Foes,36,Water damage,Fireball,Foe Group,60,Fire damage (1/2 damage on multi-target); may set “Sap”
+Conjurer,Rerise,One Ally,-,Sets “Rerise”,(Attack),Single,Fight,Sets “Sap”
+Crawler,Magnitude,All Foes,100,Earth damage (1/2 damage on multi-target); ground attack,(Attack),Single,Fight,Steals HP
+Doggo,(Attack),Single,Fight,3x damage,Step Mine,One Foe,-,Non-elemental damage; damage rises with number of steps taken
+Exocite,Rock,Free,100,Stamina-based damage; low hit%; may set “Muddle”,(Attack),Single,Fight,2x damage
+Eye Goo,Lode Stone,One Foe,-,Damage = (HP*5/8); sets “Slow”,Glare,One Foe,-,Sets “Petrify”
+Flan,Life,One Ally,-,Revive fallen ally; revives to 250-500 HP,SlowX,Foe Group,-,Sets “Slow”
+Gargoyle,Sun Bath,Party,20,Cures HP (stamina-based),Quake,All,50,Earth damage; ground attack
+Griffin,Giga Volt,One Foe,120,Bolt/Wind damage; may set “Sap”,Air Blast,Free,-,Wind damage; damage = (HP*1/2)
+Grizzly,Cave In,One Foe,-,Earth damage; damage = (HP*3/4); sets “Sap”,(Attack),Single,Fight,3x damage
+Hornet,(Attack),Single,Fight,3x damage,Blink,One Ally,-,Sets “Image”/”Haste”
+Io,Atomic Ray,One Foe,90,Non-elemental damage; unreflectable,Diffuser,All Foes,90,Bolt damage (1/2 damage on multi-target)
+Jinn,Discord,One Foe,-,Sets “Muddle”/”Bserk”,(Attack),Single,Fight,Sets “Mute”
+Kudzu,Raid,One Foe,25,Steals HP/MP; ignores defense; unreflectable,RegenX,Ally Group,10,Cures HP (stamina-based); sets “Regen”
+Leafer,Wind Slash,All Foes,50,Wind damage,Air Blast,Free,-,Wind damage; damage = (HP*1/2)
+Lich,Rasp,Single,25,MP damage,Elf Fire,One Foe,72,Fire damage
+Locust,Gale Cut,All Foes,25,Wind damage,Mirage,Party,-,Randomly sets “Image” (odds = 1/2)
+Magic Pot,Cure,Free,10,Cures HP (1/2 damage on multi-target),(Attack),Single,Fight,4x damage
+Mantodea,Shrapnel,Foe Group,150,Stamina-based damage (1/2 damage on multi-target),(Attack),Single,Fight,Sets “Sap”
+Marlboro,Bio Blast,Foe Group,45,Dark damage; sets “Poison”,Bad Breath,Foe Group,-,Sets “Poison”/”Blind”/”Mute”
+Mesosaur,Holy Wind,Party,-,Cures HP; Amount healed = caster’s (current) HP,Magnitude,All Foes,100,Earth damage (1/2 damage on multi-target); ground attack
+Nastidon,Snowball,Foe Group,50,Ice damage (1/2 damage on multi-target); may set “Slow”,Absolute 0,All Foes,120,Ice damage
+Ninja,Wave Scroll,All Foes,100,Water damage (1/2 damage on multi-target),Vanish,One Ally,-,Sets “Clear”
+Onion Kid,Brown Note,One Foe,60,Non-elemental damage; may set random negative status,(Attack),Single,Fight,Sets “Bserk”
+Osteosaur,Doom,Single,-,Instant death; Ineffective on undead,(Attack),Single,Fight,Sets “Petrify” (no dmg)
+Rain Man,Acid Rain,All Foes,30,Water damage; may set “Sap”,Bolt 2,Free,66,Bolt damage (1/2 damage on multi-target)
+Raven,Break,Single,40,Wind damage; ignores defense,(Attack),Single,Fight,Sets “Sleep”
+Repo Man,Step Mine,One Foe,-,Non-elemental damage; damage rises with number of steps taken,Vanish,One Ally,-,Sets “Clear”
+Revenant,Holy,Single,48,Holy damage; ignores defense,Blaze,Free,42,Fire/Wind damage; may set “Blind”/”Sap”
+Rhydon,(Attack),Single,Fight,2x damage,Sun Bath,Party,20,Cures HP (stamina-based)
+Rocky,Harvester,Party,10,Cures HP (stamina-based); lifts most bad statuses,Rock,Free,100,Stamina-based damage; low hit%; may set “Muddle”
+Sand Ray,Sand Storm,All Foes,42,Earth/Wind damage; may set “Blind”,(Attack),Single,Fight,2x damage
+Scarab,Starlight,All Foes,60,Non-elemental damage; may set “Blind”,Mega Volt,Free,30,Bolt/Wind damage (1/2 damage on multi-target); may set “Sap”
+Scrapper,(Attack),Single,Fight,2x damage,Chakra,Allies,-,Cures MP (stamina-based)
+Sewer Rat,Poison,Free,60,Dark damage; sets “Poison”,(Attack),Single,Fight,Sets “Poison”
+Shokan,Dark,Single,90,Dark damage,Raze,One Foe,75,Fire/Wind damage; may set ”Sap”
+Soldier,Cure 2,Free,25,Cures HP (1/2 damage on multi-target),(Attack),Single,Fight,2x damage
+Spirit,Demi,Single,-,Earth damage; damage = (HP*1/2),Quartr,Foe Group,-,Earth damage; damage = (HP*3/4)
+Stray Cat,Snowball,Foe Group,50,Ice damage (1/2 damage on multi-target); may set “Slow”,(Attack),Single,Fight,3x damage
+Tek Armor,Barrier,One Ally,-,Sets “Shell”/”Rflect”; unreflectable,(Attack),Single,Fight,2x damage
+Templar,(Attack),Single,Fight,3x damage,Remedy,One Ally,15,Cures HP (stamina-based); lifts most bad statuses
+Titan,Avalanche,One Foe,60,Earth damage; ignores defense,(Attack),Single,Fight,3x damage
+Troll,(Attack),Single,Fight,3x damage,Refract,One Ally,-,Sets “Image”/”Rflect”; unreflectable
+Tumbleweed,Cure 3,Free,40,Cures HP (1/2 damage on multi-target),(Attack),Single,Fight,Steals HP
+Tyrano,(Attack),Single,Fight,3x damage,Firestorm,All Foes,45,Fire/Water damage
+Vagrant,Flash Rain,All Foes,60,Bolt/Water damage,(Attack),Single,Fight,2x damage
+Vaporite,Plasma,One Foe,72,Bolt/Water damage,(Attack),Single,Fight,Sets “Blind” (no dmg)
+Vulture,Razor Leaf,All Foes,100,Earth/Wind damage (1/2 damage on multi-target),Harvester,Party,10,Cures HP (stamina-based); lifts most bad statuses
+Weedula,Quake,All,50,Earth damage; ground attack,Razor Leaf,All Foes,100,Earth/Wind damage (1/2 damage on multi-target)
+Werewolf,(Attack),Single,Fight,3x damage,Regen,One Ally,10,Cures HP (stamina-based); sets “Regen”
+Windrunner,Aero,All Foes,75,Wind damage; may set “Sap”,Blight,Foe Group,45,Dark/Wind damage (1/2 damage on multi-target); may set “Poison”
+Witch,Refract,One Ally,-,Sets “Image”/”Rflect”; unreflectable,Fire 3,Free,108,Fire damage (1/2 damage on multi-target)
+Zombone,Cave In,One Foe,-,Earth damage; damage = (HP*3/4); sets “Sap”,(Attack),Single,Fight,Sets “Zombie“ (no dmg)
