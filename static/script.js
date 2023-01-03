@@ -53,7 +53,6 @@ const toggleIds = Array.from(
         'ul.single-table-checkboxes li input'
     )
 ).map(elem => "#" + elem.id)
-console.log(toggleIds)
 
 // Add event listener to checkbox Paired with table
 for (let toggleId of toggleIds) {
@@ -64,4 +63,12 @@ for (let toggleId of toggleIds) {
         if (!tElem.classList.contains('hide')) toggleTable(tElem, false)
         else toggleTable(tElem, true)
     })
+}
+
+function uncheckAll() {
+    for (let toggleId of toggleIds) {
+        if (document.querySelector(toggleId).checked == true) {
+            toggleTable(document.querySelector(toggleId.replace('toggle-', '')), false)
+        }
+    }
 }
