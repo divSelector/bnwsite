@@ -1,0 +1,457 @@
+[
+    {
+        "name": "Rage",
+        "weakness": "Weakness",
+        "block_absorb": "Block/(Absorb)",
+        "resistance": "Status Resistance",
+        "innate": "Innate"
+    },
+    {
+        "name": "Adamantite",
+        "weakness": "-",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "Safe"
+    },
+    {
+        "name": "Albatross",
+        "weakness": "X-Bolt",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "Float"
+    },
+    {
+        "name": "Anemone",
+        "weakness": "X-Fire/Ice",
+        "block_absorb": "O-(Bolt/Water)",
+        "resistance": "Plant (All but Sleep)",
+        "innate": "Shell"
+    },
+    {
+        "name": "Antlion",
+        "weakness": "-",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Behemoth",
+        "weakness": "X-Ice",
+        "block_absorb": "O-Fire/Wind",
+        "resistance": "Sleep/Muddle/Berserk + Stop/Petrify/Death",
+        "innate": "-"
+    },
+    {
+        "name": "Belladonna",
+        "weakness": "X-Fire/Holy/Ice",
+        "block_absorb": "O-(Dark/Water)",
+        "resistance": "Undead (All but Death)",
+        "innate": "Undead"
+    },
+    {
+        "name": "Bomb",
+        "weakness": "X-Ice/Water",
+        "block_absorb": "O-(Fire)",
+        "resistance": "All",
+        "innate": "Sap + Float"
+    },
+    {
+        "name": "Brainpan",
+        "weakness": "X-Water",
+        "block_absorb": "O-Fire/Earth",
+        "resistance": "Stop/Petrify/Death",
+        "innate": "Safe"
+    },
+    {
+        "name": "Buffalax",
+        "weakness": "-",
+        "block_absorb": "-",
+        "resistance": "Stop/Petrify/Death",
+        "innate": "-"
+    },
+    {
+        "name": "Cephalid",
+        "weakness": "X-Fire/Bolt",
+        "block_absorb": "O-Water",
+        "resistance": "-",
+        "innate": "Shell"
+    },
+    {
+        "name": "Chickenlip",
+        "weakness": "X-Ice",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Chimera",
+        "weakness": "-",
+        "block_absorb": "O-Fire/Water",
+        "resistance": "Sleep/Muddle/Berserk + Stop/Petrify/Death",
+        "innate": "-"
+    },
+    {
+        "name": "Conjurer",
+        "weakness": "X-Dark",
+        "block_absorb": "-",
+        "resistance": "Sleep/Muddle/Berserk",
+        "innate": "-"
+    },
+    {
+        "name": "Crawler",
+        "weakness": "X-Fire",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Doggo",
+        "weakness": "-",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Exocite",
+        "weakness": "X-Fire/Bolt",
+        "block_absorb": "O-Water",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Eye Goo",
+        "weakness": "X-Fire",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Flan",
+        "weakness": "-",
+        "block_absorb": "O-Element (All but Dark/Holy)",
+        "resistance": "All",
+        "innate": "Regen"
+    },
+    {
+        "name": "Gargoyle",
+        "weakness": "-",
+        "block_absorb": "O-Earth",
+        "resistance": "Sleep/Muddle/Berserk",
+        "innate": "-"
+    },
+    {
+        "name": "Griffin",
+        "weakness": "X-Bolt",
+        "block_absorb": "-",
+        "resistance": "Sleep/Muddle/Berserk + Stop/Petrify/Death",
+        "innate": "Float"
+    },
+    {
+        "name": "Grizzly",
+        "weakness": "X-Fire",
+        "block_absorb": "O-Wind",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Hornet",
+        "weakness": "X-Fire",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "Haste + Float"
+    },
+    {
+        "name": "Io",
+        "weakness": "X-Bolt/Water",
+        "block_absorb": "O-Dark/Holy",
+        "resistance": "Machine (All but Blind)",
+        "innate": "Reflect"
+    },
+    {
+        "name": "Jinn",
+        "weakness": "X-Fire/Holy",
+        "block_absorb": "O-(Dark)",
+        "resistance": "Undead (All but Death)",
+        "innate": "Shell + Undead/Float"
+    },
+    {
+        "name": "Kudzu",
+        "weakness": "X-Fire/Ice",
+        "block_absorb": "O-(Water)",
+        "resistance": "Plant (All but Sleep)",
+        "innate": "-"
+    },
+    {
+        "name": "Leafer",
+        "weakness": "X-Fire",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "Haste"
+    },
+    {
+        "name": "Lich",
+        "weakness": "X-Fire/Holy",
+        "block_absorb": "O-(Dark)",
+        "resistance": "Undead (All but Death)",
+        "innate": "Undead"
+    },
+    {
+        "name": "Locust",
+        "weakness": "X-Fire",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "Float"
+    },
+    {
+        "name": "Magic Pot",
+        "weakness": "-",
+        "block_absorb": "O-(Element) (All but Dark/Holy)",
+        "resistance": "All",
+        "innate": "Reflect"
+    },
+    {
+        "name": "Mantodea",
+        "weakness": "X-Fire",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Marlboro",
+        "weakness": "X-Fire",
+        "block_absorb": "O-(Water)",
+        "resistance": "Plant (All but Sleep)",
+        "innate": "-"
+    },
+    {
+        "name": "Mesosaur",
+        "weakness": "X-Ice",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Nastidon",
+        "weakness": "X-Fire",
+        "block_absorb": "O-Ice/Wind",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Ninja",
+        "weakness": "X-Dark",
+        "block_absorb": "O-Fire",
+        "resistance": "Stop/Petrify/Death",
+        "innate": "Haste"
+    },
+    {
+        "name": "Onion Kid",
+        "weakness": "X-Dark/Bolt",
+        "block_absorb": "-",
+        "resistance": "Stop/Petrify/Death",
+        "innate": "Safe"
+    },
+    {
+        "name": "Osteosaur",
+        "weakness": "X-Fire/Holy",
+        "block_absorb": "O-(Dark)",
+        "resistance": "Undead (All but Death)",
+        "innate": "Undead"
+    },
+    {
+        "name": "Rain Man",
+        "weakness": "X-Dark/Bolt",
+        "block_absorb": "O-Water/Wind",
+        "resistance": "Sleep/Muddle/Berserk",
+        "innate": "Float"
+    },
+    {
+        "name": "Raven",
+        "weakness": "X-Bolt",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "Float"
+    },
+    {
+        "name": "Repo Man",
+        "weakness": "X-Dark",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "Shell"
+    },
+    {
+        "name": "Revenant",
+        "weakness": "X-Fire/Holy",
+        "block_absorb": "O-(Dark)",
+        "resistance": "Undead (All but Death)",
+        "innate": "Undead"
+    },
+    {
+        "name": "Rhydon",
+        "weakness": "X-Ice",
+        "block_absorb": "O-Bolt/Earth",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Rocky",
+        "weakness": "X-Fire",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Sand Ray",
+        "weakness": "X-Ice",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Scarab",
+        "weakness": "X-Ice",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Scrapper",
+        "weakness": "X-Dark",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Sewer Rat",
+        "weakness": "X-Fire",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Shokan",
+        "weakness": "X-Dark",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Soldier",
+        "weakness": "X-Dark",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Spirit",
+        "weakness": "X-Fire/Holy",
+        "block_absorb": "O-(Dark)",
+        "resistance": "Undead (All but Death)",
+        "innate": "Undead/Float"
+    },
+    {
+        "name": "Stray Cat",
+        "weakness": "X-Water",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Tek Armor",
+        "weakness": "X-Bolt/Water",
+        "block_absorb": "O-Dark/Holy",
+        "resistance": "Machine (All but Blind)",
+        "innate": "Safe"
+    },
+    {
+        "name": "Templar",
+        "weakness": "X-Dark/Water",
+        "block_absorb": "-",
+        "resistance": "Sleep/Muddle/Berserk + Stop/Petrify/Death",
+        "innate": "Safe/Shell"
+    },
+    {
+        "name": "Titan",
+        "weakness": "X-Dark",
+        "block_absorb": "O-Earth",
+        "resistance": "Sleep/Muddle/Berserk + Stop/Petrify/Death",
+        "innate": "-"
+    },
+    {
+        "name": "Troll",
+        "weakness": "X-Fire",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Tumbleweed",
+        "weakness": "X-Fire/Ice",
+        "block_absorb": "O-(Water)",
+        "resistance": "Plant (All but Sleep)",
+        "innate": "-"
+    },
+    {
+        "name": "Tyrano",
+        "weakness": "X-Ice",
+        "block_absorb": "O-Earth/Wind",
+        "resistance": "All",
+        "innate": "-"
+    },
+    {
+        "name": "Vagrant",
+        "weakness": "X-Dark",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Vaporite",
+        "weakness": "X-Fire",
+        "block_absorb": "O-(Bolt)",
+        "resistance": "All",
+        "innate": "Regen + Float"
+    },
+    {
+        "name": "Vulture",
+        "weakness": "X-Bolt",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "Float"
+    },
+    {
+        "name": "Weedula",
+        "weakness": "X-Fire/Holy",
+        "block_absorb": "O-(Dark/Water)",
+        "resistance": "Undead (All but Death)",
+        "innate": "Safe/Shell + Undead"
+    },
+    {
+        "name": "Werewolf",
+        "weakness": "X-Fire",
+        "block_absorb": "O-Ice",
+        "resistance": "-",
+        "innate": "-"
+    },
+    {
+        "name": "Windrunner",
+        "weakness": "X-Bolt",
+        "block_absorb": "-",
+        "resistance": "-",
+        "innate": "Haste"
+    },
+    {
+        "name": "Witch",
+        "weakness": "X-Dark",
+        "block_absorb": "-",
+        "resistance": "Sleep/Muddle/Berserk",
+        "innate": "Float"
+    },
+    {
+        "name": "Zombone",
+        "weakness": "X-Fire/Holy",
+        "block_absorb": "O-(Dark)",
+        "resistance": "Undead (All but Death)",
+        "innate": "Undead"
+    }
+]

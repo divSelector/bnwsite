@@ -47,12 +47,12 @@ for fstem in [f.stem for f in Path.cwd().glob('*.csv')]:
         DataStructure = Enemy
     if "slot" in fstem.lower():
         DataStructure = SlotSkill
-    if "dance" and "action" in fstem.lower():
+    if "dance-actions" in fstem.lower():
         DataStructure = Skill
-    if "rage" and "mode" in fstem.lower():
-        DataStructure = RageMode
-    if "rage" and "action" in fstem.lower():
-        DataStructure = Skill
+    if "rage-actions" in fstem.lower():
+        DataStructure = RageAction
+    if "rage-prop" in fstem.lower():
+        DataStructure = RageProp
 
     # Insert Your Condition Here
 

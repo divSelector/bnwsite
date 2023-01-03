@@ -22,13 +22,26 @@ class Skill:
     damage: str
     description: str
 
+@dataclass
+class RageAction:
+    name: str
+    two_thirds_odds: str
+    two_thirds_targeting: str
+    two_thirds_power: str
+    two_thirds_descrip: str
+    one_third_odds: str
+    one_third_targeting: str
+    one_third_power: str
+    one_third_descrip: str
+
 
 @dataclass
-class RageMode:
+class RageProp:
     name: str
-    attack_bonus: str
-    two_third_odds: str
-    one_third_odss: str
+    weakness: str
+    block_absorb: str
+    resistance: str
+    innate: str
 
 
 @dataclass

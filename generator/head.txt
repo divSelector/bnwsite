@@ -90,8 +90,8 @@
           <label for="toggle-rage-actions">Rage Actions</label>
         </li>
         <li>
-          <input id="toggle-rage-modes" type="checkbox" checked="checked" />
-          <label for="toggle-rage-modes">Rage Modes</label>
+          <input id="toggle-rage-properties" type="checkbox" checked="checked" />
+          <label for="toggle-rage-properties">Rage Modes</label>
         </li>
         <li>
           <input id="toggle-slots" type="checkbox" checked="checked" />

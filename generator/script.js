@@ -86,7 +86,7 @@ const jsonFiles = [
     'json/dance-modes.json',
     'json/lore.json',
     'json/rage-actions.json',
-    'json/rage-modes.json',
+    'json/rage-properties.json',
     'json/slots.json',
     'json/thrown.json',
     'json/tools.json',

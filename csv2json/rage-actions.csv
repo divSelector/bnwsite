@@ -6,7 +6,7 @@ Antlion,(Attack),Single,Fight,Sets “Stop” (no dmg),Snare,One Foe,-,Instant d
 Behemoth,(Attack),Single,Fight,2x damage,Meteo,All Foes,60,Ignores defense; low accuracy
 Belladonna,Moonlight,All Foes,90,Holy damage (1/2 damage on multi-target),Raid,One Foe,25,Steals HP/MP; ignores defense; unreflectable
 Bomb,Exploder,All Foes,-,Damage = 2.5x caster’s (current) HP,Exploder,All Foes,-,Damage = 2.5x caster’s (current) HP
-Brainpan,Blow Fish,One Foe,-,Physical damage; damage = 1,000,Rerise,One Ally,-,Sets “Rerise”
+Brainpan,Blow Fish,One Foe,-,Physical damage; damage = 1000,Rerise,One Ally,-,Sets “Rerise”
 Buffalax,Landslide,All Foes,60,Earth damage; ground attack; may set “Slow”,(Attack),Single,Fight,3x damage
 Cephalid,Tentacle,Free,120,Stamina-based damage (1/2 damage on multi-target),(Attack),Single,Fight,Sets “Slow”
 Chickenlip,(Attack),Single,Fight,Sets “Muddle”,Net,One Foe,-,Sets “Slow”/”Stop”
