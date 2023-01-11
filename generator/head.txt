@@ -42,8 +42,7 @@
     </header>
     <main>
       <form id="top">
-          <!--<label for="mainInput">Filter Table by Input</label>
-          <input type="text" id="mainInput">-->
+      <button id="uncheck-all" type="button" value="uncheck all" onclick="uncheckAll();">Uncheck All</button>
       <ul class="single-table-checkboxes">
         <li>
           <input id="toggle-magic-black" type="checkbox" checked="checked" />
@@ -63,7 +62,7 @@
         </li>
         <li>
           <input id="toggle-esper-boons" type="checkbox" checked="checked" />
-          <label for="toggle-esper-boons">Esper Boons</label>
+          <label for="toggle-esper-boons">Esper Equip Bonus</label>
         </li>
         <li>
           <input id="toggle-blitz" type="checkbox" checked="checked" />
@@ -147,7 +146,7 @@
         </li>
         <li>
           <input id="toggle-towns" type="checkbox" checked="checked" />
-          <label for="toggle-towns">Towns</label>
+          <label for="toggle-towns">Shops</label>
         </li>
 
       <!--  Insert Your Toggle Checkbox  -->
